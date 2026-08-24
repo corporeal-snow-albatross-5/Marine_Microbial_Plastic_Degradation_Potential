@@ -18,63 +18,63 @@ import cartopy.feature as cfeature
 
 DATASETS = [
     {
-        "name": "Oxidoreductase",
+        "name": "Oxidoreductase (UOM43036.1)",
         "prefix": "oxidoreductase",
         "geo_file": "Oxidoreductase_geographic_locations.csv",
         "meta_file": "Oxidoreductase_isolation_metadata_standardized.xlsx",
         "color": "#FFFB00",  # yellow
     },
     {
-        "name": "Poly(3-hydroxybutyrate) depolymerase",
+        "name": "Poly(3-hydroxybutyrate) depolymerase (LC127088.1)",
         "prefix": "poly3hb_depolymerase",
         "geo_file": "Poly(3-hydroxybutyrate)Depolymerase_geographic_locations.csv",
         "meta_file": "Poly(3-hydroxybutyrate)Depolymerase_isolation_metadata_standardized.xlsx",
         "color": "#009E3F",  # green
     },
     {
-        "name": "Glutathione peroxidase WP_026826575.1",
+        "name": "Glutathione peroxidase (WP_026826575.1)",
         "prefix": "gpx_wp_026826575_1",
         "geo_file": "GlutathionePeroxidase(WP_026826575.1)_geographic_locations.csv",
         "meta_file": "GlutathionePeroxidase(WP_026826575.1)_isolation_metadata_standardized.xlsx",
         "color": "#0072B2",  # blue
     },
     {
-        "name": "Glutathione peroxidase WP_003945816.1",
+        "name": "Glutathione peroxidase (WP_003945816.1)",
         "prefix": "gpx_wp_003945816_1",
         "geo_file": "GlutathionePeroxidase(WP_003945816.1)_geographic_locations.csv",
         "meta_file": "GlutathionePeroxidase(WP_003945816.1)_isolation_metadata_standardized.xlsx",
         "color": "#42d4f4",  # cyan
     },
     {
-        "name": "PHB",
+        "name": "PHB depolymerase (AAB40611.1)",
         "prefix": "phb",
         "geo_file": "PHB_geographic_locations.csv",
         "meta_file": "PHB_isolation_metadata_standardized.xlsx",
         "color": "#8E63CE",  # purple
     },
     {
-        "name": "Laccase",
+        "name": "Laccase (UVG67878.1)",
         "prefix": "laccase",
         "geo_file": "Laccase_geographic_locations.csv",
         "meta_file": "Laccase_isolation_metadata_standardized.xlsx",
         "color": "#7B3E1B",  # brown
     },
     {
-        "name": "PHA",
+        "name": "MCL PHA depolymerase (AAQ72538.1)",
         "prefix": "pha",
         "geo_file": "PHA_geographic_locations.csv",
         "meta_file": "PHA_isolation_metadata_standardized.xlsx",
         "color": "#F079BA",  # pink
     },
     {
-        "name": "PETase184",
+        "name": "PETase (UUT36763.1)",
         "prefix": "petase184",
         "geo_file": "PETase184_geographic_locations.csv",
         "meta_file": "PETase184_metadata_standardized.xlsx",
         "color": "#FF0808",  # red
     },
     {
-        "name": "PETase183",
+        "name": "PETase (UUT36764.1)",
         "prefix": "petase183",
         "geo_file": "PETase183_geographic_locations.csv",
         "meta_file": "PETase183_metadata_standardized.xlsx",
@@ -155,7 +155,7 @@ ENV_ORDER = [
 
 
 # =========================================================
-# YOUR SAVED MARKER SCALE
+# MARKER SCALE
 # =========================================================
 
 MARKER_SCALE = {
@@ -208,7 +208,7 @@ LABEL_SIZE = 12
 
 
 # =========================================================
-# YOUR SAVED LABEL LOCATIONS
+# LABEL LOCATIONS
 # =========================================================
 
 CONTINENT_LABELS = [
