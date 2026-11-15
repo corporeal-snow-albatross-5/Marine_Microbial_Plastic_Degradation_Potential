@@ -1,0 +1,1812 @@
+family	reference_accession	query_id	role	marker_accession	marker	marker_role	has_marker	best_evalue
+GPx_WP_003945816.1	WP_003945816.1	WP_003945816.1	reference	cd00340	GSH_Peroxidase	primary	TRUE	5.02783e-82
+GPx_WP_003945816.1	WP_003945816.1	WP_070379564.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.51777e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_127945803.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	8.46629e-86
+GPx_WP_003945816.1	WP_003945816.1	WP_127955491.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.37152e-85
+GPx_WP_003945816.1	WP_003945816.1	WP_050066444.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.11992e-82
+GPx_WP_003945816.1	WP_003945816.1	WP_169688273.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.52117e-85
+GPx_WP_003945816.1	WP_003945816.1	WP_305093932.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.366e-85
+GPx_WP_003945816.1	WP_003945816.1	WP_169647600.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.32565e-82
+GPx_WP_003945816.1	WP_003945816.1	WP_338889646.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	8.69775e-85
+GPx_WP_003945816.1	WP_003945816.1	WP_269417429.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.08889e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_462665568.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.56183e-81
+GPx_WP_003945816.1	WP_003945816.1	WP_374700635.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.38004e-82
+GPx_WP_003945816.1	WP_003945816.1	WP_374222415.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.74273e-81
+GPx_WP_003945816.1	WP_003945816.1	WP_269744637.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.24237e-81
+GPx_WP_003945816.1	WP_003945816.1	WP_457222775.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.72793e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_422744644.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	6.42274e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_255058471.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.30959e-80
+GPx_WP_003945816.1	WP_003945816.1	WP_079924327.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.98497e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_142555396.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.77309e-86
+GPx_WP_003945816.1	WP_003945816.1	WP_124278333.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	9.95053e-87
+GPx_WP_003945816.1	WP_003945816.1	WP_265994625.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.87334e-82
+GPx_WP_003945816.1	WP_003945816.1	WP_099020684.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.51706e-84
+GPx_WP_003945816.1	WP_003945816.1	WP_103760023.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.03277e-86
+GPx_WP_003945816.1	WP_003945816.1	WP_003945816.1	reference	COG0386	BtuE	secondary	TRUE	3.81221e-101
+GPx_WP_003945816.1	WP_003945816.1	WP_070379564.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.14319e-102
+GPx_WP_003945816.1	WP_003945816.1	WP_127945803.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.20129e-106
+GPx_WP_003945816.1	WP_003945816.1	WP_127955491.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.0677e-104
+GPx_WP_003945816.1	WP_003945816.1	WP_050066444.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	4.34855e-101
+GPx_WP_003945816.1	WP_003945816.1	WP_169688273.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.40643e-103
+GPx_WP_003945816.1	WP_003945816.1	WP_305093932.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.14778e-104
+GPx_WP_003945816.1	WP_003945816.1	WP_169647600.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	4.60944e-101
+GPx_WP_003945816.1	WP_003945816.1	WP_338889646.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.45244e-102
+GPx_WP_003945816.1	WP_003945816.1	WP_269417429.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.55038e-101
+GPx_WP_003945816.1	WP_003945816.1	WP_462665568.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.51549e-99
+GPx_WP_003945816.1	WP_003945816.1	WP_374700635.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.76649e-99
+GPx_WP_003945816.1	WP_003945816.1	WP_374222415.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.48913e-98
+GPx_WP_003945816.1	WP_003945816.1	WP_269744637.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.97257e-98
+GPx_WP_003945816.1	WP_003945816.1	WP_457222775.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.46622e-106
+GPx_WP_003945816.1	WP_003945816.1	WP_422744644.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.04558e-104
+GPx_WP_003945816.1	WP_003945816.1	WP_255058471.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	8.21802e-100
+GPx_WP_003945816.1	WP_003945816.1	WP_079924327.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.954e-106
+GPx_WP_003945816.1	WP_003945816.1	WP_142555396.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.53769e-107
+GPx_WP_003945816.1	WP_003945816.1	WP_124278333.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.03346e-106
+GPx_WP_003945816.1	WP_003945816.1	WP_265994625.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	4.14859e-103
+GPx_WP_003945816.1	WP_003945816.1	WP_099020684.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.83709e-105
+GPx_WP_003945816.1	WP_003945816.1	WP_103760023.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	2.13523e-105
+GPx_WP_026826575.1	WP_026826575.1	WP_026826575.1	reference	cd00340	GSH_Peroxidase	primary	TRUE	2.02584e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_214739526.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.5209e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_499824088.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.7282e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_214747832.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.53768e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_215244196.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.48511e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_214794421.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.93327e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_214875247.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.33639e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_215142194.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	6.39246e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_214827836.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.25821e-101
+GPx_WP_026826575.1	WP_026826575.1	WP_214762277.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.49002e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_372779777.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.25675e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_486772909.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	6.35082e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_290592511.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	7.80735e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_372748028.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.21269e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_138127256.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.53295e-101
+GPx_WP_026826575.1	WP_026826575.1	WP_101892728.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.71604e-96
+GPx_WP_026826575.1	WP_026826575.1	WP_042205621.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.24817e-102
+GPx_WP_026826575.1	WP_026826575.1	WP_044748373.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.25111e-105
+GPx_WP_026826575.1	WP_026826575.1	WP_108437753.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.55485e-108
+GPx_WP_026826575.1	WP_026826575.1	WP_290579410.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.49587e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_423419467.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.5272e-102
+GPx_WP_026826575.1	WP_026826575.1	WP_087913571.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	9.24681e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_085758778.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.87025e-96
+GPx_WP_026826575.1	WP_026826575.1	WP_189478192.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.75005e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_222463053.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	8.67533e-99
+GPx_WP_026826575.1	WP_026826575.1	WP_011759196.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.03945e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_233806466.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.37138e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_203326402.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	9.67212e-101
+GPx_WP_026826575.1	WP_026826575.1	WP_303983512.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.64402e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_291017879.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.00543e-103
+GPx_WP_026826575.1	WP_026826575.1	WP_279243352.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.95102e-97
+GPx_WP_026826575.1	WP_026826575.1	WP_338776667.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.21362e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_342822418.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	9.78856e-102
+GPx_WP_026826575.1	WP_026826575.1	WP_211558611.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	5.72245e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_312748170.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.65122e-96
+GPx_WP_026826575.1	WP_026826575.1	WP_068153195.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	8.44725e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_486329016.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.12107e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_163636080.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	3.38296e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_305904215.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.48016e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_490404818.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.07833e-103
+GPx_WP_026826575.1	WP_026826575.1	WP_133213762.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.58335e-100
+GPx_WP_026826575.1	WP_026826575.1	WP_422848402.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	2.86316e-103
+GPx_WP_026826575.1	WP_026826575.1	WP_421563200.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	4.56167e-104
+GPx_WP_026826575.1	WP_026826575.1	WP_249700801.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.48582e-102
+GPx_WP_026826575.1	WP_026826575.1	WP_203293554.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	1.74494e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_281647015.1	marine_BLASTP_homolog	cd00340	GSH_Peroxidase	primary	TRUE	6.30296e-98
+GPx_WP_026826575.1	WP_026826575.1	WP_026826575.1	reference	COG0386	BtuE	secondary	TRUE	1.97533e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_214739526.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.80517e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_499824088.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.18037e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_214747832.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.37783e-109
+GPx_WP_026826575.1	WP_026826575.1	WP_215244196.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.71094e-109
+GPx_WP_026826575.1	WP_026826575.1	WP_214794421.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.98709e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_214875247.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.52242e-108
+GPx_WP_026826575.1	WP_026826575.1	WP_215142194.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	2.30774e-109
+GPx_WP_026826575.1	WP_026826575.1	WP_214827836.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.5512e-113
+GPx_WP_026826575.1	WP_026826575.1	WP_214762277.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.61213e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_372779777.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.4061e-114
+GPx_WP_026826575.1	WP_026826575.1	WP_486772909.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.29058e-115
+GPx_WP_026826575.1	WP_026826575.1	WP_290592511.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.45012e-114
+GPx_WP_026826575.1	WP_026826575.1	WP_372748028.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.91373e-112
+GPx_WP_026826575.1	WP_026826575.1	WP_138127256.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	7.1188e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_101892728.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.13274e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_042205621.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.06159e-114
+GPx_WP_026826575.1	WP_026826575.1	WP_044748373.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	2.19148e-119
+GPx_WP_026826575.1	WP_026826575.1	WP_108437753.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	2.34766e-120
+GPx_WP_026826575.1	WP_026826575.1	WP_290579410.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.26645e-112
+GPx_WP_026826575.1	WP_026826575.1	WP_423419467.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	4.0396e-113
+GPx_WP_026826575.1	WP_026826575.1	WP_087913571.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.70418e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_085758778.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.34959e-113
+GPx_WP_026826575.1	WP_026826575.1	WP_189478192.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.64743e-112
+GPx_WP_026826575.1	WP_026826575.1	WP_222463053.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.76489e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_011759196.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.15222e-113
+GPx_WP_026826575.1	WP_026826575.1	WP_233806466.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.81204e-115
+GPx_WP_026826575.1	WP_026826575.1	WP_203326402.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.63529e-114
+GPx_WP_026826575.1	WP_026826575.1	WP_303983512.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.68414e-110
+GPx_WP_026826575.1	WP_026826575.1	WP_291017879.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	7.27813e-116
+GPx_WP_026826575.1	WP_026826575.1	WP_279243352.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.31803e-108
+GPx_WP_026826575.1	WP_026826575.1	WP_338776667.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.03369e-108
+GPx_WP_026826575.1	WP_026826575.1	WP_342822418.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.47208e-112
+GPx_WP_026826575.1	WP_026826575.1	WP_211558611.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	6.64126e-108
+GPx_WP_026826575.1	WP_026826575.1	WP_312748170.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.9742e-107
+GPx_WP_026826575.1	WP_026826575.1	WP_068153195.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.69812e-117
+GPx_WP_026826575.1	WP_026826575.1	WP_486329016.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.55942e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_163636080.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.79949e-107
+GPx_WP_026826575.1	WP_026826575.1	WP_305904215.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.91751e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_490404818.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.90082e-115
+GPx_WP_026826575.1	WP_026826575.1	WP_133213762.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	3.13937e-114
+GPx_WP_026826575.1	WP_026826575.1	WP_422848402.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	5.33286e-115
+GPx_WP_026826575.1	WP_026826575.1	WP_421563200.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.99337e-116
+GPx_WP_026826575.1	WP_026826575.1	WP_249700801.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	1.13126e-112
+GPx_WP_026826575.1	WP_026826575.1	WP_203293554.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	9.20997e-111
+GPx_WP_026826575.1	WP_026826575.1	WP_281647015.1	marine_BLASTP_homolog	COG0386	BtuE	secondary	TRUE	7.85543e-109
+Laccase	UVG67878.1	UVG67878.1	reference	pfam07732	Cu-oxidase_3	primary	TRUE	1.37291e-44
+Laccase	UVG67878.1	WP_483284391.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.48917e-44
+Laccase	UVG67878.1	WP_298906696.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.12965e-44
+Laccase	UVG67878.1	WP_201628412.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.92537e-44
+Laccase	UVG67878.1	WP_372828779.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.07987e-43
+Laccase	UVG67878.1	WP_238036692.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.56602e-43
+Laccase	UVG67878.1	WP_464753840.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.4412e-43
+Laccase	UVG67878.1	WP_372843729.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.49406e-44
+Laccase	UVG67878.1	WP_352339194.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.58123e-44
+Laccase	UVG67878.1	WP_371532333.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.18653e-43
+Laccase	UVG67878.1	WP_200662746.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.15845e-45
+Laccase	UVG67878.1	WP_198327676.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.32153e-44
+Laccase	UVG67878.1	WP_223332682.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.55417e-42
+Laccase	UVG67878.1	WP_277078041.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.08594e-42
+Laccase	UVG67878.1	WP_265090687.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.98187e-44
+Laccase	UVG67878.1	WP_058025816.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.08571e-43
+Laccase	UVG67878.1	WP_320154178.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.85202e-44
+Laccase	UVG67878.1	WP_201555270.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.56507e-43
+Laccase	UVG67878.1	WP_455705530.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	9.41823e-46
+Laccase	UVG67878.1	WP_201620353.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.46551e-45
+Laccase	UVG67878.1	WP_289000163.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.53189e-45
+Laccase	UVG67878.1	WP_472781948.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	8.15279e-45
+Laccase	UVG67878.1	WP_201545234.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.80769e-45
+Laccase	UVG67878.1	WP_289047145.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.32153e-44
+Laccase	UVG67878.1	WP_201604737.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.00473e-45
+Laccase	UVG67878.1	WP_160022867.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.77985e-43
+Laccase	UVG67878.1	WP_420230577.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.14273e-43
+Laccase	UVG67878.1	WP_277350418.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.97312e-43
+Laccase	UVG67878.1	WP_057760058.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.07114e-44
+Laccase	UVG67878.1	WP_298810856.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.22858e-44
+Laccase	UVG67878.1	WP_197102965.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.58903e-43
+Laccase	UVG67878.1	WP_379544292.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	8.73685e-44
+Laccase	UVG67878.1	WP_320158565.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.58903e-43
+Laccase	UVG67878.1	WP_320157866.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.54063e-43
+Laccase	UVG67878.1	WP_290177258.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.90312e-44
+Laccase	UVG67878.1	WP_339343431.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.14562e-43
+Laccase	UVG67878.1	WP_464754084.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.96435e-44
+Laccase	UVG67878.1	WP_320158633.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.02622e-44
+Laccase	UVG67878.1	WP_320157573.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.5487e-44
+Laccase	UVG67878.1	WP_296206776.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.13069e-43
+Laccase	UVG67878.1	WP_352259758.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.09901e-43
+Laccase	UVG67878.1	WP_425355847.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.1865e-43
+Laccase	UVG67878.1	WP_474738338.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.00627e-43
+Laccase	UVG67878.1	WP_350655890.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.98192e-45
+Laccase	UVG67878.1	WP_474726537.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.9345e-43
+Laccase	UVG67878.1	WP_102094145.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.60626e-44
+Laccase	UVG67878.1	WP_320157998.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.41865e-43
+Laccase	UVG67878.1	WP_290176533.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.31985e-43
+Laccase	UVG67878.1	WP_296211063.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.16493e-43
+Laccase	UVG67878.1	WP_224737936.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.93658e-43
+Laccase	UVG67878.1	WP_068034901.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.91012e-45
+Laccase	UVG67878.1	WP_269117530.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.08873e-44
+Laccase	UVG67878.1	WP_218870164.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.29291e-43
+Laccase	UVG67878.1	WP_068326517.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.986e-45
+Laccase	UVG67878.1	WP_465183798.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.09901e-43
+Laccase	UVG67878.1	WP_201569653.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.68807e-43
+Laccase	UVG67878.1	WP_201566452.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.15606e-44
+Laccase	UVG67878.1	WP_057758566.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.93286e-43
+Laccase	UVG67878.1	WP_347162359.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.47971e-44
+Laccase	UVG67878.1	WP_201551533.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.46748e-44
+Laccase	UVG67878.1	WP_075107101.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.55638e-42
+Laccase	UVG67878.1	WP_320108710.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.1795e-42
+Laccase	UVG67878.1	WP_186475538.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.3648e-42
+Laccase	UVG67878.1	WP_350560759.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.07182e-43
+Laccase	UVG67878.1	WP_320157780.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.77669e-43
+Laccase	UVG67878.1	WP_299185249.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.38932e-44
+Laccase	UVG67878.1	WP_323128914.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.30563e-43
+Laccase	UVG67878.1	WP_413190037.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.30563e-43
+Laccase	UVG67878.1	WP_367103962.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.25064e-45
+Laccase	UVG67878.1	WP_289116025.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.74539e-42
+Laccase	UVG67878.1	WP_198336790.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.77906e-45
+Laccase	UVG67878.1	WP_367109097.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.9638e-45
+Laccase	UVG67878.1	WP_275691788.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.59619e-42
+Laccase	UVG67878.1	WP_367106850.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.31635e-45
+Laccase	UVG67878.1	WP_289116019.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.86352e-45
+Laccase	UVG67878.1	WP_223334656.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.35494e-45
+Laccase	UVG67878.1	WP_334222014.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.66441e-44
+Laccase	UVG67878.1	WP_240216656.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.01087e-44
+Laccase	UVG67878.1	WP_025645679.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.58541e-45
+Laccase	UVG67878.1	WP_025653160.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.19321e-43
+Laccase	UVG67878.1	WP_430285161.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.48075e-45
+Laccase	UVG67878.1	WP_367111693.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.38722e-44
+Laccase	UVG67878.1	WP_472781992.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.75457e-45
+Laccase	UVG67878.1	WP_201551691.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.58951e-44
+Laccase	UVG67878.1	WP_201593649.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.19725e-44
+Laccase	UVG67878.1	WP_228284712.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.63999e-41
+Laccase	UVG67878.1	WP_276529530.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	9.66456e-42
+Laccase	UVG67878.1	WP_212564402.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	8.26754e-45
+Laccase	UVG67878.1	WP_201582213.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.56615e-44
+Laccase	UVG67878.1	WP_201577598.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.32352e-43
+Laccase	UVG67878.1	WP_075103633.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.66521e-45
+Laccase	UVG67878.1	WP_201567718.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.69696e-44
+Laccase	UVG67878.1	WP_299069681.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.01948e-44
+Laccase	UVG67878.1	WP_348654209.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.01665e-44
+Laccase	UVG67878.1	WP_201572231.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.11947e-44
+Laccase	UVG67878.1	WP_284719438.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.18715e-44
+Laccase	UVG67878.1	WP_298980165.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.16287e-44
+Laccase	UVG67878.1	WP_201600875.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.28948e-44
+Laccase	UVG67878.1	WP_352287807.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.14555e-43
+Laccase	UVG67878.1	WP_300406665.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.79484e-44
+Laccase	UVG67878.1	WP_474735469.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.28948e-44
+Laccase	UVG67878.1	WP_299330080.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	9.95847e-45
+Laccase	UVG67878.1	WP_435979993.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.11338e-44
+Laccase	UVG67878.1	WP_286740907.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.13436e-43
+Laccase	UVG67878.1	WP_305899991.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.43455e-44
+Laccase	UVG67878.1	WP_435949448.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.80626e-43
+Laccase	UVG67878.1	WP_298974489.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.94896e-43
+Laccase	UVG67878.1	WP_298739300.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.89826e-43
+Laccase	UVG67878.1	WP_201601002.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.42952e-43
+Laccase	UVG67878.1	WP_455706373.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.05542e-44
+Laccase	UVG67878.1	WP_317053546.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.16857e-44
+Laccase	UVG67878.1	WP_299330535.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.77553e-43
+Laccase	UVG67878.1	WP_438950592.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.96974e-44
+Laccase	UVG67878.1	WP_430737341.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.34006e-44
+Laccase	UVG67878.1	WP_353104189.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.48629e-43
+Laccase	UVG67878.1	WP_288996651.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	9.8144e-44
+Laccase	UVG67878.1	WP_288999309.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.25702e-43
+Laccase	UVG67878.1	WP_238062109.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.42256e-43
+Laccase	UVG67878.1	WP_198336469.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.42985e-44
+Laccase	UVG67878.1	WP_274631640.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	6.27138e-43
+Laccase	UVG67878.1	WP_025647269.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.87344e-42
+Laccase	UVG67878.1	WP_284143884.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.14071e-45
+Laccase	UVG67878.1	WP_486543076.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.04398e-42
+Laccase	UVG67878.1	WP_486552851.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	3.7468e-42
+Laccase	UVG67878.1	WP_486529742.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.68658e-43
+Laccase	UVG67878.1	WP_491185048.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.27604e-43
+Laccase	UVG67878.1	WP_486550632.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.77575e-43
+Laccase	UVG67878.1	WP_284719828.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	FALSE	
+Laccase	UVG67878.1	WP_319822887.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.00713e-46
+Laccase	UVG67878.1	WP_487990687.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.12425e-41
+Laccase	UVG67878.1	WP_296821200.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.04509e-44
+Laccase	UVG67878.1	WP_101892447.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	8.49652e-46
+Laccase	UVG67878.1	WP_266326050.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	4.2181e-44
+Laccase	UVG67878.1	WP_269128784.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.60355e-47
+Laccase	UVG67878.1	WP_182169047.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	2.93151e-46
+Laccase	UVG67878.1	WP_473682845.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.23692e-42
+Laccase	UVG67878.1	WP_113065197.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	5.81533e-42
+Laccase	UVG67878.1	WP_301495760.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.81434e-43
+Laccase	UVG67878.1	WP_225666578.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.49527e-45
+Laccase	UVG67878.1	WP_396586513.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	1.54214e-45
+Laccase	UVG67878.1	WP_266278385.1	marine_BLASTP_homolog	pfam07732	Cu-oxidase_3	primary	TRUE	7.09334e-42
+Laccase	UVG67878.1	UVG67878.1	reference	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_483284391.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_298906696.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201628412.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_372828779.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_238036692.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_464753840.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_372843729.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_352339194.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_371532333.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_200662746.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_198327676.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_223332682.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_277078041.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_265090687.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_058025816.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320154178.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201555270.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_455705530.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201620353.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_289000163.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_472781948.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201545234.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_289047145.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201604737.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_160022867.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_420230577.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_277350418.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_057760058.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_298810856.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_197102965.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_379544292.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320158565.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320157866.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_290177258.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_339343431.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_464754084.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320158633.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320157573.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_296206776.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_352259758.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_425355847.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_474738338.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_350655890.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_474726537.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_102094145.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320157998.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_290176533.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_296211063.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_224737936.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_068034901.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_269117530.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_218870164.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_068326517.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_465183798.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201569653.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201566452.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_057758566.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_347162359.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201551533.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_075107101.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320108710.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_186475538.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_350560759.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_320157780.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_299185249.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_323128914.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_413190037.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_367103962.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_289116025.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_198336790.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_367109097.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_275691788.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_367106850.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_289116019.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_223334656.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_334222014.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_240216656.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_025645679.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_025653160.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_430285161.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_367111693.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_472781992.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201551691.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201593649.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_228284712.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_276529530.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_212564402.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201582213.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201577598.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_075103633.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201567718.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_299069681.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_348654209.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201572231.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_284719438.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_298980165.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201600875.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_352287807.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_300406665.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_474735469.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_299330080.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_435979993.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_286740907.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_305899991.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_435949448.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_298974489.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_298739300.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_201601002.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_455706373.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_317053546.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_299330535.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_438950592.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_430737341.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_353104189.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_288996651.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_288999309.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_238062109.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_198336469.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_274631640.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_025647269.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_284143884.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_486543076.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_486552851.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_486529742.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_491185048.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_486550632.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_284719828.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	4.57122e-173
+Laccase	UVG67878.1	WP_319822887.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	1.9118e-171
+Laccase	UVG67878.1	WP_487990687.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_296821200.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_101892447.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_266326050.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_269128784.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_182169047.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_473682845.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_113065197.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_301495760.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_225666578.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_396586513.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Laccase	UVG67878.1	WP_266278385.1	marine_BLASTP_homolog	TIGR01480	copper_res_A	secondary	TRUE	0
+Oxidoreductase	UOM43036.1	UOM43036.1	reference	pfam01565	FAD_binding_4	primary	TRUE	1.4289e-21
+Oxidoreductase	UOM43036.1	WP_421545704.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	4.81906e-20
+Oxidoreductase	UOM43036.1	WP_475237385.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	4.81906e-20
+Oxidoreductase	UOM43036.1	WP_052191922.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	5.17195e-20
+Oxidoreductase	UOM43036.1	WP_033578324.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	3.14604e-22
+Oxidoreductase	UOM43036.1	WP_264134298.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	2.05073e-21
+Oxidoreductase	UOM43036.1	WP_242805859.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	6.25225e-21
+Oxidoreductase	UOM43036.1	WP_222462542.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	1.0525e-20
+Oxidoreductase	UOM43036.1	WP_226537327.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	2.43456e-22
+Oxidoreductase	UOM43036.1	WP_060751247.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	1.85114e-22
+Oxidoreductase	UOM43036.1	WP_309558911.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	1.28899e-20
+Oxidoreductase	UOM43036.1	WP_474847631.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	6.49594e-19
+Oxidoreductase	UOM43036.1	WP_270180266.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	1.73467e-19
+Oxidoreductase	UOM43036.1	WP_474833637.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	4.08931e-19
+Oxidoreductase	UOM43036.1	WP_349409165.1	marine_BLASTP_homolog	pfam01565	FAD_binding_4	primary	TRUE	2.03349e-18
+Oxidoreductase	UOM43036.1	UOM43036.1	reference	COG0277	GlcD	secondary	TRUE	1.18493e-26
+Oxidoreductase	UOM43036.1	WP_421545704.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	1.66416e-27
+Oxidoreductase	UOM43036.1	WP_475237385.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	3.17315e-28
+Oxidoreductase	UOM43036.1	WP_052191922.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	3.13167e-28
+Oxidoreductase	UOM43036.1	WP_033578324.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	1.00798e-24
+Oxidoreductase	UOM43036.1	WP_264134298.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	9.47197e-31
+Oxidoreductase	UOM43036.1	WP_242805859.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	2.05535e-29
+Oxidoreductase	UOM43036.1	WP_222462542.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	6.86156e-30
+Oxidoreductase	UOM43036.1	WP_226537327.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	8.75974e-34
+Oxidoreductase	UOM43036.1	WP_060751247.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	4.05459e-30
+Oxidoreductase	UOM43036.1	WP_309558911.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	5.41955e-27
+Oxidoreductase	UOM43036.1	WP_474847631.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	5.16599e-27
+Oxidoreductase	UOM43036.1	WP_270180266.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	9.44463e-27
+Oxidoreductase	UOM43036.1	WP_474833637.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	3.19833e-27
+Oxidoreductase	UOM43036.1	WP_349409165.1	marine_BLASTP_homolog	COG0277	GlcD	secondary	TRUE	9.80647e-21
+PETase_UUT36763.1	UUT36763.1	UUT36763.1	reference	pfam12740	PETase	primary	TRUE	3.46942e-130
+PETase_UUT36763.1	UUT36763.1	WP_328185892.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.39274e-122
+PETase_UUT36763.1	UUT36763.1	WP_223655416.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.32975e-137
+PETase_UUT36763.1	UUT36763.1	WP_169406150.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.62448e-131
+PETase_UUT36763.1	UUT36763.1	WP_373184602.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.07927e-131
+PETase_UUT36763.1	UUT36763.1	WP_328185870.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.90551e-133
+PETase_UUT36763.1	UUT36763.1	WP_169407362.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.22102e-136
+PETase_UUT36763.1	UUT36763.1	WP_169407363.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.38182e-138
+PETase_UUT36763.1	UUT36763.1	WP_415055749.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.24167e-136
+PETase_UUT36763.1	UUT36763.1	WP_487154109.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.0111e-135
+PETase_UUT36763.1	UUT36763.1	WP_425221518.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.66035e-137
+PETase_UUT36763.1	UUT36763.1	WP_432569505.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.18077e-135
+PETase_UUT36763.1	UUT36763.1	WP_373185656.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.71452e-128
+PETase_UUT36763.1	UUT36763.1	WP_432569504.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.15227e-136
+PETase_UUT36763.1	UUT36763.1	WP_118131888.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.26436e-135
+PETase_UUT36763.1	UUT36763.1	WP_304640094.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.93755e-129
+PETase_UUT36763.1	UUT36763.1	WP_223655417.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.2464e-143
+PETase_UUT36763.1	UUT36763.1	WP_487155282.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.71396e-145
+PETase_UUT36763.1	UUT36763.1	WP_464382426.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.6783e-133
+PETase_UUT36763.1	UUT36763.1	WP_285677831.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	9.02684e-132
+PETase_UUT36763.1	UUT36763.1	WP_304640135.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.42771e-139
+PETase_UUT36763.1	UUT36763.1	WP_487156170.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.02346e-135
+PETase_UUT36763.1	UUT36763.1	WP_344804818.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.24768e-123
+PETase_UUT36763.1	UUT36763.1	WP_416398726.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.42854e-123
+PETase_UUT36763.1	UUT36763.1	WP_290594301.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.19806e-138
+PETase_UUT36763.1	UUT36763.1	WP_460225302.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.22269e-129
+PETase_UUT36763.1	UUT36763.1	WP_101893885.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.55873e-134
+PETase_UUT36763.1	UUT36763.1	WP_290577639.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	9.72035e-137
+PETase_UUT36763.1	UUT36763.1	WP_439133283.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.54117e-130
+PETase_UUT36763.1	UUT36763.1	WP_248941904.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.63507e-111
+PETase_UUT36763.1	UUT36763.1	WP_472617452.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.7019e-118
+PETase_UUT36763.1	UUT36763.1	WP_222911733.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.79251e-123
+PETase_UUT36763.1	UUT36763.1	WP_037003877.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.58765e-123
+PETase_UUT36763.1	UUT36763.1	WP_342405044.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.32748e-121
+PETase_UUT36763.1	UUT36763.1	WP_353410588.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.33139e-103
+PETase_UUT36763.1	UUT36763.1	WP_353352583.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.03154e-119
+PETase_UUT36763.1	UUT36763.1	WP_353348434.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.95571e-117
+PETase_UUT36763.1	UUT36763.1	WP_353348446.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.57245e-118
+PETase_UUT36763.1	UUT36763.1	WP_021018894.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.23311e-118
+PETase_UUT36763.1	UUT36763.1	WP_460403762.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.25453e-150
+PETase_UUT36763.1	UUT36763.1	WP_254715825.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.57977e-152
+PETase_UUT36763.1	UUT36763.1	WP_460238364.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	7.09787e-103
+PETase_UUT36763.1	UUT36763.1	WP_475536341.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.88172e-149
+PETase_UUT36763.1	UUT36763.1	WP_464107832.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.64663e-108
+PETase_UUT36763.1	UUT36763.1	WP_460231427.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.88903e-103
+PETase_UUT36763.1	UUT36763.1	WP_134651899.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.00132e-149
+PETase_UUT36763.1	UUT36763.1	WP_464107830.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.80383e-107
+PETase_UUT36763.1	UUT36763.1	WP_360218589.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.92992e-149
+PETase_UUT36763.1	UUT36763.1	WP_495402955.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.70599e-141
+PETase_UUT36763.1	UUT36763.1	UUT36763.1	reference	COG4188	COG4188	secondary	TRUE	3.10466e-26
+PETase_UUT36763.1	UUT36763.1	WP_328185892.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.12308e-26
+PETase_UUT36763.1	UUT36763.1	WP_223655416.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.52124e-26
+PETase_UUT36763.1	UUT36763.1	WP_169406150.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.41657e-26
+PETase_UUT36763.1	UUT36763.1	WP_373184602.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.56336e-28
+PETase_UUT36763.1	UUT36763.1	WP_328185870.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.50114e-25
+PETase_UUT36763.1	UUT36763.1	WP_169407362.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.40438e-27
+PETase_UUT36763.1	UUT36763.1	WP_169407363.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.1392e-29
+PETase_UUT36763.1	UUT36763.1	WP_415055749.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.99467e-26
+PETase_UUT36763.1	UUT36763.1	WP_487154109.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.73183e-32
+PETase_UUT36763.1	UUT36763.1	WP_425221518.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.30678e-23
+PETase_UUT36763.1	UUT36763.1	WP_432569505.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.25434e-23
+PETase_UUT36763.1	UUT36763.1	WP_373185656.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.80284e-22
+PETase_UUT36763.1	UUT36763.1	WP_432569504.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.62988e-24
+PETase_UUT36763.1	UUT36763.1	WP_118131888.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.29897e-24
+PETase_UUT36763.1	UUT36763.1	WP_304640094.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.21478e-25
+PETase_UUT36763.1	UUT36763.1	WP_223655417.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.15645e-32
+PETase_UUT36763.1	UUT36763.1	WP_487155282.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.04435e-29
+PETase_UUT36763.1	UUT36763.1	WP_464382426.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.25128e-24
+PETase_UUT36763.1	UUT36763.1	WP_285677831.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.09685e-24
+PETase_UUT36763.1	UUT36763.1	WP_304640135.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.89606e-28
+PETase_UUT36763.1	UUT36763.1	WP_487156170.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.85865e-25
+PETase_UUT36763.1	UUT36763.1	WP_344804818.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.46337e-22
+PETase_UUT36763.1	UUT36763.1	WP_416398726.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.27013e-20
+PETase_UUT36763.1	UUT36763.1	WP_290594301.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.38273e-21
+PETase_UUT36763.1	UUT36763.1	WP_460225302.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.58993e-22
+PETase_UUT36763.1	UUT36763.1	WP_101893885.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.89381e-24
+PETase_UUT36763.1	UUT36763.1	WP_290577639.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.079e-23
+PETase_UUT36763.1	UUT36763.1	WP_439133283.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.22886e-19
+PETase_UUT36763.1	UUT36763.1	WP_248941904.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.064e-19
+PETase_UUT36763.1	UUT36763.1	WP_472617452.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.37188e-27
+PETase_UUT36763.1	UUT36763.1	WP_222911733.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.34879e-24
+PETase_UUT36763.1	UUT36763.1	WP_037003877.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.78322e-24
+PETase_UUT36763.1	UUT36763.1	WP_342405044.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.0606e-24
+PETase_UUT36763.1	UUT36763.1	WP_353410588.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.70285e-12
+PETase_UUT36763.1	UUT36763.1	WP_353352583.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.71551e-22
+PETase_UUT36763.1	UUT36763.1	WP_353348434.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.73444e-22
+PETase_UUT36763.1	UUT36763.1	WP_353348446.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	9.64791e-22
+PETase_UUT36763.1	UUT36763.1	WP_021018894.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.21415e-20
+PETase_UUT36763.1	UUT36763.1	WP_460403762.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.49062e-32
+PETase_UUT36763.1	UUT36763.1	WP_254715825.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.33386e-30
+PETase_UUT36763.1	UUT36763.1	WP_460238364.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.04438e-19
+PETase_UUT36763.1	UUT36763.1	WP_475536341.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.72852e-26
+PETase_UUT36763.1	UUT36763.1	WP_464107832.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.99611e-21
+PETase_UUT36763.1	UUT36763.1	WP_460231427.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.22717e-20
+PETase_UUT36763.1	UUT36763.1	WP_134651899.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.05711e-27
+PETase_UUT36763.1	UUT36763.1	WP_464107830.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.38087e-20
+PETase_UUT36763.1	UUT36763.1	WP_360218589.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.13097e-30
+PETase_UUT36763.1	UUT36763.1	WP_495402955.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.21908e-25
+PETase_UUT36764.1	UUT36764.1	UUT36764.1	reference	pfam12740	PETase	primary	TRUE	1.10575e-129
+PETase_UUT36764.1	UUT36764.1	WP_328185892.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.39274e-122
+PETase_UUT36764.1	UUT36764.1	WP_417547160.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.68679e-138
+PETase_UUT36764.1	UUT36764.1	WP_248232622.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.33693e-130
+PETase_UUT36764.1	UUT36764.1	WP_339802429.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.36961e-134
+PETase_UUT36764.1	UUT36764.1	WP_335616960.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.7911e-133
+PETase_UUT36764.1	UUT36764.1	WP_223655416.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.32975e-137
+PETase_UUT36764.1	UUT36764.1	WP_476402585.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.52204e-137
+PETase_UUT36764.1	UUT36764.1	WP_335610197.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.76132e-136
+PETase_UUT36764.1	UUT36764.1	WP_415055749.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.24167e-136
+PETase_UUT36764.1	UUT36764.1	WP_335616959.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.49975e-136
+PETase_UUT36764.1	UUT36764.1	WP_169407362.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.22102e-136
+PETase_UUT36764.1	UUT36764.1	WP_150299537.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.87753e-136
+PETase_UUT36764.1	UUT36764.1	WP_425221518.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.66035e-137
+PETase_UUT36764.1	UUT36764.1	WP_328185870.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.90551e-133
+PETase_UUT36764.1	UUT36764.1	WP_169407363.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.38182e-138
+PETase_UUT36764.1	UUT36764.1	WP_341708199.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	7.4682e-135
+PETase_UUT36764.1	UUT36764.1	WP_353389325.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.23734e-134
+PETase_UUT36764.1	UUT36764.1	WP_335610199.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	7.62059e-132
+PETase_UUT36764.1	UUT36764.1	WP_483324069.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.74207e-138
+PETase_UUT36764.1	UUT36764.1	WP_496961921.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.93584e-133
+PETase_UUT36764.1	UUT36764.1	WP_483324068.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.01513e-137
+PETase_UUT36764.1	UUT36764.1	WP_425056760.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.35406e-135
+PETase_UUT36764.1	UUT36764.1	WP_432569504.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.15227e-136
+PETase_UUT36764.1	UUT36764.1	WP_432569505.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.18077e-135
+PETase_UUT36764.1	UUT36764.1	WP_335605360.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.16371e-140
+PETase_UUT36764.1	UUT36764.1	WP_169406150.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.62448e-131
+PETase_UUT36764.1	UUT36764.1	WP_223655417.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.2464e-143
+PETase_UUT36764.1	UUT36764.1	WP_483324067.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.41251e-136
+PETase_UUT36764.1	UUT36764.1	WP_118131888.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.26436e-135
+PETase_UUT36764.1	UUT36764.1	WP_339802426.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.32127e-125
+PETase_UUT36764.1	UUT36764.1	WP_373184602.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.07927e-131
+PETase_UUT36764.1	UUT36764.1	WP_487154109.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.0111e-135
+PETase_UUT36764.1	UUT36764.1	WP_123888242.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.09019e-125
+PETase_UUT36764.1	UUT36764.1	WP_487155282.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.71396e-145
+PETase_UUT36764.1	UUT36764.1	WP_339666415.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.71232e-126
+PETase_UUT36764.1	UUT36764.1	WP_335610198.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.57079e-134
+PETase_UUT36764.1	UUT36764.1	WP_487156170.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.02346e-135
+PETase_UUT36764.1	UUT36764.1	WP_150300936.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.63196e-130
+PETase_UUT36764.1	UUT36764.1	WP_373185656.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.71452e-128
+PETase_UUT36764.1	UUT36764.1	WP_464382426.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.6783e-133
+PETase_UUT36764.1	UUT36764.1	WP_285677831.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	9.02684e-132
+PETase_UUT36764.1	UUT36764.1	WP_338212404.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.28896e-132
+PETase_UUT36764.1	UUT36764.1	WP_335605499.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.0269e-139
+PETase_UUT36764.1	UUT36764.1	WP_339843917.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.8942e-138
+PETase_UUT36764.1	UUT36764.1	WP_339842536.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	9.84259e-131
+PETase_UUT36764.1	UUT36764.1	WP_339843916.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.45822e-139
+PETase_UUT36764.1	UUT36764.1	WP_085988667.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.00951e-126
+PETase_UUT36764.1	UUT36764.1	WP_344804818.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.24768e-123
+PETase_UUT36764.1	UUT36764.1	WP_445617810.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.24859e-136
+PETase_UUT36764.1	UUT36764.1	WP_460225302.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.22269e-129
+PETase_UUT36764.1	UUT36764.1	WP_416398726.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.42854e-123
+PETase_UUT36764.1	UUT36764.1	WP_290577639.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	9.72035e-137
+PETase_UUT36764.1	UUT36764.1	WP_101893885.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.55873e-134
+PETase_UUT36764.1	UUT36764.1	WP_439133283.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.54117e-130
+PETase_UUT36764.1	UUT36764.1	WP_290594301.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.19806e-138
+PETase_UUT36764.1	UUT36764.1	WP_277688238.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.63796e-129
+PETase_UUT36764.1	UUT36764.1	WP_139344129.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	5.71091e-115
+PETase_UUT36764.1	UUT36764.1	WP_353348434.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.95571e-117
+PETase_UUT36764.1	UUT36764.1	WP_037003877.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.58765e-123
+PETase_UUT36764.1	UUT36764.1	WP_342405044.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.32748e-121
+PETase_UUT36764.1	UUT36764.1	WP_353348446.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.57245e-118
+PETase_UUT36764.1	UUT36764.1	WP_021018894.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.23311e-118
+PETase_UUT36764.1	UUT36764.1	WP_353352583.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.03154e-119
+PETase_UUT36764.1	UUT36764.1	WP_222911733.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.79251e-123
+PETase_UUT36764.1	UUT36764.1	WP_248941904.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.63507e-111
+PETase_UUT36764.1	UUT36764.1	WP_299011092.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.59647e-109
+PETase_UUT36764.1	UUT36764.1	WP_472617452.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	4.7019e-118
+PETase_UUT36764.1	UUT36764.1	WP_334015429.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	6.27129e-117
+PETase_UUT36764.1	UUT36764.1	WP_298772618.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.6956e-110
+PETase_UUT36764.1	UUT36764.1	WP_299491006.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.12639e-108
+PETase_UUT36764.1	UUT36764.1	WP_353410588.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.33139e-103
+PETase_UUT36764.1	UUT36764.1	WP_460403762.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.25453e-150
+PETase_UUT36764.1	UUT36764.1	WP_460238364.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	7.09787e-103
+PETase_UUT36764.1	UUT36764.1	WP_460231427.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.88903e-103
+PETase_UUT36764.1	UUT36764.1	WP_475536341.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.88172e-149
+PETase_UUT36764.1	UUT36764.1	WP_254715825.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.57977e-152
+PETase_UUT36764.1	UUT36764.1	WP_360218589.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.92992e-149
+PETase_UUT36764.1	UUT36764.1	WP_464107829.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	8.95975e-107
+PETase_UUT36764.1	UUT36764.1	WP_461003215.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	3.50468e-141
+PETase_UUT36764.1	UUT36764.1	WP_134651899.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.00132e-149
+PETase_UUT36764.1	UUT36764.1	WP_250008156.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	2.07957e-142
+PETase_UUT36764.1	UUT36764.1	WP_282087093.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.27396e-148
+PETase_UUT36764.1	UUT36764.1	WP_464107832.1	marine_BLASTP_homolog	pfam12740	PETase	primary	TRUE	1.64663e-108
+PETase_UUT36764.1	UUT36764.1	UUT36764.1	reference	COG4188	COG4188	secondary	TRUE	1.20085e-26
+PETase_UUT36764.1	UUT36764.1	WP_328185892.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.12308e-26
+PETase_UUT36764.1	UUT36764.1	WP_417547160.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.19425e-28
+PETase_UUT36764.1	UUT36764.1	WP_248232622.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.15078e-28
+PETase_UUT36764.1	UUT36764.1	WP_339802429.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.50391e-26
+PETase_UUT36764.1	UUT36764.1	WP_335616960.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	9.414e-23
+PETase_UUT36764.1	UUT36764.1	WP_223655416.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.52124e-26
+PETase_UUT36764.1	UUT36764.1	WP_476402585.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.00534e-24
+PETase_UUT36764.1	UUT36764.1	WP_335610197.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.08567e-24
+PETase_UUT36764.1	UUT36764.1	WP_415055749.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.99467e-26
+PETase_UUT36764.1	UUT36764.1	WP_335616959.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.31796e-23
+PETase_UUT36764.1	UUT36764.1	WP_169407362.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.40438e-27
+PETase_UUT36764.1	UUT36764.1	WP_150299537.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.33813e-25
+PETase_UUT36764.1	UUT36764.1	WP_425221518.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.30678e-23
+PETase_UUT36764.1	UUT36764.1	WP_328185870.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.50114e-25
+PETase_UUT36764.1	UUT36764.1	WP_169407363.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.1392e-29
+PETase_UUT36764.1	UUT36764.1	WP_341708199.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.71104e-25
+PETase_UUT36764.1	UUT36764.1	WP_353389325.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.7696e-23
+PETase_UUT36764.1	UUT36764.1	WP_335610199.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.36517e-21
+PETase_UUT36764.1	UUT36764.1	WP_483324069.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.3838e-25
+PETase_UUT36764.1	UUT36764.1	WP_496961921.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.44208e-24
+PETase_UUT36764.1	UUT36764.1	WP_483324068.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.88048e-24
+PETase_UUT36764.1	UUT36764.1	WP_425056760.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	6.6406e-26
+PETase_UUT36764.1	UUT36764.1	WP_432569504.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.62988e-24
+PETase_UUT36764.1	UUT36764.1	WP_432569505.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.25434e-23
+PETase_UUT36764.1	UUT36764.1	WP_335605360.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.77939e-24
+PETase_UUT36764.1	UUT36764.1	WP_169406150.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.41657e-26
+PETase_UUT36764.1	UUT36764.1	WP_223655417.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.15645e-32
+PETase_UUT36764.1	UUT36764.1	WP_483324067.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.49208e-23
+PETase_UUT36764.1	UUT36764.1	WP_118131888.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.29897e-24
+PETase_UUT36764.1	UUT36764.1	WP_339802426.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.412e-25
+PETase_UUT36764.1	UUT36764.1	WP_373184602.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.56336e-28
+PETase_UUT36764.1	UUT36764.1	WP_487154109.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.73183e-32
+PETase_UUT36764.1	UUT36764.1	WP_123888242.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.56862e-24
+PETase_UUT36764.1	UUT36764.1	WP_487155282.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.04435e-29
+PETase_UUT36764.1	UUT36764.1	WP_339666415.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.47631e-24
+PETase_UUT36764.1	UUT36764.1	WP_335610198.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.00142e-20
+PETase_UUT36764.1	UUT36764.1	WP_487156170.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.85865e-25
+PETase_UUT36764.1	UUT36764.1	WP_150300936.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.64986e-28
+PETase_UUT36764.1	UUT36764.1	WP_373185656.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.80284e-22
+PETase_UUT36764.1	UUT36764.1	WP_464382426.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.25128e-24
+PETase_UUT36764.1	UUT36764.1	WP_285677831.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.09685e-24
+PETase_UUT36764.1	UUT36764.1	WP_338212404.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.0924e-25
+PETase_UUT36764.1	UUT36764.1	WP_335605499.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	6.01041e-27
+PETase_UUT36764.1	UUT36764.1	WP_339843917.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.23001e-27
+PETase_UUT36764.1	UUT36764.1	WP_339842536.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.52742e-23
+PETase_UUT36764.1	UUT36764.1	WP_339843916.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.68865e-27
+PETase_UUT36764.1	UUT36764.1	WP_085988667.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.91868e-25
+PETase_UUT36764.1	UUT36764.1	WP_344804818.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.46337e-22
+PETase_UUT36764.1	UUT36764.1	WP_445617810.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.6639e-20
+PETase_UUT36764.1	UUT36764.1	WP_460225302.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.58993e-22
+PETase_UUT36764.1	UUT36764.1	WP_416398726.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.27013e-20
+PETase_UUT36764.1	UUT36764.1	WP_290577639.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.079e-23
+PETase_UUT36764.1	UUT36764.1	WP_101893885.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.89381e-24
+PETase_UUT36764.1	UUT36764.1	WP_439133283.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.22886e-19
+PETase_UUT36764.1	UUT36764.1	WP_290594301.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.38273e-21
+PETase_UUT36764.1	UUT36764.1	WP_277688238.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.74665e-22
+PETase_UUT36764.1	UUT36764.1	WP_139344129.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.60266e-23
+PETase_UUT36764.1	UUT36764.1	WP_353348434.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.73444e-22
+PETase_UUT36764.1	UUT36764.1	WP_037003877.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.78322e-24
+PETase_UUT36764.1	UUT36764.1	WP_342405044.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	8.0606e-24
+PETase_UUT36764.1	UUT36764.1	WP_353348446.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	9.64791e-22
+PETase_UUT36764.1	UUT36764.1	WP_021018894.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.21415e-20
+PETase_UUT36764.1	UUT36764.1	WP_353352583.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.71551e-22
+PETase_UUT36764.1	UUT36764.1	WP_222911733.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	4.34879e-24
+PETase_UUT36764.1	UUT36764.1	WP_248941904.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.064e-19
+PETase_UUT36764.1	UUT36764.1	WP_299011092.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.10719e-18
+PETase_UUT36764.1	UUT36764.1	WP_472617452.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	5.37188e-27
+PETase_UUT36764.1	UUT36764.1	WP_334015429.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.23722e-21
+PETase_UUT36764.1	UUT36764.1	WP_298772618.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.65763e-18
+PETase_UUT36764.1	UUT36764.1	WP_299491006.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.2705e-18
+PETase_UUT36764.1	UUT36764.1	WP_353410588.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.70285e-12
+PETase_UUT36764.1	UUT36764.1	WP_460403762.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	2.49062e-32
+PETase_UUT36764.1	UUT36764.1	WP_460238364.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.04438e-19
+PETase_UUT36764.1	UUT36764.1	WP_460231427.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.22717e-20
+PETase_UUT36764.1	UUT36764.1	WP_475536341.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.72852e-26
+PETase_UUT36764.1	UUT36764.1	WP_254715825.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.33386e-30
+PETase_UUT36764.1	UUT36764.1	WP_360218589.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	3.13097e-30
+PETase_UUT36764.1	UUT36764.1	WP_464107829.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	9.21986e-21
+PETase_UUT36764.1	UUT36764.1	WP_461003215.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.54204e-25
+PETase_UUT36764.1	UUT36764.1	WP_134651899.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.05711e-27
+PETase_UUT36764.1	UUT36764.1	WP_250008156.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.53865e-31
+PETase_UUT36764.1	UUT36764.1	WP_282087093.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	7.73226e-29
+PETase_UUT36764.1	UUT36764.1	WP_464107832.1	marine_BLASTP_homolog	COG4188	COG4188	secondary	TRUE	1.99611e-21
+MCL_PHA	AAQ72538.1	AAQ72538.1	reference	COG4099	COG4099 (predicted peptidase)	primary	TRUE	2.89019e-11
+MCL_PHA	AAQ72538.1	WP_241584950.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	5.95715e-09
+MCL_PHA	AAQ72538.1	WP_256573097.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	2.50848e-12
+MCL_PHA	AAQ72538.1	WP_415754049.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	6.27585e-09
+MCL_PHA	AAQ72538.1	WP_341706354.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	3.87044e-09
+MCL_PHA	AAQ72538.1	WP_496960499.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	1.26619e-08
+MCL_PHA	AAQ72538.1	WP_324732504.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	1.47874e-09
+MCL_PHA	AAQ72538.1	WP_116368789.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	2.80594e-07
+MCL_PHA	AAQ72538.1	WP_215820801.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	2.72903e-05
+MCL_PHA	AAQ72538.1	WP_475177401.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	2.24737e-06
+MCL_PHA	AAQ72538.1	WP_165773227.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	3.41161e-05
+MCL_PHA	AAQ72538.1	WP_374031472.1	marine_BLASTP_homolog	COG4099	COG4099 (predicted peptidase)	primary	TRUE	1.6656e-11
+MCL_PHA	AAQ72538.1	AAQ72538.1	reference	COG3509	LpqC (esterase-related)	secondary	TRUE	1.91874e-08
+MCL_PHA	AAQ72538.1	WP_241584950.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	9.74915e-12
+MCL_PHA	AAQ72538.1	WP_256573097.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	4.79311e-13
+MCL_PHA	AAQ72538.1	WP_415754049.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	4.64375e-12
+MCL_PHA	AAQ72538.1	WP_341706354.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	1.32686e-10
+MCL_PHA	AAQ72538.1	WP_496960499.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	1.07247e-09
+MCL_PHA	AAQ72538.1	WP_324732504.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	7.01678e-12
+MCL_PHA	AAQ72538.1	WP_116368789.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	5.48493e-11
+MCL_PHA	AAQ72538.1	WP_215820801.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	5.06439e-08
+MCL_PHA	AAQ72538.1	WP_475177401.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	9.2806e-12
+MCL_PHA	AAQ72538.1	WP_165773227.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	8.92619e-10
+MCL_PHA	AAQ72538.1	WP_374031472.1	marine_BLASTP_homolog	COG3509	LpqC (esterase-related)	secondary	TRUE	2.34967e-14
+PHB	AAB40611.1	AAB40611.1	reference	TIGR01840	esterase_phb	primary	TRUE	5.79069e-34
+PHB	AAB40611.1	WP_133493510.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.24327e-34
+PHB	AAB40611.1	WP_485163824.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.41889e-35
+PHB	AAB40611.1	WP_416391079.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.6816e-36
+PHB	AAB40611.1	WP_317009323.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.6446e-35
+PHB	AAB40611.1	WP_244168483.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.45594e-35
+PHB	AAB40611.1	WP_474365385.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.43613e-35
+PHB	AAB40611.1	WP_316308580.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.04959e-35
+PHB	AAB40611.1	WP_474359680.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.09577e-35
+PHB	AAB40611.1	WP_423885108.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.92897e-35
+PHB	AAB40611.1	WP_485164795.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.13431e-34
+PHB	AAB40611.1	WP_228233368.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.10985e-35
+PHB	AAB40611.1	WP_194855806.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.6507e-35
+PHB	AAB40611.1	WP_228548738.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.15987e-35
+PHB	AAB40611.1	WP_473780318.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.69891e-35
+PHB	AAB40611.1	WP_204431675.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.17764e-35
+PHB	AAB40611.1	WP_410308002.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.54755e-35
+PHB	AAB40611.1	WP_423934416.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.54552e-35
+PHB	AAB40611.1	WP_485154554.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.96417e-34
+PHB	AAB40611.1	WP_473785057.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.63407e-35
+PHB	AAB40611.1	WP_474367516.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.20837e-34
+PHB	AAB40611.1	WP_473781655.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.82107e-35
+PHB	AAB40611.1	WP_410298276.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.96356e-36
+PHB	AAB40611.1	WP_475647339.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.3877e-34
+PHB	AAB40611.1	WP_475364427.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.63407e-35
+PHB	AAB40611.1	WP_474234444.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.04569e-34
+PHB	AAB40611.1	WP_194298376.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.97456e-34
+PHB	AAB40611.1	WP_101674902.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.40272e-37
+PHB	AAB40611.1	WP_229158737.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.17773e-34
+PHB	AAB40611.1	WP_416306217.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.61117e-34
+PHB	AAB40611.1	WP_043321053.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.00454e-39
+PHB	AAB40611.1	WP_062478888.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.17808e-28
+PHB	AAB40611.1	WP_406827977.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.67693e-40
+PHB	AAB40611.1	WP_069947361.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.04516e-32
+PHB	AAB40611.1	WP_414828916.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.89963e-37
+PHB	AAB40611.1	WP_218355362.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.58805e-37
+PHB	AAB40611.1	WP_008486116.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.73946e-31
+PHB	AAB40611.1	WP_464948910.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.47217e-31
+PHB	AAB40611.1	WP_417358013.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.89787e-31
+PHB	AAB40611.1	WP_214129931.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.11187e-36
+PHB	AAB40611.1	WP_487122015.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.07093e-34
+PHB	AAB40611.1	WP_353370548.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.67256e-36
+PHB	AAB40611.1	WP_417359899.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.13807e-31
+PHB	AAB40611.1	WP_218312562.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.46455e-36
+PHB	AAB40611.1	WP_050660496.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.21225e-31
+PHB	AAB40611.1	WP_346839204.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.94745e-35
+PHB	AAB40611.1	WP_303473067.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.8536e-36
+PHB	AAB40611.1	WP_303500066.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.79537e-36
+PHB	AAB40611.1	WP_246604452.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.59303e-35
+PHB	AAB40611.1	WP_216049299.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.76864e-36
+PHB	AAB40611.1	WP_460311521.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.79743e-36
+PHB	AAB40611.1	WP_342806235.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.72155e-36
+PHB	AAB40611.1	WP_390614625.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.15288e-34
+PHB	AAB40611.1	WP_105936495.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.06927e-36
+PHB	AAB40611.1	WP_258544420.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.51837e-35
+PHB	AAB40611.1	WP_232359458.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0708e-35
+PHB	AAB40611.1	WP_412725544.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.50209e-33
+PHB	AAB40611.1	WP_370240786.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.99209e-35
+PHB	AAB40611.1	WP_490711645.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.5134e-34
+PHB	AAB40611.1	WP_108566897.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.8797e-31
+PHB	AAB40611.1	WP_370164851.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.54359e-34
+PHB	AAB40611.1	WP_488798885.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91811e-34
+PHB	AAB40611.1	WP_262992133.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.01256e-37
+PHB	AAB40611.1	WP_255052969.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.35334e-34
+PHB	AAB40611.1	WP_169211550.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.68816e-38
+PHB	AAB40611.1	WP_489728994.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.32991e-35
+PHB	AAB40611.1	WP_308160236.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.36872e-37
+PHB	AAB40611.1	WP_339720544.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.82039e-32
+PHB	AAB40611.1	WP_226766338.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.4741e-33
+PHB	AAB40611.1	WP_273024228.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.8748e-33
+PHB	AAB40611.1	WP_483429720.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.57952e-33
+PHB	AAB40611.1	WP_230818297.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.69247e-33
+PHB	AAB40611.1	WP_140959234.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.62747e-34
+PHB	AAB40611.1	WP_268408416.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.91541e-39
+PHB	AAB40611.1	WP_134052912.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.48872e-33
+PHB	AAB40611.1	WP_415186404.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.4311e-33
+PHB	AAB40611.1	WP_488096027.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.53453e-33
+PHB	AAB40611.1	WP_372626301.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.39794e-35
+PHB	AAB40611.1	WP_290619885.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.99841e-34
+PHB	AAB40611.1	WP_290610051.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.617e-35
+PHB	AAB40611.1	WP_260548447.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	FALSE	
+PHB	AAB40611.1	WP_390517656.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.81004e-25
+PHB	AAB40611.1	WP_345421781.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.87174e-25
+PHB	AAB40611.1	WP_464370279.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.45384e-25
+PHB	AAB40611.1	WP_219932609.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.35473e-34
+PHB	AAB40611.1	WP_227718221.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.14665e-35
+PHB	AAB40611.1	WP_295799054.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.11124e-32
+PHB	AAB40611.1	WP_318954214.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.05012e-35
+PHB	AAB40611.1	WP_058584693.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.93354e-34
+PHB	AAB40611.1	WP_105173614.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.08425e-34
+PHB	AAB40611.1	WP_212746797.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.54091e-35
+PHB	AAB40611.1	WP_253039232.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.05503e-34
+PHB	AAB40611.1	WP_435559480.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.65068e-35
+PHB	AAB40611.1	WP_348714410.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0448e-34
+PHB	AAB40611.1	WP_462182065.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.96223e-34
+PHB	AAB40611.1	WP_239963837.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.59886e-34
+PHB	AAB40611.1	WP_349560949.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.94138e-35
+PHB	AAB40611.1	WP_294089584.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.38486e-35
+PHB	AAB40611.1	WP_138557790.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0147e-34
+PHB	AAB40611.1	WP_286260681.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.61012e-35
+PHB	AAB40611.1	WP_119853069.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.08633e-34
+PHB	AAB40611.1	WP_205994337.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.14056e-34
+PHB	AAB40611.1	WP_217702824.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.30669e-35
+PHB	AAB40611.1	WP_297330116.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.67005e-35
+PHB	AAB40611.1	WP_370317305.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.50114e-35
+PHB	AAB40611.1	WP_082873985.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.99499e-34
+PHB	AAB40611.1	WP_130052775.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.23391e-35
+PHB	AAB40611.1	WP_490386461.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.23302e-34
+PHB	AAB40611.1	WP_055197275.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.5104e-34
+PHB	AAB40611.1	WP_287244842.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.24509e-34
+PHB	AAB40611.1	WP_462147847.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.59782e-35
+PHB	AAB40611.1	WP_055021419.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.36795e-34
+PHB	AAB40611.1	WP_349274157.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.47792e-35
+PHB	AAB40611.1	WP_253048777.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.47414e-35
+PHB	AAB40611.1	WP_332393413.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.79023e-35
+PHB	AAB40611.1	WP_342409634.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.46581e-34
+PHB	AAB40611.1	WP_304636376.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.32004e-34
+PHB	AAB40611.1	WP_487986883.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.49826e-34
+PHB	AAB40611.1	WP_483432081.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.14825e-34
+PHB	AAB40611.1	WP_462175783.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.10681e-34
+PHB	AAB40611.1	WP_285220986.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.14593e-34
+PHB	AAB40611.1	WP_474704773.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.25543e-34
+PHB	AAB40611.1	WP_062565773.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.18092e-34
+PHB	AAB40611.1	WP_138686283.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.23357e-34
+PHB	AAB40611.1	WP_228482490.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.85654e-35
+PHB	AAB40611.1	WP_287205260.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.72898e-34
+PHB	AAB40611.1	WP_339981228.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.09747e-35
+PHB	AAB40611.1	WP_337117224.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.18888e-35
+PHB	AAB40611.1	WP_235374218.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.85414e-34
+PHB	AAB40611.1	WP_206004052.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+PHB	AAB40611.1	WP_300421023.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.99306e-33
+PHB	AAB40611.1	WP_348708929.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.60697e-35
+PHB	AAB40611.1	WP_209327470.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.30882e-34
+PHB	AAB40611.1	WP_235382668.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.68745e-34
+PHB	AAB40611.1	WP_371351604.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.24636e-34
+PHB	AAB40611.1	WP_294410258.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91707e-33
+PHB	AAB40611.1	WP_130167674.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.04616e-34
+PHB	AAB40611.1	WP_300358640.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91707e-33
+PHB	AAB40611.1	WP_462178957.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.03124e-33
+PHB	AAB40611.1	WP_462167324.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.93579e-33
+PHB	AAB40611.1	WP_417698834.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+PHB	AAB40611.1	WP_462168155.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.16927e-34
+PHB	AAB40611.1	WP_488035880.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.48878e-34
+PHB	AAB40611.1	WP_235377235.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.50167e-34
+PHB	AAB40611.1	WP_487054184.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.80508e-35
+PHB	AAB40611.1	WP_487117931.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.25272e-33
+PHB	AAB40611.1	WP_291610914.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.44635e-34
+PHB	AAB40611.1	WP_239845563.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.04728e-32
+PHB	AAB40611.1	WP_215964367.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.96225e-38
+PHB	AAB40611.1	WP_487539752.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.61886e-34
+PHB	AAB40611.1	WP_303521422.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.9815e-38
+PHB	AAB40611.1	WP_487093717.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.7495e-34
+PHB	AAB40611.1	WP_483313308.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.66109e-33
+PHB	AAB40611.1	WP_269970245.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.31508e-35
+PHB	AAB40611.1	WP_353537636.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.02713e-33
+PHB	AAB40611.1	WP_353517955.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.27038e-35
+PHB	AAB40611.1	WP_311580946.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.06274e-34
+PHB	AAB40611.1	WP_487943909.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.14739e-34
+PHB	AAB40611.1	WP_375185160.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.66064e-35
+PHB	AAB40611.1	WP_179025361.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.1822e-37
+PHB	AAB40611.1	WP_394202901.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.70976e-36
+PHB	AAB40611.1	WP_291624144.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.47615e-34
+PHB	AAB40611.1	WP_353410179.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.29391e-33
+PHB	AAB40611.1	WP_216054076.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.24331e-36
+PHB	AAB40611.1	WP_315947146.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.17285e-36
+PHB	AAB40611.1	WP_490032689.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.04439e-32
+PHB	AAB40611.1	WP_144035305.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.23482e-34
+PHB	AAB40611.1	WP_138319590.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.49693e-36
+PHB	AAB40611.1	AAB40611.1	reference	pfam10503	Esterase_PHB	secondary	TRUE	3.54161e-13
+PHB	AAB40611.1	WP_133493510.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.47567e-13
+PHB	AAB40611.1	WP_485163824.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.7334e-12
+PHB	AAB40611.1	WP_416391079.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.90202e-13
+PHB	AAB40611.1	WP_317009323.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.62249e-12
+PHB	AAB40611.1	WP_244168483.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.57726e-12
+PHB	AAB40611.1	WP_474365385.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.32077e-13
+PHB	AAB40611.1	WP_316308580.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.91383e-12
+PHB	AAB40611.1	WP_474359680.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.03476e-11
+PHB	AAB40611.1	WP_423885108.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+PHB	AAB40611.1	WP_485164795.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.03476e-11
+PHB	AAB40611.1	WP_228233368.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.17352e-13
+PHB	AAB40611.1	WP_194855806.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.35685e-11
+PHB	AAB40611.1	WP_228548738.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.46544e-13
+PHB	AAB40611.1	WP_473780318.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+PHB	AAB40611.1	WP_204431675.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.33137e-12
+PHB	AAB40611.1	WP_410308002.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.55663e-13
+PHB	AAB40611.1	WP_423934416.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+PHB	AAB40611.1	WP_485154554.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.18749e-11
+PHB	AAB40611.1	WP_473785057.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.71937e-11
+PHB	AAB40611.1	WP_474367516.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.40489e-11
+PHB	AAB40611.1	WP_473781655.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.74556e-11
+PHB	AAB40611.1	WP_410298276.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.1581e-13
+PHB	AAB40611.1	WP_475647339.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.11006e-11
+PHB	AAB40611.1	WP_475364427.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.74556e-11
+PHB	AAB40611.1	WP_474234444.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.70123e-11
+PHB	AAB40611.1	WP_194298376.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.42674e-11
+PHB	AAB40611.1	WP_101674902.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.74016e-12
+PHB	AAB40611.1	WP_229158737.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.02417e-14
+PHB	AAB40611.1	WP_416306217.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.94736e-11
+PHB	AAB40611.1	WP_043321053.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.46912e-13
+PHB	AAB40611.1	WP_062478888.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.94113e-11
+PHB	AAB40611.1	WP_406827977.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.5208e-13
+PHB	AAB40611.1	WP_069947361.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.27494e-09
+PHB	AAB40611.1	WP_414828916.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.31468e-13
+PHB	AAB40611.1	WP_218355362.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.75636e-14
+PHB	AAB40611.1	WP_008486116.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.13891e-13
+PHB	AAB40611.1	WP_464948910.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.35741e-13
+PHB	AAB40611.1	WP_417358013.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.03436e-12
+PHB	AAB40611.1	WP_214129931.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.85306e-12
+PHB	AAB40611.1	WP_487122015.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.4189e-15
+PHB	AAB40611.1	WP_353370548.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.09979e-11
+PHB	AAB40611.1	WP_417359899.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.22592e-12
+PHB	AAB40611.1	WP_218312562.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.48266e-14
+PHB	AAB40611.1	WP_050660496.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.03486e-13
+PHB	AAB40611.1	WP_346839204.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.45708e-09
+PHB	AAB40611.1	WP_303473067.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.27697e-13
+PHB	AAB40611.1	WP_303500066.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+PHB	AAB40611.1	WP_246604452.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.17789e-15
+PHB	AAB40611.1	WP_216049299.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+PHB	AAB40611.1	WP_460311521.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.82984e-13
+PHB	AAB40611.1	WP_342806235.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+PHB	AAB40611.1	WP_390614625.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.37246e-16
+PHB	AAB40611.1	WP_105936495.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.72901e-15
+PHB	AAB40611.1	WP_258544420.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.17789e-15
+PHB	AAB40611.1	WP_232359458.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.04916e-16
+PHB	AAB40611.1	WP_412725544.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.0064e-13
+PHB	AAB40611.1	WP_370240786.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.22202e-16
+PHB	AAB40611.1	WP_490711645.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.21094e-16
+PHB	AAB40611.1	WP_108566897.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.46684e-11
+PHB	AAB40611.1	WP_370164851.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+PHB	AAB40611.1	WP_488798885.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+PHB	AAB40611.1	WP_262992133.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.83943e-11
+PHB	AAB40611.1	WP_255052969.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.86217e-16
+PHB	AAB40611.1	WP_169211550.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.38007e-12
+PHB	AAB40611.1	WP_489728994.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.12345e-11
+PHB	AAB40611.1	WP_308160236.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.80266e-15
+PHB	AAB40611.1	WP_339720544.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.65851e-11
+PHB	AAB40611.1	WP_226766338.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+PHB	AAB40611.1	WP_273024228.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.54966e-12
+PHB	AAB40611.1	WP_483429720.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.47816e-12
+PHB	AAB40611.1	WP_230818297.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+PHB	AAB40611.1	WP_140959234.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	9.97299e-16
+PHB	AAB40611.1	WP_268408416.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.64789e-13
+PHB	AAB40611.1	WP_134052912.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+PHB	AAB40611.1	WP_415186404.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+PHB	AAB40611.1	WP_488096027.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.4438e-13
+PHB	AAB40611.1	WP_372626301.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.85673e-13
+PHB	AAB40611.1	WP_290619885.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.75173e-14
+PHB	AAB40611.1	WP_290610051.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.54188e-13
+PHB	AAB40611.1	WP_260548447.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	FALSE	
+PHB	AAB40611.1	WP_390517656.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.24744e-07
+PHB	AAB40611.1	WP_345421781.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.26122e-07
+PHB	AAB40611.1	WP_464370279.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20577e-07
+PHB	AAB40611.1	WP_219932609.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.22501e-14
+PHB	AAB40611.1	WP_227718221.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.49674e-13
+PHB	AAB40611.1	WP_295799054.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.50758e-11
+PHB	AAB40611.1	WP_318954214.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.30462e-11
+PHB	AAB40611.1	WP_058584693.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.77527e-10
+PHB	AAB40611.1	WP_105173614.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.10569e-10
+PHB	AAB40611.1	WP_212746797.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.233e-11
+PHB	AAB40611.1	WP_253039232.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+PHB	AAB40611.1	WP_435559480.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.03515e-10
+PHB	AAB40611.1	WP_348714410.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+PHB	AAB40611.1	WP_462182065.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+PHB	AAB40611.1	WP_239963837.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.05491e-10
+PHB	AAB40611.1	WP_349560949.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+PHB	AAB40611.1	WP_294089584.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.47621e-11
+PHB	AAB40611.1	WP_138557790.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+PHB	AAB40611.1	WP_286260681.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+PHB	AAB40611.1	WP_119853069.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.11734e-11
+PHB	AAB40611.1	WP_205994337.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.37057e-10
+PHB	AAB40611.1	WP_217702824.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+PHB	AAB40611.1	WP_297330116.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+PHB	AAB40611.1	WP_370317305.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.3182e-11
+PHB	AAB40611.1	WP_082873985.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.10569e-10
+PHB	AAB40611.1	WP_130052775.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.14992e-11
+PHB	AAB40611.1	WP_490386461.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+PHB	AAB40611.1	WP_055197275.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.19583e-10
+PHB	AAB40611.1	WP_287244842.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+PHB	AAB40611.1	WP_462147847.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+PHB	AAB40611.1	WP_055021419.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.19583e-10
+PHB	AAB40611.1	WP_349274157.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+PHB	AAB40611.1	WP_253048777.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.48135e-11
+PHB	AAB40611.1	WP_332393413.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.05491e-10
+PHB	AAB40611.1	WP_342409634.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.99944e-11
+PHB	AAB40611.1	WP_304636376.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.31576e-11
+PHB	AAB40611.1	WP_487986883.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+PHB	AAB40611.1	WP_483432081.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.51921e-11
+PHB	AAB40611.1	WP_462175783.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+PHB	AAB40611.1	WP_285220986.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.99944e-11
+PHB	AAB40611.1	WP_474704773.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85476e-11
+PHB	AAB40611.1	WP_062565773.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.29731e-10
+PHB	AAB40611.1	WP_138686283.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+PHB	AAB40611.1	WP_228482490.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.45299e-11
+PHB	AAB40611.1	WP_287205260.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.00966e-11
+PHB	AAB40611.1	WP_339981228.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.48394e-10
+PHB	AAB40611.1	WP_337117224.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+PHB	AAB40611.1	WP_235374218.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.87168e-10
+PHB	AAB40611.1	WP_206004052.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+PHB	AAB40611.1	WP_300421023.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+PHB	AAB40611.1	WP_348708929.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+PHB	AAB40611.1	WP_209327470.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.75108e-10
+PHB	AAB40611.1	WP_235382668.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+PHB	AAB40611.1	WP_371351604.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.10569e-10
+PHB	AAB40611.1	WP_294410258.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+PHB	AAB40611.1	WP_130167674.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.01779e-10
+PHB	AAB40611.1	WP_300358640.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+PHB	AAB40611.1	WP_462178957.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.79873e-11
+PHB	AAB40611.1	WP_462167324.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.34508e-10
+PHB	AAB40611.1	WP_417698834.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.01339e-12
+PHB	AAB40611.1	WP_462168155.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.79866e-12
+PHB	AAB40611.1	WP_488035880.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.00966e-11
+PHB	AAB40611.1	WP_235377235.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.66791e-10
+PHB	AAB40611.1	WP_487054184.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.10854e-10
+PHB	AAB40611.1	WP_487117931.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.01728e-09
+PHB	AAB40611.1	WP_291610914.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.29617e-11
+PHB	AAB40611.1	WP_239845563.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.93805e-12
+PHB	AAB40611.1	WP_215964367.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.96968e-09
+PHB	AAB40611.1	WP_487539752.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+PHB	AAB40611.1	WP_303521422.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.31844e-09
+PHB	AAB40611.1	WP_487093717.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.47446e-10
+PHB	AAB40611.1	WP_483313308.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.65866e-10
+PHB	AAB40611.1	WP_269970245.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.45648e-10
+PHB	AAB40611.1	WP_353537636.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.96377e-10
+PHB	AAB40611.1	WP_353517955.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.19275e-12
+PHB	AAB40611.1	WP_311580946.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.79483e-11
+PHB	AAB40611.1	WP_487943909.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+PHB	AAB40611.1	WP_375185160.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.68534e-11
+PHB	AAB40611.1	WP_179025361.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.17623e-11
+PHB	AAB40611.1	WP_394202901.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.03347e-12
+PHB	AAB40611.1	WP_291624144.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+PHB	AAB40611.1	WP_353410179.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.89155e-09
+PHB	AAB40611.1	WP_216054076.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20328e-09
+PHB	AAB40611.1	WP_315947146.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20328e-09
+PHB	AAB40611.1	WP_490032689.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.0685e-10
+PHB	AAB40611.1	WP_144035305.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.98771e-09
+PHB	AAB40611.1	WP_138319590.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.4251e-07
+PHB	AAB40611.1	AAB40611.1	reference	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_133493510.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_485163824.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_416391079.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_317009323.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_244168483.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_474365385.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_316308580.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_474359680.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_423885108.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_485164795.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_228233368.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_194855806.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_228548738.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_473780318.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_204431675.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_410308002.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_423934416.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_485154554.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_473785057.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_474367516.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_473781655.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_410298276.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_475647339.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_475364427.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_474234444.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_194298376.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_101674902.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_229158737.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_416306217.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_043321053.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_062478888.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_406827977.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_069947361.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_414828916.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_218355362.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_008486116.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_464948910.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_417358013.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_214129931.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_487122015.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_353370548.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_417359899.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_218312562.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_050660496.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_346839204.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_303473067.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_303500066.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_246604452.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_216049299.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_460311521.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_342806235.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_390614625.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_105936495.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_258544420.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_232359458.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_412725544.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_370240786.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_490711645.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_108566897.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_370164851.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_488798885.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_262992133.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_255052969.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_169211550.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_489728994.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_308160236.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_339720544.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_226766338.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_273024228.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_483429720.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_230818297.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_140959234.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_268408416.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_134052912.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_415186404.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_488096027.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_372626301.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_290619885.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_290610051.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_260548447.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_390517656.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_345421781.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_464370279.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_219932609.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.9769e-09
+PHB	AAB40611.1	WP_227718221.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	2.85453e-08
+PHB	AAB40611.1	WP_295799054.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00174456
+PHB	AAB40611.1	WP_318954214.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.12481e-08
+PHB	AAB40611.1	WP_058584693.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00115802
+PHB	AAB40611.1	WP_105173614.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00025214
+PHB	AAB40611.1	WP_212746797.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+PHB	AAB40611.1	WP_253039232.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+PHB	AAB40611.1	WP_435559480.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000218551
+PHB	AAB40611.1	WP_348714410.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+PHB	AAB40611.1	WP_462182065.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_239963837.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_349560949.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+PHB	AAB40611.1	WP_294089584.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+PHB	AAB40611.1	WP_138557790.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000257147
+PHB	AAB40611.1	WP_286260681.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+PHB	AAB40611.1	WP_119853069.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000542915
+PHB	AAB40611.1	WP_205994337.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+PHB	AAB40611.1	WP_217702824.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000142582
+PHB	AAB40611.1	WP_297330116.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000189602
+PHB	AAB40611.1	WP_370317305.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_082873985.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000257147
+PHB	AAB40611.1	WP_130052775.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000142582
+PHB	AAB40611.1	WP_490386461.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00025214
+PHB	AAB40611.1	WP_055197275.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_287244842.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+PHB	AAB40611.1	WP_462147847.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+PHB	AAB40611.1	WP_055021419.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_349274157.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_253048777.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000244813
+PHB	AAB40611.1	WP_332393413.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000445973
+PHB	AAB40611.1	WP_342409634.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_304636376.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+PHB	AAB40611.1	WP_487986883.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000247231
+PHB	AAB40611.1	WP_483432081.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+PHB	AAB40611.1	WP_462175783.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00026746
+PHB	AAB40611.1	WP_285220986.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_474704773.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+PHB	AAB40611.1	WP_062565773.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_138686283.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+PHB	AAB40611.1	WP_228482490.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000187747
+PHB	AAB40611.1	WP_287205260.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000220023
+PHB	AAB40611.1	WP_339981228.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+PHB	AAB40611.1	WP_337117224.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+PHB	AAB40611.1	WP_235374218.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000224085
+PHB	AAB40611.1	WP_206004052.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000211251
+PHB	AAB40611.1	WP_300421023.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+PHB	AAB40611.1	WP_348708929.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000175265
+PHB	AAB40611.1	WP_209327470.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000247231
+PHB	AAB40611.1	WP_235382668.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_371351604.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000224085
+PHB	AAB40611.1	WP_294410258.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000244813
+PHB	AAB40611.1	WP_130167674.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+PHB	AAB40611.1	WP_300358640.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+PHB	AAB40611.1	WP_462178957.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000197204
+PHB	AAB40611.1	WP_462167324.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+PHB	AAB40611.1	WP_417698834.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.03364e-07
+PHB	AAB40611.1	WP_462168155.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000162012
+PHB	AAB40611.1	WP_488035880.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000168739
+PHB	AAB40611.1	WP_235377235.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+PHB	AAB40611.1	WP_487054184.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.5743e-07
+PHB	AAB40611.1	WP_487117931.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	2.7069e-07
+PHB	AAB40611.1	WP_291610914.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_239845563.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000502665
+PHB	AAB40611.1	WP_215964367.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	5.68596e-07
+PHB	AAB40611.1	WP_487539752.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.4432e-06
+PHB	AAB40611.1	WP_303521422.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	5.68596e-07
+PHB	AAB40611.1	WP_487093717.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	3.13118e-07
+PHB	AAB40611.1	WP_483313308.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.16589e-06
+PHB	AAB40611.1	WP_269970245.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00675664
+PHB	AAB40611.1	WP_353537636.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000836753
+PHB	AAB40611.1	WP_353517955.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.37897e-08
+PHB	AAB40611.1	WP_311580946.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.64392e-08
+PHB	AAB40611.1	WP_487943909.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	3.83528e-06
+PHB	AAB40611.1	WP_375185160.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+PHB	AAB40611.1	WP_179025361.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	7.55556e-08
+PHB	AAB40611.1	WP_394202901.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.77148e-07
+PHB	AAB40611.1	WP_291624144.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.71256e-06
+PHB	AAB40611.1	WP_353410179.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000136796
+PHB	AAB40611.1	WP_216054076.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.11386e-08
+PHB	AAB40611.1	WP_315947146.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.61565e-08
+PHB	AAB40611.1	WP_490032689.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	7.01624e-06
+PHB	AAB40611.1	WP_144035305.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	6.78592e-08
+PHB	AAB40611.1	WP_138319590.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	8.02969e-06
+P3HB	LC127088.1	LC127088.1	reference	TIGR01840	esterase_phb	primary	TRUE	3.19162e-34
+P3HB	LC127088.1	WP_011624024.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.57289e-34
+P3HB	LC127088.1	WP_495141453.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.42908e-34
+P3HB	LC127088.1	WP_269970245.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.31508e-35
+P3HB	LC127088.1	WP_349560949.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.94138e-35
+P3HB	LC127088.1	WP_054553986.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.89415e-34
+P3HB	LC127088.1	WP_250662258.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.34726e-35
+P3HB	LC127088.1	WP_448896118.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.19286e-33
+P3HB	LC127088.1	WP_286260681.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.61012e-35
+P3HB	LC127088.1	WP_294089584.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.38486e-35
+P3HB	LC127088.1	WP_217702824.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.30669e-35
+P3HB	LC127088.1	WP_462147847.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.59782e-35
+P3HB	LC127088.1	WP_119853069.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.08633e-34
+P3HB	LC127088.1	WP_220094646.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.96673e-34
+P3HB	LC127088.1	WP_250660409.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.89027e-34
+P3HB	LC127088.1	WP_490386461.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.23302e-34
+P3HB	LC127088.1	WP_349274157.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.47792e-35
+P3HB	LC127088.1	WP_212751477.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.63563e-34
+P3HB	LC127088.1	WP_337117224.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.18888e-35
+P3HB	LC127088.1	WP_339981228.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.09747e-35
+P3HB	LC127088.1	WP_138686283.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.23357e-34
+P3HB	LC127088.1	WP_205994337.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.14056e-34
+P3HB	LC127088.1	WP_251601605.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.76705e-35
+P3HB	LC127088.1	WP_483432081.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.14825e-34
+P3HB	LC127088.1	WP_304636376.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.32004e-34
+P3HB	LC127088.1	WP_222937990.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.9529e-35
+P3HB	LC127088.1	WP_287244842.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.24509e-34
+P3HB	LC127088.1	WP_483313308.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.66109e-33
+P3HB	LC127088.1	WP_462178957.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.03124e-33
+P3HB	LC127088.1	WP_269407229.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91132e-34
+P3HB	LC127088.1	WP_484580970.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.57508e-35
+P3HB	LC127088.1	WP_487117931.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.25272e-33
+P3HB	LC127088.1	WP_105173614.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.08425e-34
+P3HB	LC127088.1	WP_212746797.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.54091e-35
+P3HB	LC127088.1	WP_235382668.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.68745e-34
+P3HB	LC127088.1	WP_462175783.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.10681e-34
+P3HB	LC127088.1	WP_297330116.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.67005e-35
+P3HB	LC127088.1	WP_228482490.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.85654e-35
+P3HB	LC127088.1	WP_253039232.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.05503e-34
+P3HB	LC127088.1	WP_138557790.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0147e-34
+P3HB	LC127088.1	WP_082873985.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.99499e-34
+P3HB	LC127088.1	WP_348708929.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.60697e-35
+P3HB	LC127088.1	WP_348714410.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0448e-34
+P3HB	LC127088.1	WP_462182065.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.96223e-34
+P3HB	LC127088.1	WP_130167674.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.04616e-34
+P3HB	LC127088.1	WP_062565773.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.18092e-34
+P3HB	LC127088.1	WP_054562494.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.26668e-34
+P3HB	LC127088.1	WP_488035880.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.48878e-34
+P3HB	LC127088.1	WP_487986883.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.49826e-34
+P3HB	LC127088.1	WP_287205260.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.72898e-34
+P3HB	LC127088.1	WP_206004052.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+P3HB	LC127088.1	WP_332393413.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.79023e-35
+P3HB	LC127088.1	WP_253048777.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.47414e-35
+P3HB	LC127088.1	WP_474704773.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.25543e-34
+P3HB	LC127088.1	WP_285220986.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.14593e-34
+P3HB	LC127088.1	WP_300421023.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.99306e-33
+P3HB	LC127088.1	WP_235374218.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.85414e-34
+P3HB	LC127088.1	WP_342409634.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.46581e-34
+P3HB	LC127088.1	WP_058584693.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.93354e-34
+P3HB	LC127088.1	WP_294410258.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91707e-33
+P3HB	LC127088.1	WP_300358640.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91707e-33
+P3HB	LC127088.1	WP_235377235.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.50167e-34
+P3HB	LC127088.1	WP_230237131.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+P3HB	LC127088.1	WP_055197275.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.5104e-34
+P3HB	LC127088.1	WP_462167324.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.93579e-33
+P3HB	LC127088.1	WP_055021419.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.36795e-34
+P3HB	LC127088.1	WP_065978975.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+P3HB	LC127088.1	WP_417698834.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.68202e-35
+P3HB	LC127088.1	WP_435559480.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.65068e-35
+P3HB	LC127088.1	WP_462168155.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.16927e-34
+P3HB	LC127088.1	WP_487093717.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.7495e-34
+P3HB	LC127088.1	WP_179025361.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.1822e-37
+P3HB	LC127088.1	WP_487054184.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.80508e-35
+P3HB	LC127088.1	WP_353537636.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.02713e-33
+P3HB	LC127088.1	WP_487539752.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.61886e-34
+P3HB	LC127088.1	WP_291610914.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.44635e-34
+P3HB	LC127088.1	WP_216054076.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.24331e-36
+P3HB	LC127088.1	WP_487943909.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.14739e-34
+P3HB	LC127088.1	WP_315947146.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.17285e-36
+P3HB	LC127088.1	WP_144035305.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.23482e-34
+P3HB	LC127088.1	WP_291624144.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.47615e-34
+P3HB	LC127088.1	WP_353517955.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.27038e-35
+P3HB	LC127088.1	WP_490032689.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.04439e-32
+P3HB	LC127088.1	WP_215964367.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.96225e-38
+P3HB	LC127088.1	WP_303521422.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.9815e-38
+P3HB	LC127088.1	WP_227718221.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.14665e-35
+P3HB	LC127088.1	WP_078085898.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.13619e-33
+P3HB	LC127088.1	WP_219932609.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.35473e-34
+P3HB	LC127088.1	WP_318954214.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.05012e-35
+P3HB	LC127088.1	WP_353410179.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.29391e-33
+P3HB	LC127088.1	WP_475659072.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.93103e-34
+P3HB	LC127088.1	WP_475089634.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.41947e-34
+P3HB	LC127088.1	WP_495483543.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.20861e-31
+P3HB	LC127088.1	WP_289097053.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.75488e-36
+P3HB	LC127088.1	WP_375185160.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.66064e-35
+P3HB	LC127088.1	WP_069947361.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.04516e-32
+P3HB	LC127088.1	WP_416306217.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.61117e-34
+P3HB	LC127088.1	WP_067085875.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.73235e-33
+P3HB	LC127088.1	WP_101674902.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.40272e-37
+P3HB	LC127088.1	WP_133493510.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.24327e-34
+P3HB	LC127088.1	WP_485163824.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.41889e-35
+P3HB	LC127088.1	WP_317009323.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.6446e-35
+P3HB	LC127088.1	WP_244168483.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.45594e-35
+P3HB	LC127088.1	WP_316308580.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.04959e-35
+P3HB	LC127088.1	WP_416391079.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.6816e-36
+P3HB	LC127088.1	WP_433976675.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.39522e-35
+P3HB	LC127088.1	WP_474365385.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.43613e-35
+P3HB	LC127088.1	WP_204431675.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.17764e-35
+P3HB	LC127088.1	WP_228233368.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.10985e-35
+P3HB	LC127088.1	WP_502013871.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.51779e-35
+P3HB	LC127088.1	WP_485164795.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.13431e-34
+P3HB	LC127088.1	WP_410308002.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.54755e-35
+P3HB	LC127088.1	WP_346839204.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.94745e-35
+P3HB	LC127088.1	WP_475231578.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.9335e-35
+P3HB	LC127088.1	WP_194855806.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.6507e-35
+P3HB	LC127088.1	WP_474359680.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.09577e-35
+P3HB	LC127088.1	WP_410298276.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.96356e-36
+P3HB	LC127088.1	WP_475092319.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.54054e-36
+P3HB	LC127088.1	WP_474234444.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.04569e-34
+P3HB	LC127088.1	WP_008486116.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.73946e-31
+P3HB	LC127088.1	WP_308160236.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.36872e-37
+P3HB	LC127088.1	WP_226877159.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.38925e-32
+P3HB	LC127088.1	WP_473780318.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.69891e-35
+P3HB	LC127088.1	WP_423934416.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.54552e-35
+P3HB	LC127088.1	WP_423885108.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.92897e-35
+P3HB	LC127088.1	WP_214129931.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.11187e-36
+P3HB	LC127088.1	WP_473785057.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.63407e-35
+P3HB	LC127088.1	WP_474367516.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.20837e-34
+P3HB	LC127088.1	WP_475364427.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.63407e-35
+P3HB	LC127088.1	WP_414828916.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.89963e-37
+P3HB	LC127088.1	WP_473781655.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.82107e-35
+P3HB	LC127088.1	WP_043321053.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.00454e-39
+P3HB	LC127088.1	WP_485154554.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.96417e-34
+P3HB	LC127088.1	WP_464948910.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.47217e-31
+P3HB	LC127088.1	WP_406827977.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.67693e-40
+P3HB	LC127088.1	WP_417359899.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.13807e-31
+P3HB	LC127088.1	WP_417358013.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.89787e-31
+P3HB	LC127088.1	WP_483429720.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.57952e-33
+P3HB	LC127088.1	WP_228548738.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.15987e-35
+P3HB	LC127088.1	WP_475647339.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.3877e-34
+P3HB	LC127088.1	WP_273024228.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.8748e-33
+P3HB	LC127088.1	WP_062478888.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.17808e-28
+P3HB	LC127088.1	WP_475148261.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.96387e-34
+P3HB	LC127088.1	WP_226766338.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.4741e-33
+P3HB	LC127088.1	WP_194298376.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.97456e-34
+P3HB	LC127088.1	WP_050660496.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.21225e-31
+P3HB	LC127088.1	WP_134052912.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.48872e-33
+P3HB	LC127088.1	WP_230818297.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.69247e-33
+P3HB	LC127088.1	WP_415186404.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.4311e-33
+P3HB	LC127088.1	WP_218355362.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.58805e-37
+P3HB	LC127088.1	WP_475263346.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.76613e-34
+P3HB	LC127088.1	WP_232359458.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.0708e-35
+P3HB	LC127088.1	WP_303473067.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.8536e-36
+P3HB	LC127088.1	WP_299599601.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.67015e-35
+P3HB	LC127088.1	WP_460311521.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.79743e-36
+P3HB	LC127088.1	WP_353370548.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.67256e-36
+P3HB	LC127088.1	WP_303500066.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.79537e-36
+P3HB	LC127088.1	WP_218312562.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.46455e-36
+P3HB	LC127088.1	WP_108566897.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.8797e-31
+P3HB	LC127088.1	WP_169211550.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.68816e-38
+P3HB	LC127088.1	WP_216049299.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.76864e-36
+P3HB	LC127088.1	WP_229158737.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.17773e-34
+P3HB	LC127088.1	WP_342806235.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.72155e-36
+P3HB	LC127088.1	WP_489728994.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.32991e-35
+P3HB	LC127088.1	WP_339720544.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.82039e-32
+P3HB	LC127088.1	WP_077405297.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.19736e-32
+P3HB	LC127088.1	WP_318967992.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.26077e-36
+P3HB	LC127088.1	WP_390614625.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.15288e-34
+P3HB	LC127088.1	WP_369812671.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.79656e-35
+P3HB	LC127088.1	WP_268408416.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.91541e-39
+P3HB	LC127088.1	WP_487122015.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.07093e-34
+P3HB	LC127088.1	WP_372626301.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.39794e-35
+P3HB	LC127088.1	WP_412725544.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	8.50209e-33
+P3HB	LC127088.1	WP_262992133.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	9.01256e-37
+P3HB	LC127088.1	WP_499614433.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	5.18448e-36
+P3HB	LC127088.1	WP_232370634.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	6.81098e-35
+P3HB	LC127088.1	WP_490711645.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.5134e-34
+P3HB	LC127088.1	WP_246604452.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.59303e-35
+P3HB	LC127088.1	WP_258544420.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	7.51837e-35
+P3HB	LC127088.1	WP_105936495.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.06927e-36
+P3HB	LC127088.1	WP_487964638.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.08049e-34
+P3HB	LC127088.1	WP_488801699.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.43088e-34
+P3HB	LC127088.1	WP_488798885.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.91811e-34
+P3HB	LC127088.1	WP_475070608.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.43363e-34
+P3HB	LC127088.1	WP_255052969.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	2.35334e-34
+P3HB	LC127088.1	WP_140959234.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	3.62747e-34
+P3HB	LC127088.1	WP_390517656.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.81004e-25
+P3HB	LC127088.1	WP_345421781.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	4.87174e-25
+P3HB	LC127088.1	WP_464370279.1	marine_BLASTP_homolog	TIGR01840	esterase_phb	primary	TRUE	1.45384e-25
+P3HB	LC127088.1	LC127088.1	reference	pfam10503	Esterase_PHB	secondary	TRUE	1.90051e-11
+P3HB	LC127088.1	WP_011624024.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.30364e-11
+P3HB	LC127088.1	WP_495141453.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.98427e-12
+P3HB	LC127088.1	WP_269970245.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.45648e-10
+P3HB	LC127088.1	WP_349560949.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_054553986.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20332e-10
+P3HB	LC127088.1	WP_250662258.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_448896118.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.65866e-10
+P3HB	LC127088.1	WP_286260681.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_294089584.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.47621e-11
+P3HB	LC127088.1	WP_217702824.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_462147847.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_119853069.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.11734e-11
+P3HB	LC127088.1	WP_220094646.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_250660409.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_490386461.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+P3HB	LC127088.1	WP_349274157.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+P3HB	LC127088.1	WP_212751477.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.08055e-11
+P3HB	LC127088.1	WP_337117224.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_339981228.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.48394e-10
+P3HB	LC127088.1	WP_138686283.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+P3HB	LC127088.1	WP_205994337.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.37057e-10
+P3HB	LC127088.1	WP_251601605.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+P3HB	LC127088.1	WP_483432081.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.51921e-11
+P3HB	LC127088.1	WP_304636376.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.31576e-11
+P3HB	LC127088.1	WP_222937990.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.32315e-10
+P3HB	LC127088.1	WP_287244842.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.24153e-11
+P3HB	LC127088.1	WP_483313308.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.65866e-10
+P3HB	LC127088.1	WP_462178957.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.79873e-11
+P3HB	LC127088.1	WP_269407229.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_484580970.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_487117931.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.01728e-09
+P3HB	LC127088.1	WP_105173614.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.10569e-10
+P3HB	LC127088.1	WP_212746797.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.233e-11
+P3HB	LC127088.1	WP_235382668.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_462175783.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_297330116.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_228482490.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.45299e-11
+P3HB	LC127088.1	WP_253039232.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+P3HB	LC127088.1	WP_138557790.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+P3HB	LC127088.1	WP_082873985.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.10569e-10
+P3HB	LC127088.1	WP_348708929.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.59133e-11
+P3HB	LC127088.1	WP_348714410.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85752e-10
+P3HB	LC127088.1	WP_462182065.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+P3HB	LC127088.1	WP_130167674.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.01779e-10
+P3HB	LC127088.1	WP_062565773.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.29731e-10
+P3HB	LC127088.1	WP_054562494.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.99944e-11
+P3HB	LC127088.1	WP_488035880.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.00966e-11
+P3HB	LC127088.1	WP_487986883.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.87893e-11
+P3HB	LC127088.1	WP_287205260.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.00966e-11
+P3HB	LC127088.1	WP_206004052.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	8.99054e-11
+P3HB	LC127088.1	WP_332393413.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.05491e-10
+P3HB	LC127088.1	WP_253048777.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.48135e-11
+P3HB	LC127088.1	WP_474704773.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.85476e-11
+P3HB	LC127088.1	WP_285220986.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.99944e-11
+P3HB	LC127088.1	WP_300421023.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+P3HB	LC127088.1	WP_235374218.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.87168e-10
+P3HB	LC127088.1	WP_342409634.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.99944e-11
+P3HB	LC127088.1	WP_058584693.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.77527e-10
+P3HB	LC127088.1	WP_294410258.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+P3HB	LC127088.1	WP_300358640.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.74231e-10
+P3HB	LC127088.1	WP_235377235.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.66791e-10
+P3HB	LC127088.1	WP_230237131.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.01339e-12
+P3HB	LC127088.1	WP_055197275.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.19583e-10
+P3HB	LC127088.1	WP_462167324.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.34508e-10
+P3HB	LC127088.1	WP_055021419.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.19583e-10
+P3HB	LC127088.1	WP_065978975.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.01339e-12
+P3HB	LC127088.1	WP_417698834.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.01339e-12
+P3HB	LC127088.1	WP_435559480.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.03515e-10
+P3HB	LC127088.1	WP_462168155.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.79866e-12
+P3HB	LC127088.1	WP_487093717.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.47446e-10
+P3HB	LC127088.1	WP_179025361.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.17623e-11
+P3HB	LC127088.1	WP_487054184.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.10854e-10
+P3HB	LC127088.1	WP_353537636.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.96377e-10
+P3HB	LC127088.1	WP_487539752.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+P3HB	LC127088.1	WP_291610914.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.29617e-11
+P3HB	LC127088.1	WP_216054076.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20328e-09
+P3HB	LC127088.1	WP_487943909.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+P3HB	LC127088.1	WP_315947146.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20328e-09
+P3HB	LC127088.1	WP_144035305.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.98771e-09
+P3HB	LC127088.1	WP_291624144.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.77934e-12
+P3HB	LC127088.1	WP_353517955.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.19275e-12
+P3HB	LC127088.1	WP_490032689.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.0685e-10
+P3HB	LC127088.1	WP_215964367.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.96968e-09
+P3HB	LC127088.1	WP_303521422.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.31844e-09
+P3HB	LC127088.1	WP_227718221.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.49674e-13
+P3HB	LC127088.1	WP_078085898.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.48724e-14
+P3HB	LC127088.1	WP_219932609.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.22501e-14
+P3HB	LC127088.1	WP_318954214.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.30462e-11
+P3HB	LC127088.1	WP_353410179.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.89155e-09
+P3HB	LC127088.1	WP_475659072.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.64893e-09
+P3HB	LC127088.1	WP_475089634.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.90411e-08
+P3HB	LC127088.1	WP_495483543.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.21029e-13
+P3HB	LC127088.1	WP_289097053.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.2184e-11
+P3HB	LC127088.1	WP_375185160.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.68534e-11
+P3HB	LC127088.1	WP_069947361.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.27494e-09
+P3HB	LC127088.1	WP_416306217.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.94736e-11
+P3HB	LC127088.1	WP_067085875.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.61478e-11
+P3HB	LC127088.1	WP_101674902.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.74016e-12
+P3HB	LC127088.1	WP_133493510.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.47567e-13
+P3HB	LC127088.1	WP_485163824.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.7334e-12
+P3HB	LC127088.1	WP_317009323.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.62249e-12
+P3HB	LC127088.1	WP_244168483.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.57726e-12
+P3HB	LC127088.1	WP_316308580.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.91383e-12
+P3HB	LC127088.1	WP_416391079.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.90202e-13
+P3HB	LC127088.1	WP_433976675.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.16566e-12
+P3HB	LC127088.1	WP_474365385.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.32077e-13
+P3HB	LC127088.1	WP_204431675.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.33137e-12
+P3HB	LC127088.1	WP_228233368.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.17352e-13
+P3HB	LC127088.1	WP_502013871.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.28117e-12
+P3HB	LC127088.1	WP_485164795.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.03476e-11
+P3HB	LC127088.1	WP_410308002.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.55663e-13
+P3HB	LC127088.1	WP_346839204.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.45708e-09
+P3HB	LC127088.1	WP_475231578.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	9.70222e-12
+P3HB	LC127088.1	WP_194855806.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.35685e-11
+P3HB	LC127088.1	WP_474359680.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.03476e-11
+P3HB	LC127088.1	WP_410298276.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.1581e-13
+P3HB	LC127088.1	WP_475092319.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.50835e-13
+P3HB	LC127088.1	WP_474234444.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.70123e-11
+P3HB	LC127088.1	WP_008486116.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.13891e-13
+P3HB	LC127088.1	WP_308160236.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.80266e-15
+P3HB	LC127088.1	WP_226877159.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.29061e-13
+P3HB	LC127088.1	WP_473780318.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+P3HB	LC127088.1	WP_423934416.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+P3HB	LC127088.1	WP_423885108.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.07675e-11
+P3HB	LC127088.1	WP_214129931.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.85306e-12
+P3HB	LC127088.1	WP_473785057.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.71937e-11
+P3HB	LC127088.1	WP_474367516.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.40489e-11
+P3HB	LC127088.1	WP_475364427.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.74556e-11
+P3HB	LC127088.1	WP_414828916.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.31468e-13
+P3HB	LC127088.1	WP_473781655.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.74556e-11
+P3HB	LC127088.1	WP_043321053.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.46912e-13
+P3HB	LC127088.1	WP_485154554.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.18749e-11
+P3HB	LC127088.1	WP_464948910.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.35741e-13
+P3HB	LC127088.1	WP_406827977.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.5208e-13
+P3HB	LC127088.1	WP_417359899.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.22592e-12
+P3HB	LC127088.1	WP_417358013.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.03436e-12
+P3HB	LC127088.1	WP_483429720.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.47816e-12
+P3HB	LC127088.1	WP_228548738.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.46544e-13
+P3HB	LC127088.1	WP_475647339.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.11006e-11
+P3HB	LC127088.1	WP_273024228.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.54966e-12
+P3HB	LC127088.1	WP_062478888.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.94113e-11
+P3HB	LC127088.1	WP_475148261.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.88966e-12
+P3HB	LC127088.1	WP_226766338.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+P3HB	LC127088.1	WP_194298376.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.42674e-11
+P3HB	LC127088.1	WP_050660496.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.03486e-13
+P3HB	LC127088.1	WP_134052912.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+P3HB	LC127088.1	WP_230818297.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+P3HB	LC127088.1	WP_415186404.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.14652e-12
+P3HB	LC127088.1	WP_218355362.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.75636e-14
+P3HB	LC127088.1	WP_475263346.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.79406e-12
+P3HB	LC127088.1	WP_232359458.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.04916e-16
+P3HB	LC127088.1	WP_303473067.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.27697e-13
+P3HB	LC127088.1	WP_299599601.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.05264e-12
+P3HB	LC127088.1	WP_460311521.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.82984e-13
+P3HB	LC127088.1	WP_353370548.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.09979e-11
+P3HB	LC127088.1	WP_303500066.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+P3HB	LC127088.1	WP_218312562.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.48266e-14
+P3HB	LC127088.1	WP_108566897.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.46684e-11
+P3HB	LC127088.1	WP_169211550.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.38007e-12
+P3HB	LC127088.1	WP_216049299.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+P3HB	LC127088.1	WP_229158737.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.02417e-14
+P3HB	LC127088.1	WP_342806235.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.11316e-11
+P3HB	LC127088.1	WP_489728994.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.12345e-11
+P3HB	LC127088.1	WP_339720544.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	7.65851e-11
+P3HB	LC127088.1	WP_077405297.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.7624e-13
+P3HB	LC127088.1	WP_318967992.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.16476e-14
+P3HB	LC127088.1	WP_390614625.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.37246e-16
+P3HB	LC127088.1	WP_369812671.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	6.7707e-15
+P3HB	LC127088.1	WP_268408416.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.64789e-13
+P3HB	LC127088.1	WP_487122015.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.4189e-15
+P3HB	LC127088.1	WP_372626301.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.85673e-13
+P3HB	LC127088.1	WP_412725544.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.0064e-13
+P3HB	LC127088.1	WP_262992133.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.83943e-11
+P3HB	LC127088.1	WP_499614433.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	5.48395e-15
+P3HB	LC127088.1	WP_232370634.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.17789e-15
+P3HB	LC127088.1	WP_490711645.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.21094e-16
+P3HB	LC127088.1	WP_246604452.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.17789e-15
+P3HB	LC127088.1	WP_258544420.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	2.17789e-15
+P3HB	LC127088.1	WP_105936495.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	3.72901e-15
+P3HB	LC127088.1	WP_487964638.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+P3HB	LC127088.1	WP_488801699.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+P3HB	LC127088.1	WP_488798885.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+P3HB	LC127088.1	WP_475070608.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.83292e-16
+P3HB	LC127088.1	WP_255052969.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	4.86217e-16
+P3HB	LC127088.1	WP_140959234.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	9.97299e-16
+P3HB	LC127088.1	WP_390517656.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.24744e-07
+P3HB	LC127088.1	WP_345421781.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.26122e-07
+P3HB	LC127088.1	WP_464370279.1	marine_BLASTP_homolog	pfam10503	Esterase_PHB	secondary	TRUE	1.20577e-07
+P3HB	LC127088.1	LC127088.1	reference	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	9.70273e-05
+P3HB	LC127088.1	WP_011624024.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000105998
+P3HB	LC127088.1	WP_495141453.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000100916
+P3HB	LC127088.1	WP_269970245.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00675664
+P3HB	LC127088.1	WP_349560949.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+P3HB	LC127088.1	WP_054553986.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_250662258.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+P3HB	LC127088.1	WP_448896118.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	5.87323e-08
+P3HB	LC127088.1	WP_286260681.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+P3HB	LC127088.1	WP_294089584.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+P3HB	LC127088.1	WP_217702824.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000142582
+P3HB	LC127088.1	WP_462147847.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_119853069.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000542915
+P3HB	LC127088.1	WP_220094646.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000224085
+P3HB	LC127088.1	WP_250660409.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_490386461.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00025214
+P3HB	LC127088.1	WP_349274157.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_212751477.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_337117224.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_339981228.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_138686283.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+P3HB	LC127088.1	WP_205994337.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+P3HB	LC127088.1	WP_251601605.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000247231
+P3HB	LC127088.1	WP_483432081.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_304636376.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+P3HB	LC127088.1	WP_222937990.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_287244842.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_483313308.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.16589e-06
+P3HB	LC127088.1	WP_462178957.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000197204
+P3HB	LC127088.1	WP_269407229.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000254631
+P3HB	LC127088.1	WP_484580970.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000135745
+P3HB	LC127088.1	WP_487117931.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	2.7069e-07
+P3HB	LC127088.1	WP_105173614.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00025214
+P3HB	LC127088.1	WP_212746797.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+P3HB	LC127088.1	WP_235382668.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_462175783.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00026746
+P3HB	LC127088.1	WP_297330116.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000189602
+P3HB	LC127088.1	WP_228482490.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000187747
+P3HB	LC127088.1	WP_253039232.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+P3HB	LC127088.1	WP_138557790.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000257147
+P3HB	LC127088.1	WP_082873985.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000257147
+P3HB	LC127088.1	WP_348708929.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000175265
+P3HB	LC127088.1	WP_348714410.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000259687
+P3HB	LC127088.1	WP_462182065.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_130167674.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000283711
+P3HB	LC127088.1	WP_062565773.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_054562494.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_488035880.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000168739
+P3HB	LC127088.1	WP_487986883.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000247231
+P3HB	LC127088.1	WP_287205260.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000220023
+P3HB	LC127088.1	WP_206004052.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000211251
+P3HB	LC127088.1	WP_332393413.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000445973
+P3HB	LC127088.1	WP_253048777.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000244813
+P3HB	LC127088.1	WP_474704773.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+P3HB	LC127088.1	WP_285220986.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_300421023.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+P3HB	LC127088.1	WP_235374218.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000224085
+P3HB	LC127088.1	WP_342409634.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_058584693.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.00115802
+P3HB	LC127088.1	WP_294410258.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000244813
+P3HB	LC127088.1	WP_300358640.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+P3HB	LC127088.1	WP_235377235.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_230237131.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	9.28075e-08
+P3HB	LC127088.1	WP_055197275.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_462167324.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000221893
+P3HB	LC127088.1	WP_055021419.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000219722
+P3HB	LC127088.1	WP_065978975.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.02357e-07
+P3HB	LC127088.1	WP_417698834.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.03364e-07
+P3HB	LC127088.1	WP_435559480.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000218551
+P3HB	LC127088.1	WP_462168155.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000162012
+P3HB	LC127088.1	WP_487093717.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	3.13118e-07
+P3HB	LC127088.1	WP_179025361.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	7.55556e-08
+P3HB	LC127088.1	WP_487054184.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.5743e-07
+P3HB	LC127088.1	WP_353537636.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000836753
+P3HB	LC127088.1	WP_487539752.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.4432e-06
+P3HB	LC127088.1	WP_291610914.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_216054076.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.11386e-08
+P3HB	LC127088.1	WP_487943909.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	3.83528e-06
+P3HB	LC127088.1	WP_315947146.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.61565e-08
+P3HB	LC127088.1	WP_144035305.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	6.78592e-08
+P3HB	LC127088.1	WP_291624144.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.71256e-06
+P3HB	LC127088.1	WP_353517955.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	4.37897e-08
+P3HB	LC127088.1	WP_490032689.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	7.01624e-06
+P3HB	LC127088.1	WP_215964367.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	5.68596e-07
+P3HB	LC127088.1	WP_303521422.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	5.68596e-07
+P3HB	LC127088.1	WP_227718221.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	2.85453e-08
+P3HB	LC127088.1	WP_078085898.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.48036e-09
+P3HB	LC127088.1	WP_219932609.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.9769e-09
+P3HB	LC127088.1	WP_318954214.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	1.12481e-08
+P3HB	LC127088.1	WP_353410179.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	0.000136796
+P3HB	LC127088.1	WP_475659072.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475089634.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	2.35714e-08
+P3HB	LC127088.1	WP_495483543.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	7.9955e-10
+P3HB	LC127088.1	WP_289097053.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_375185160.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_069947361.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_416306217.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_067085875.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_101674902.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_133493510.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_485163824.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_317009323.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_244168483.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_316308580.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_416391079.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_433976675.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_474365385.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_204431675.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_228233368.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_502013871.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_485164795.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_410308002.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_346839204.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475231578.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_194855806.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_474359680.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_410298276.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475092319.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_474234444.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_008486116.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_308160236.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_226877159.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_473780318.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_423934416.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_423885108.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_214129931.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_473785057.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_474367516.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475364427.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_414828916.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_473781655.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_043321053.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_485154554.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_464948910.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_406827977.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_417359899.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_417358013.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_483429720.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_228548738.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475647339.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_273024228.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_062478888.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475148261.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_226766338.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_194298376.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_050660496.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_134052912.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_230818297.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_415186404.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_218355362.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475263346.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_232359458.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_303473067.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_299599601.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_460311521.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_353370548.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_303500066.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_218312562.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_108566897.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_169211550.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_216049299.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_229158737.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_342806235.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_489728994.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_339720544.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_077405297.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_318967992.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_390614625.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_369812671.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_268408416.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_487122015.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_372626301.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_412725544.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_262992133.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_499614433.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_232370634.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_490711645.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_246604452.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_258544420.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_105936495.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_487964638.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_488801699.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_488798885.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_475070608.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_255052969.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_140959234.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_390517656.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_345421781.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	
+P3HB	LC127088.1	WP_464370279.1	marine_BLASTP_homolog	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	

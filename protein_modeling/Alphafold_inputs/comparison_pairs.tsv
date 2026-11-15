@@ -1,0 +1,11 @@
+reference_family	reference_accession	homolog_accession	rationale
+PETase_UUT36764.1	UUT36764.1	WP_328185892.1	high-similarity deep seawater representative
+PETase_UUT36764.1	UUT36764.1	WP_464107832.1	divergent plastisphere-associated representative
+PETase_UUT36763.1	UUT36763.1	WP_328185892.1	same marine homolog against second PETase reference
+PETase_UUT36763.1	UUT36763.1	WP_464107832.1	same marine homolog against second PETase reference
+Laccase	UVG67878.1	WP_266278385.1	phylogenetically distinct sediment multicopper oxidase
+PHB	AAB40611.1	WP_138319590.1	divergent intertidal protein with TSP_3 repeats
+PHB	AAB40611.1	WP_464370279.1	plastisphere homolog also in P3HB dataset
+P3HB	LC127088.1	WP_464370279.1	plastisphere homolog with different accessory-domain annotation
+MCL_PHA	AAQ72538.1	WP_241584950.1	higher-similarity beach-sediment homolog; reference contains X217
+MCL_PHA	AAQ72538.1	WP_374031472.1	divergent tidal-flat homolog; reference contains X217

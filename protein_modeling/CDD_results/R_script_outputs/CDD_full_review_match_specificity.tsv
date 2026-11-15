@@ -1,0 +1,10 @@
+family	marker_accession	n_homologs_with_marker	n_with_specific_match	n_with_non_specific_match	n_homologs
+GPx_WP_003945816.1	cd00340	22	22	0	22
+GPx_WP_026826575.1	cd00340	45	45	0	45
+Laccase	pfam07732	139	139	64	140
+Oxidoreductase	pfam01565	14	13	1	14
+PETase_UUT36763.1	pfam12740	48	9	39	48
+PETase_UUT36764.1	pfam12740	83	13	70	83
+MCL_PHA	COG4099	11	0	11	11
+PHB	TIGR01840	166	0	166	167
+P3HB	TIGR01840	188	0	188	188

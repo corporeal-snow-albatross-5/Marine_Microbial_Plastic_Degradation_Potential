@@ -1,0 +1,20 @@
+family	feature	n_homologs_with_feature	n_homologs	percent
+GPx_WP_003945816.1	catalytic residues	22	22	100
+GPx_WP_003945816.1	dimer interface	22	22	100
+GPx_WP_026826575.1	catalytic residues	45	45	100
+GPx_WP_026826575.1	dimer interface	45	45	100
+Laccase	putative Domain 1 interface	9	140	6.42857142857143
+Laccase	putative Domain 2 interface	26	140	18.5714285714286
+Laccase	putative Domain 3 interface	21	140	15
+Laccase	trinuclear Cu binding site	26	140	18.5714285714286
+Laccase	Type 1 (T1) Cu binding site	7	140	5
+P3HB	C-type Ca binding site_TSP3-long	91	188	48.4042553191489
+P3HB	C-type Ca binding site_TSP3-short	92	188	48.936170212766
+P3HB	N-type Ca binding site	22	188	11.7021276595745
+P3HB	TSP3 repeat_long	22	188	11.7021276595745
+P3HB	TSP3 repeat_short	86	188	45.7446808510638
+PHB	C-type Ca binding site_TSP3-long	82	167	49.1017964071856
+PHB	C-type Ca binding site_TSP3-short	83	167	49.7005988023952
+PHB	N-type Ca binding site	20	167	11.9760479041916
+PHB	TSP3 repeat_long	19	167	11.377245508982
+PHB	TSP3 repeat_short	76	167	45.5089820359281

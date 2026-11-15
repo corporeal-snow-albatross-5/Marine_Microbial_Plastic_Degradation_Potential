@@ -1,0 +1,21 @@
+family	reference_accession	marker_accession	marker	marker_role	marker_found_in_reference	n_homologs	n_homologs_with_marker	percent_homologs_with_marker
+GPx_WP_003945816.1	WP_003945816.1	cd00340	GSH_Peroxidase	primary	TRUE	22	22	100
+GPx_WP_003945816.1	WP_003945816.1	COG0386	BtuE	secondary	TRUE	22	22	100
+GPx_WP_026826575.1	WP_026826575.1	cd00340	GSH_Peroxidase	primary	TRUE	45	45	100
+GPx_WP_026826575.1	WP_026826575.1	COG0386	BtuE	secondary	TRUE	45	45	100
+Laccase	UVG67878.1	pfam07732	Cu-oxidase_3	primary	TRUE	140	139	99.2857142857143
+Laccase	UVG67878.1	TIGR01480	copper_res_A	secondary	TRUE	140	140	100
+Oxidoreductase	UOM43036.1	pfam01565	FAD_binding_4	primary	TRUE	14	14	100
+Oxidoreductase	UOM43036.1	COG0277	GlcD	secondary	TRUE	14	14	100
+PETase_UUT36763.1	UUT36763.1	pfam12740	PETase	primary	TRUE	48	48	100
+PETase_UUT36763.1	UUT36763.1	COG4188	COG4188	secondary	TRUE	48	48	100
+PETase_UUT36764.1	UUT36764.1	pfam12740	PETase	primary	TRUE	83	83	100
+PETase_UUT36764.1	UUT36764.1	COG4188	COG4188	secondary	TRUE	83	83	100
+MCL_PHA	AAQ72538.1	COG4099	COG4099 (predicted peptidase)	primary	TRUE	11	11	100
+MCL_PHA	AAQ72538.1	COG3509	LpqC (esterase-related)	secondary	TRUE	11	11	100
+PHB	AAB40611.1	TIGR01840	esterase_phb	primary	TRUE	167	166	99.4011976047904
+PHB	AAB40611.1	pfam10503	Esterase_PHB	secondary	TRUE	167	166	99.4011976047904
+PHB	AAB40611.1	pfam02412	TSP_3 (accessory repeat)	accessory	FALSE	167	82	49.1017964071856
+P3HB	LC127088.1	TIGR01840	esterase_phb	primary	TRUE	188	188	100
+P3HB	LC127088.1	pfam10503	Esterase_PHB	secondary	TRUE	188	188	100
+P3HB	LC127088.1	pfam02412	TSP_3 (accessory repeat)	accessory	TRUE	188	90	47.8723404255319

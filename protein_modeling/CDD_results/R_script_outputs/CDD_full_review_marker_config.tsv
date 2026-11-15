@@ -1,0 +1,21 @@
+family	accession	marker	marker_role
+GPx_WP_003945816.1	cd00340	GSH_Peroxidase	primary
+GPx_WP_003945816.1	COG0386	BtuE	secondary
+GPx_WP_026826575.1	cd00340	GSH_Peroxidase	primary
+GPx_WP_026826575.1	COG0386	BtuE	secondary
+Laccase	pfam07732	Cu-oxidase_3	primary
+Laccase	TIGR01480	copper_res_A	secondary
+Oxidoreductase	pfam01565	FAD_binding_4	primary
+Oxidoreductase	COG0277	GlcD	secondary
+PETase_UUT36763.1	pfam12740	PETase	primary
+PETase_UUT36763.1	COG4188	COG4188	secondary
+PETase_UUT36764.1	pfam12740	PETase	primary
+PETase_UUT36764.1	COG4188	COG4188	secondary
+MCL_PHA	COG4099	COG4099 (predicted peptidase)	primary
+MCL_PHA	COG3509	LpqC (esterase-related)	secondary
+PHB	TIGR01840	esterase_phb	primary
+PHB	pfam10503	Esterase_PHB	secondary
+PHB	pfam02412	TSP_3 (accessory repeat)	accessory
+P3HB	TIGR01840	esterase_phb	primary
+P3HB	pfam10503	Esterase_PHB	secondary
+P3HB	pfam02412	TSP_3 (accessory repeat)	accessory

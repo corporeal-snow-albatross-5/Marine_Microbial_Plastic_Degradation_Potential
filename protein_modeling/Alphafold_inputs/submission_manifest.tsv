@@ -1,0 +1,14 @@
+accession	role	length_aa	organism	environment_group	isolation_environment	location	plastic_substrate_environment
+UUT36764.1	reference	307	Reference sequence				
+UUT36763.1	reference	316	Reference sequence				
+WP_328185892.1	homolog	307	Marinobacter sp. OP 3.4	Deep seawater	seawater	"Brazil:Campos basin, depth 1200m, 21.520 S 39.490 W"	Not reported
+WP_464107832.1	homolog	308	Aurantivibrio plasticivorans	Plastisphere / marine biofilm	plastisphere [ENVO:06105106]|sea water [ENVO:00002149]	"Japan:Kagoshima, Kagoshima, Kagoshima Bay, depth 19.1m, 31.557 N 130.564 E"	plastisphere [ENVO:06105106]|sea water [ENVO:00002149]
+UVG67878.1	reference	541	Reference sequence				
+WP_266278385.1	homolog	572	Methylophaga sp. OBS3	Marine sediment	shallow marine bay sediment near the effluent of a municipal waste water treatment plant	"USA: Oso Bay, Corpus Christi, TX; depth: 20 cm; lat_lon: 27.70894 N 97.33594 W"	Not reported
+AAB40611.1	reference	635	Reference sequence				
+WP_138319590.1	homolog	763	Thalassotalea litorea	Intertidal sediment / beach sand	sand of a seashore	"South Korea: South Sea, Jeju"	Not reported
+LC127088.1	reference	683	Reference sequence				
+WP_464370279.1	homolog	686	Halioxenophilus aromaticivorans	Plastisphere / marine biofilm	plastisphere	"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline [ENVO:00000486]; depth: 7.7m"	plastisphere [ENVO:06105106]|sea water [ENVO:00002149] | plastisphere | Collection of marine microorganisms that degradate biodegradable plastics | Microorganisms attached to the surface of biodegradable plastics immersed in the Japanese coast
+AAQ72538.1	reference	277	Reference sequence				
+WP_241584950.1	homolog	276	Atopomonas sediminilitoris	Intertidal sediment / beach sand	beach sediment	China	Not reported
+WP_374031472.1	homolog	256	Bdellovibrio bacteriovorus	Intertidal sediment / beach sand	tidal flat	China: Hainan	Not reported

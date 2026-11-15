@@ -1,0 +1,10 @@
+family	reference_accession	primary_CDD_model	domain_label	n_marine_homologs	Standard_n_with_model	Standard_percent	Full_n_with_model	Full_percent	Full_specific_hits	Full_non_specific_hits	Reference_has_model_in_full
+GPx_WP_003945816.1	WP_003945816.1	cd00340	GSH_Peroxidase	22	22	100.0	22	100.0	22	0	True
+GPx_WP_026826575.1	WP_026826575.1	cd00340	GSH_Peroxidase	45	45	100.0	45	100.0	45	0	True
+Laccase	UVG67878.1	pfam07732	Cu-oxidase_3	140	139	99.286	139	99.286	139	64	True
+Oxidoreductase	UOM43036.1	pfam01565	FAD_binding_4	14	13	92.857	14	100.0	13	1	True
+PETase_UUT36763.1	UUT36763.1	pfam12740	PETase	48	48	100.0	48	100.0	9	39	True
+PETase_UUT36764.1	UUT36764.1	pfam12740	PETase	83	83	100.0	83	100.0	13	70	True
+MCL_PHA	AAQ72538.1	COG4099	predicted peptidase (non-specific)	11	0	0.0	11	100.0	0	11	True
+PHB	AAB40611.1	TIGR01840	esterase_phb	167	166	99.401	166	99.401	0	166	True
+P3HB	LC127088.1	TIGR01840	esterase_phb	188	188	100.0	188	100.0	0	188	True
