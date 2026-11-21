@@ -1,0 +1,6 @@
+panel,reference,homolog,reference_chain,homolog_chain,reference_range,homolog_range
+MCL-PHA: AAQ72538.1 vs WP_241584950.1 (CDD domain),aligned_cif/pair_05_MCL_PHA/reference_AAQ72538.1.cif,aligned_cif/pair_05_MCL_PHA/homolog_WP_241584950.1.cif,A,A,53:232,52:231
+MCL-PHA: AAQ72538.1 vs WP_374031472.1 (CDD domain),aligned_cif/pair_06_MCL_PHA/reference_AAQ72538.1.cif,aligned_cif/pair_06_MCL_PHA/homolog_WP_374031472.1.cif,A,A,53:232,30:210
+PHB: AAB40611.1 vs WP_138319590.1 (CDD domain),aligned_cif/pair_08_PHB/reference_AAB40611.1.cif,aligned_cif/pair_08_PHB/homolog_WP_138319590.1.cif,A,A,44:246,43:248
+PHB: AAB40611.1 vs WP_464370279.1 (CDD domain),aligned_cif/pair_09_PHB/reference_AAB40611.1.cif,aligned_cif/pair_09_PHB/homolog_WP_464370279.1.cif,A,A,44:246,74:277
+P3HB: BAU59415.1 vs WP_464370279.1 (CDD domain),aligned_cif/pair_10_P3HB/reference_BAU59415.1.cif,aligned_cif/pair_10_P3HB/homolog_WP_464370279.1.cif,A,A,56:242,74:277

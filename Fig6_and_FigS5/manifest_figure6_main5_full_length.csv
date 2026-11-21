@@ -1,0 +1,6 @@
+panel,reference,homolog,reference_chain,homolog_chain,reference_range,homolog_range
+PETase: UUT36764.1 vs WP_464107832.1,aligned_cif/pair_02_PETase/reference_UUT36764.1.cif,aligned_cif/pair_02_PETase/homolog_WP_464107832.1.cif,A,A,,
+MCL-PHA: AAQ72538.1 vs WP_374031472.1,aligned_cif/pair_06_MCL_PHA/reference_AAQ72538.1.cif,aligned_cif/pair_06_MCL_PHA/homolog_WP_374031472.1.cif,A,A,,
+Laccase: UVG67878.1 vs WP_266278385.1,aligned_cif/pair_07_Laccase/reference_UVG67878.1.cif,aligned_cif/pair_07_Laccase/homolog_WP_266278385.1.cif,A,A,,
+PHB: AAB40611.1 vs WP_138319590.1,aligned_cif/pair_08_PHB/reference_AAB40611.1.cif,aligned_cif/pair_08_PHB/homolog_WP_138319590.1.cif,A,A,,
+P3HB: BAU59415.1 vs WP_464370279.1,aligned_cif/pair_10_P3HB/reference_BAU59415.1.cif,aligned_cif/pair_10_P3HB/homolog_WP_464370279.1.cif,A,A,,
