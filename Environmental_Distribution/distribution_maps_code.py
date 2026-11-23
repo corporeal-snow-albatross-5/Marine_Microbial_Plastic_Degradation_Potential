@@ -69,15 +69,15 @@ DATASETS = [
     {
         "name": "PETase (UUT36763.1)",
         "prefix": "petase184",
-        "geo_file": "PETase184_geographic_locations.csv",
-        "meta_file": "PETase184_metadata_standardized.xlsx",
+        "geo_file": "PETase(UUT36763.1)_geographic_locations.csv",
+        "meta_file": "PETase(UUT36763.1)_metadata_standardized.xlsx",
         "color": "#FF0808",  # red
     },
     {
         "name": "PETase (UUT36764.1)",
         "prefix": "petase183",
-        "geo_file": "PETase183_geographic_locations.csv",
-        "meta_file": "PETase183_metadata_standardized.xlsx",
+        "geo_file": "PETase(UUT36764.1)_geographic_locations.csv",
+        "meta_file": "PETase(UUT36764.1)_metadata_standardized.xlsx",
         "color": "#E69F00",  # orange
     },
 ]
@@ -1198,7 +1198,7 @@ def main():
 
     output_dir = os.path.join(
         base_dir,
-        "outputs"
+        "Environmental_Distribution_Maps"
     )
 
     individual_dir = os.path.join(
@@ -1490,7 +1490,7 @@ def main():
     print("DONE")
 
     print(
-        "Outputs saved in ./outputs"
+        "Outputs saved in ./Environmental_Distribution_Maps"
     )
 
     print(
