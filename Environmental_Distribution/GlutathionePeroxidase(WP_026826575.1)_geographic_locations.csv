@@ -9,38 +9,38 @@ WP_215142194.1,Not reported,Not reported,China: Qingdao,Not reported,https://www
 WP_214827836.1,Not reported,Not reported,China: Dongxing,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN15493207
 WP_214762277.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN15493180
 WP_372779777.1,29.928,122.422,China: ZhouShan,BioSample SAMN42105061 lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42105061
-WP_486772909.1,23.2833,116.773,China: Guangdong,BioSample SAMN44813284 lat_lon field: 23.283333 N 116.773056 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44813284
-WP_290592511.1,19.909,115.243,Pacific Ocean: South China Sea; depth 700 m,BioSample SAMN08366045 lat_lon field: 19.909 N 115.243 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08366045
+WP_486772909.1,23.283333,116.773056,China: Guangdong,BioSample SAMN44813284 lat_lon field: 23.283333 N 116.773056 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44813284
+WP_290592511.1,19.909,115.243,Pacific Ocean: South China Sea; depth: 700 m,BioSample SAMN08366045 lat_lon field: 19.909 N 115.243 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08366045
 WP_372748028.1,29.928,122.422,China: ZhouShan,BioSample SAMN42103294 lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42103294
 WP_138127256.1,Not reported,Not reported,China: Wenchang,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN11521716
 WP_101892728.1,Not reported,Not reported,South Korea: Taean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06011404
 WP_042205621.1,Not reported,Not reported,Black Sea (reported in exact-strain BioSample comment),Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03010338
 WP_044748373.1,Not reported,Not reported,"Greece: Milos, Kanava",Not reported,https://www.ncbi.nlm.nih.gov/bioproject/PRJNA260740
-WP_108437753.1,35.5246,134.085,Japan; depth 0 m,BioSample SAMN08135953 lat_lon field: 35.5246 N 134.0850 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08135953
-WP_290579410.1,19.909,115.243,Pacific Ocean: South China Sea; depth 700 m,BioSample SAMN08366966 lat_lon field: 19.909 N 115.243 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08366966
+WP_108437753.1,35.5246,134.085,Japan; depth: 0 m,BioSample SAMN08135953 lat_lon field: 35.5246 N 134.0850 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08135953
+WP_290579410.1,19.909,115.243,Pacific Ocean: South China Sea; depth: 700 m,BioSample SAMN08366966 lat_lon field: 19.909 N 115.243 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08366966
 WP_423419467.1,Not reported,Not reported,China:Weihai,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN47743563
 WP_087913571.1,Not reported,Not reported,South Korea: East Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06833332
 WP_085758778.1,Not reported,Not reported,Japan: Sagami Bay Station; source: seawater,Not reported,https://www.nite.go.jp/nbrc/catalogue/NBRCCatalogueDetailServlet?CAT=00107125&ID=NBRC
-WP_189478192.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; depth 4000m",BioSample SAMN14675731 lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675731
-WP_222463053.1,22.59,114.552,China:Shenzhen; depth 11.7,BioSample SAMN19953101 lat_lon field: 22.590 N 114.552 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN19953101
+WP_189478192.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; depth: 4000m",BioSample SAMN14675731 lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675731
+WP_222463053.1,22.59,114.552,China:Shenzhen; depth: 11.7,BioSample SAMN19953101 lat_lon field: 22.590 N 114.552 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN19953101
 WP_011759196.1,Not reported,Not reported,"Amazon River delta, coastal shelf off Brazil",Not reported,https://www.ncbi.nlm.nih.gov/bioproject/PRJNA13385
 WP_233806466.1,Not reported,Not reported,Israel: Eilat,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN23709851
 WP_203326402.1,Not reported,Not reported,South Korea: Saemankum; tidal-flat sediment on the western coast of Korea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN24537892
-WP_303983512.1,-19.9326,146.519,"Australia: Great Barrier Reef, Magnetic Island, Geoffrey Bay",BioSample SAMN13494943 lat_lon field: 19.9326 S 146.51861 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN13494943
-WP_291017879.1,21.5,72.5,India: Gulf of Khambhat; depth 1-100 cm,BioSample SAMN13684368 lat_lon field: 21.5 N 72.5 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN13684368
-WP_279243352.1,38.23,128.69,South Korea; depth 10 m,BioSample SAMN10929371 lat_lon field: 38.23 N 128.69 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10929371
+WP_303983512.1,-19.9326,146.51861,"Australia: Great Barrier Reef, Magnetic Island, Geoffrey Bay",BioSample SAMN13494943 lat_lon field: 19.9326 S 146.51861 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN13494943
+WP_291017879.1,21.5,72.5,India: Gulf of Khambhat; depth: 1-100 cm,BioSample SAMN13684368 lat_lon field: 21.5 N 72.5 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN13684368
+WP_279243352.1,38.23,128.69,South Korea; depth: 10 m,BioSample SAMN10929371 lat_lon field: 38.23 N 128.69 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10929371
 WP_338776667.1,Not reported,Not reported,China: Fujian,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN39644992
 WP_342822418.1,Not reported,Not reported,Brazil: SaoPaulo,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40379377
 WP_211558611.1,Not reported,Not reported,"South Korea: Marine mudflats, Uljin",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN18642694
-WP_312748170.1,57.1573,9.36542,Denmark: Slettestrand,BioSample SAMN32641504 lat_lon field: 57.157306 N 9.365417 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN32641504
-WP_068153195.1,0,160,Pacific Ocean: Western Pacific Ocean; depth 0 m,BioSample SAMN04432128 lat_lon field: 0 N 160 E,https://www.ncbi.nlm.nih.gov/bioproject/PRJNA306217
-WP_486329016.1,5.3302,100.309,Malaysia:Bayan Lepas,BioSample SAMN57458353 lat_lon field: 5.3302 N 100.3086 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN57458353
+WP_312748170.1,57.157306,9.365417,Denmark: Slettestrand,BioSample SAMN32641504 lat_lon field: 57.157306 N 9.365417 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN32641504
+WP_068153195.1,0,160,Pacific Ocean: Western Pacific Ocean; depth: 0 m,BioSample SAMN04432128 lat_lon field: 0 N 160 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04432128 | https://www.ncbi.nlm.nih.gov/bioproject/PRJNA306217
+WP_486329016.1,5.3302,100.3086,Malaysia:Bayan Lepas,BioSample SAMN57458353 lat_lon field: 5.3302 N 100.3086 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN57458353
 WP_163636080.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN13741322
 WP_305904215.1,Not reported,Not reported,South Korea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN32317219
-WP_490404818.1,22.7901,-157.9439,"Tara Oceans station TARA_131; 22.7901 N, 157.9439 W; depth 106–115 m (nominal 110 m)",Derived BioSample SAMEA2623037: latitude start 22.7901; longitude start -157.9439,https://www.ncbi.nlm.nih.gov/biosample/SAMEA2623037
+WP_490404818.1,22.7901,-157.9439,Tara Oceans station TARA_131; depth: 106–115 m (nominal 110 m),Derived BioSample SAMEA2623037: latitude start 22.7901; longitude start -157.9439,https://www.ncbi.nlm.nih.gov/biosample/SAMEA2623037
 WP_133213762.1,Not reported,Not reported,"South Korea: Gangwha Island, Incheon",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN11073728
-WP_422848402.1,24.4743,118.045,China:Xaimen; depth 0.5m,BioSample SAMN47504791 lat_lon field: 24.4743 N 118.0454 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN47504791
+WP_422848402.1,24.4743,118.0454,China:Xaimen; depth: 0.5m,BioSample SAMN47504791 lat_lon field: 24.4743 N 118.0454 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN47504791
 WP_421563200.1,Not reported,Not reported,South Korea: Pusan,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN47542777
 WP_249700801.1,Not reported,Not reported,South Korea: Jeju-do,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN28105689
 WP_203293554.1,Not reported,Not reported,India:Indian Ocean off Goa,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16814588
-WP_281647015.1,36.979778,-7.989111,Portugal; depth 20,"BioSample SAMEA112127973 geographic location (latitude)/(longitude) fields: 36.979778, -7.989111",https://www.ncbi.nlm.nih.gov/biosample/SAMEA112127973
+WP_281647015.1,36.979778,-7.989111,Portugal; depth: 20,BioSample SAMEA112127973 latitude/longitude fields: 36.979778; -7.989111,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112127973

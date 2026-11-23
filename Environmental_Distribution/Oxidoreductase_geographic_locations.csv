@@ -1,15 +1,15 @@
 Protein accession number,Latitude,Longitude,Exact sampling location,Coordinate evidence,Source URL
-WP_421545704.1,1.222353 N,103.848702 E,Singapore: St John's Island wharf,BioSample lat_lon field: 1.222353 N 103.848702 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46824169
-WP_475237385.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported in NCBI BioSample SAMN51862021,https://www.ncbi.nlm.nih.gov/biosample/SAMN51862021
-WP_052191922.1,21.03 N,118.23 E,Pacific Ocean: South China Sea,BioSample lat_lon field: 21.03 N 118.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN02909700
-WP_033578324.1,21.03 N,118.23 E,Pacific Ocean: South China Sea,BioSample lat_lon field: 21.03 N 118.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN02909700
-WP_264134298.1,Not reported,Not reported,Tanzania: Bagamoyo,Not reported in NCBI BioSample SAMN31165207,https://www.ncbi.nlm.nih.gov/biosample/SAMN31165207
-WP_242805859.1,Not reported,Not reported,Malaysia: Matang Mangrove Perak,Not reported in NCBI BioSample SAMN26865143; publication coordinates were not used because their directional ranges are invalid,https://www.ncbi.nlm.nih.gov/biosample/SAMN26865143
-WP_222462542.1,22.590 N,114.552 E,China:Shenzhen,BioSample lat_lon field: 22.590 N 114.552 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN19953101
-WP_226537327.1,22.568 N,114.439 E,China:Shenzhen,BioSample lat_lon field: 22.568 N 114.439 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN21557922
-WP_060751247.1,Not reported,Not reported,"South Africa: Port Elizabeth, Algoa Bay, Indian Ocean",Not reported in NCBI BioSample SAMN04432437,https://www.ncbi.nlm.nih.gov/biosample/SAMN04432437
-WP_309558911.1,Not reported,Not reported,Arctic Ocean,BioSample lat_lon field: unknown,https://www.ncbi.nlm.nih.gov/biosample/SAMN37204769
-WP_474847631.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported in NCBI BioSample SAMN51861906,https://www.ncbi.nlm.nih.gov/biosample/SAMN51861906
-WP_270180266.1,Not reported,Not reported,Taiwan,Not reported in NCBI BioSample SAMEA112151711,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112151711
-WP_474833637.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida","Not reported in NCBI BioSamples SAMN51862039, SAMN51861979, and SAMN51861982",https://www.ncbi.nlm.nih.gov/biosample/SAMN51862039; https://www.ncbi.nlm.nih.gov/biosample/SAMN51861979; https://www.ncbi.nlm.nih.gov/biosample/SAMN51861982
-WP_349409165.1,Not reported,Not reported,China:South China Sea,Not reported in NCBI BioSample SAMN39489479,https://www.ncbi.nlm.nih.gov/biosample/SAMN39489479
+WP_421545704.1,1.222353,103.848702,Singapore: St John's Island wharf,BioSample SAMN46824169 lat_lon field: 1.222353 N 103.848702 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46824169
+WP_475237385.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN51862021
+WP_052191922.1,21.03,118.23,Pacific Ocean: South China Sea,BioSample SAMN02909700 lat_lon field: 21.03 N 118.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN02909700
+WP_033578324.1,21.03,118.23,Pacific Ocean: South China Sea,BioSample SAMN02909700 lat_lon field: 21.03 N 118.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN02909700
+WP_264134298.1,Not reported,Not reported,Tanzania: Bagamoyo,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN31165207
+WP_242805859.1,Not reported,Not reported,Malaysia: Matang Mangrove Perak,Not reported; publication coordinates were not used because their directional ranges are invalid,https://www.ncbi.nlm.nih.gov/biosample/SAMN26865143
+WP_222462542.1,22.59,114.552,China:Shenzhen,BioSample SAMN19953101 lat_lon field: 22.590 N 114.552 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN19953101
+WP_226537327.1,22.568,114.439,China:Shenzhen,BioSample SAMN21557922 lat_lon field: 22.568 N 114.439 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN21557922
+WP_060751247.1,Not reported,Not reported,"South Africa: Port Elizabeth, Algoa Bay, Indian Ocean",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04432437
+WP_309558911.1,Not reported,Not reported,Arctic Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN37204769
+WP_474847631.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN51861906
+WP_270180266.1,23.2469494,119.6679559,Taiwan,BioSample SAMEA112151711 latitude/longitude fields: 23.2469494; 119.6679559,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112151711
+WP_474833637.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN51862039 | https://www.ncbi.nlm.nih.gov/biosample/SAMN51861979 | https://www.ncbi.nlm.nih.gov/biosample/SAMN51861982
+WP_349409165.1,Not reported,Not reported,China:South China Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN39489479

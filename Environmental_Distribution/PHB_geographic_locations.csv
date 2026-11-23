@@ -1,168 +1,168 @@
 Protein accession number,Latitude,Longitude,Exact sampling location,Coordinate evidence,Source URL
-WP_133493510.1,-23.463658,-70.504668,Chile: Antofagasta; local setting: Intertidal zone_La_Rinconada_[PMD],BioSample lat_lon field: 23.463658 S 70.504668 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN11041869
+WP_133493510.1,-23.463658,-70.504668,Chile: Antofagasta; local setting: Intertidal zone_La_Rinconada_[PMD],BioSample SAMN11041869 lat_lon field: 23.463658 S 70.504668 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN11041869
 WP_485163824.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120694364
 WP_416391079.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN30158652
-WP_317009323.1,19.5,-96,Mexico: Gulf of Mexico; local setting: marine sublitteral zone; depth: 307 m,BioSample lat_lon field: 19.50 N 96.00 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN37711658
+WP_317009323.1,19.5,-96,Mexico: Gulf of Mexico; local setting: marine sublitteral zone; depth: 307 m,BioSample SAMN37711658 lat_lon field: 19.50 N 96.00 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN37711658
 WP_244168483.1,Not reported,Not reported,Indian Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03965495
-WP_474365385.1,38.55,13.18,Mediterranean Sea,BioSample geographic location (latitude) field: 38.55; geographic location (longitude) field: 13.18,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726525
-WP_316308580.1,39.54,116.26,"China: Xiamen, Ocean; depth: 0",BioSample lat_lon field: 39.54 N 116.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37670476
-WP_474359680.1,39.48,7.24,Mediterranean Sea,BioSample geographic location (latitude) field: 39.48; geographic location (longitude) field: 7.24,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726592
-WP_423885108.1,22.5675,114.4555,China: Dapeng Bay; local setting: coastal sea water [ENVO_00002150]; depth: 0.1,BioSample lat_lon field: 22.5675 N 114.4555 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46377876
-WP_485164795.1,27.51583333,-111.425,USA:Guaymas Basin,BioSample lat_lon field: 27.51583333 N 111.425 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN09926254
-WP_228233368.1,27.27,-111.44,"Mexico: Gulf of California, Sonora Margin; local setting: marine pelagic biome [ENVO_01000023]; depth: 1903",BioSample lat_lon field: 27.27 N 111.44 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39175666
+WP_474365385.1,38.55,13.18,Mediterranean Sea,BioSample SAMEA120726525 latitude/longitude fields: 38.55; 13.18,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726525
+WP_316308580.1,39.54,116.26,"China: Xiamen, Ocean; depth: 0",BioSample SAMN37670476 lat_lon field: 39.54 N 116.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37670476
+WP_474359680.1,39.48,7.24,Mediterranean Sea,BioSample SAMEA120726592 latitude/longitude fields: 39.48; 7.24,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726592
+WP_423885108.1,22.5675,114.4555,China: Dapeng Bay; local setting: coastal sea water; depth: 0.1,BioSample SAMN46377876 lat_lon field: 22.5675 N 114.4555 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46377876
+WP_485164795.1,27.51583333,-111.425,USA:Guaymas Basin,BioSample SAMN09926254 lat_lon field: 27.51583333 N 111.425 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN09926254
+WP_228233368.1,27.27,-111.44,"Mexico: Gulf of California, Sonora Margin; local setting: marine pelagic biome; depth: 1903",BioSample SAMN39175666 lat_lon field: 27.27 N 111.44 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39175666
 WP_194855806.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16709231
 WP_228548738.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16709230
-WP_473780318.1,10.847,-65.114,Atlantic Ocean,BioSample geographic location (latitude) field: 10.847; geographic location (longitude) field: -65.114,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120730218
-WP_204431675.1,18.921836,72.834705,India: Arabian Sea; local setting: Intertidal zone; depth: 15cm,BioSample lat_lon field: 18.921836 N 72.834705 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16453395
-WP_410308002.1,29.949,122.091,China: Hangzhou city; local setting: Intertidal zone; depth: 0,BioSample lat_lon field: 29.949 N 122.091 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45997027
-WP_423934416.1,22.5675,114.4555,China: Dapeng Bay; local setting: coastal sea water [ENVO_00002150]; depth: 0.1,BioSample lat_lon field: 22.5675 N 114.4555 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46377821
+WP_473780318.1,10.847,-65.114,Atlantic Ocean,BioSample SAMEA120730218 latitude/longitude fields: 10.847; -65.114,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120730218
+WP_204431675.1,18.921836,72.834705,India: Arabian Sea; local setting: Intertidal zone; depth: 15cm,BioSample SAMN16453395 lat_lon field: 18.921836 N 72.834705 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16453395
+WP_410308002.1,29.949,122.091,China: Hangzhou city; local setting: Intertidal zone; depth: 0,BioSample SAMN45997027 lat_lon field: 29.949 N 122.091 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45997027
+WP_423934416.1,22.5675,114.4555,China: Dapeng Bay; local setting: coastal sea water; depth: 0.1,BioSample SAMN46377821 lat_lon field: 22.5675 N 114.4555 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46377821
 WP_485154554.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120694275
-WP_473785057.1,11.34,142.33,Pacific Ocean,BioSample geographic location (latitude) field: 11.34; geographic location (longitude) field: 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737277
-WP_474367516.1,11.34,142.33,Pacific Ocean,BioSample geographic location (latitude) field: 11.34; geographic location (longitude) field: 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737434
-WP_473781655.1,-13.003,-80.809,Pacific Ocean,BioSample geographic location (latitude) field: -13.003; geographic location (longitude) field: -80.809,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120725221
-WP_410298276.1,29.949,122.091,China: Hangzhou city; local setting: Intertidal zone; depth: 0,BioSample lat_lon field: 29.949 N 122.091 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45997028
-WP_475647339.1,-16.21,-76.63,Pacific Ocean,BioSample geographic location (latitude) field: -16.21; geographic location (longitude) field: -76.63,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120736446
-WP_475364427.1,11.34,142.33,Pacific Ocean,BioSample geographic location (latitude) field: 11.34; geographic location (longitude) field: 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737362
-WP_474234444.1,36.25,-122.2099,USA,BioSample geographic location (latitude) field: 36.25; geographic location (longitude) field: -122.2099,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120724611
-WP_194298376.1,18,116,China: South China Sea; depth: 3850 m,BioSample lat_lon field: 18 N 116 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN14884351
+WP_473785057.1,11.34,142.33,Pacific Ocean,BioSample SAMEA120737277 latitude/longitude fields: 11.34; 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737277
+WP_474367516.1,11.34,142.33,Pacific Ocean,BioSample SAMEA120737434 latitude/longitude fields: 11.34; 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737434
+WP_473781655.1,-13.003,-80.809,Pacific Ocean,BioSample SAMEA120725221 latitude/longitude fields: -13.003; -80.809,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120725221
+WP_410298276.1,29.949,122.091,China: Hangzhou city; local setting: Intertidal zone; depth: 0,BioSample SAMN45997028 lat_lon field: 29.949 N 122.091 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45997028
+WP_475647339.1,-16.21,-76.63,Pacific Ocean,BioSample SAMEA120736446 latitude/longitude fields: -16.21; -76.63,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120736446
+WP_475364427.1,11.34,142.33,Pacific Ocean,BioSample SAMEA120737362 latitude/longitude fields: 11.34; 142.33,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120737362
+WP_474234444.1,36.25,-122.2099,USA,BioSample SAMEA120724611 latitude/longitude fields: 36.25; -122.2099,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120724611
+WP_194298376.1,18,116,China: South China Sea; depth: 3850 m,BioSample SAMN14884351 lat_lon field: 18 N 116 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN14884351
 WP_101674902.1,Not reported,Not reported,Indian Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN07344861
 WP_229158737.1,Not reported,Not reported,South Korea: Ganghwa Island,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN22563708
 WP_416306217.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN39617320
 WP_043321053.1,Not reported,Not reported,"China: Zhoushan, Zhejiang Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN43393937
-WP_062478888.1,36.95428158,126.81518554,South Korea: Asan bay tidal flat; depth: 1 meter,BioSample lat_lon field: 36.95428158 N 126.81518554 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04324273
-WP_406827977.1,17.488568,106.628368,Viet Nam; local setting: shoreline,BioSample lat_lon field: 17.488568 N 106.628368 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN40991322
+WP_062478888.1,36.95428158,126.81518554,South Korea: Asan bay tidal flat; depth: 1 meter,BioSample SAMN04324273 lat_lon field: 36.95428158 N 126.81518554 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04324273
+WP_406827977.1,17.488568,106.628368,Viet Nam; local setting: shoreline,BioSample SAMN40991322 lat_lon field: 17.488568 N 106.628368 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN40991322
 WP_069947361.1,Not reported,Not reported,"Malaysia: Matang Mangrove, Perak",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04334609
-WP_414828916.1,3,142.5,Pacific Ocean; depth: 3200m,BioSample lat_lon field: 3 N 142.5 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45970368
-WP_218355362.1,-27.74,-117.62,Pacific Ocean; local setting: Deep seawater; depth: 3660m,BioSample lat_lon field: 27.74 S 117.62 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN17320765
+WP_414828916.1,3,142.5,Pacific Ocean; depth: 3200m,BioSample SAMN45970368 lat_lon field: 3 N 142.5 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN45970368
+WP_218355362.1,-27.74,-117.62,Pacific Ocean; local setting: Deep seawater; depth: 3660m,BioSample SAMN17320765 lat_lon field: 27.74 S 117.62 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN17320765
 WP_008486116.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN02471169
-WP_464948910.1,49.5078,-124.8272709,"Canada: Fanny Bay, Vancouver Island, British Columbia; local setting: shoreline",BioSample lat_lon field: 49.5078 N 124.8272709 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN41075317
-WP_417358013.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274307
+WP_464948910.1,49.5078,-124.8272709,"Canada: Fanny Bay, Vancouver Island, British Columbia; local setting: shoreline",BioSample SAMN41075317 lat_lon field: 49.5078 N 124.8272709 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN41075317
+WP_417358013.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample SAMN46274307 lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274307
 WP_214129931.1,Not reported,Not reported,Indian Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN19186168
-WP_487122015.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline [ENVO:00000486]; depth: 2.8",BioSample lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680974
-WP_353370548.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline [ENVO:00000486]; depth: 13",BioSample lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755691
-WP_417359899.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274190
-WP_218312562.1,38.35,1.67,Spain: Mediterranean Sea; local setting: Seawater,BioSample lat_lon field: 38.35 N 1.67 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315413
-WP_050660496.1,16.62,116.72,Pacific Ocean:South China Sea; local setting: offshore; depth: 5m,BioSample lat_lon field: 16.62 N 116.72 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN39284289
-WP_346839204.1,15.513,73.8704,India: Goa; local setting: Sediment; depth: 1m,BioSample lat_lon field: 15.5130 N 73.8704 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41278739
-WP_303473067.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: ENVO:01000687; depth: 0",BioSample lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510958
-WP_303500066.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: ENVO:01000687; depth: 0",BioSample lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510955
-WP_246604452.1,38.99,2.65,Spain: Mediterranean Sea; local setting: Seawater,BioSample lat_lon field: 38.99 N 2.65 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315639
-WP_216049299.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone [ENVO:00000316]; depth: 0-2 m",BioSample lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350943
+WP_487122015.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline; depth: 2.8",BioSample SAMD01680974 lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680974
+WP_353370548.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline; depth: 13",BioSample SAMD00755691 lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755691
+WP_417359899.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample SAMN46274190 lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274190
+WP_218312562.1,38.35,1.67,Spain: Mediterranean Sea; local setting: Seawater,BioSample SAMN17315413 lat_lon field: 38.35 N 1.67 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315413
+WP_050660496.1,16.62,116.72,Pacific Ocean:South China Sea; local setting: offshore; depth: 5m,BioSample SAMN39284289 lat_lon field: 16.62 N 116.72 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN39284289
+WP_346839204.1,15.513,73.8704,India: Goa; local setting: Sediment; depth: 1m,BioSample SAMN41278739 lat_lon field: 15.5130 N 73.8704 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41278739
+WP_303473067.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: coast; depth: 0",BioSample SAMN36510958 lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510958
+WP_303500066.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: coast; depth: 0",BioSample SAMN36510955 lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510955
+WP_246604452.1,38.99,2.65,Spain: Mediterranean Sea; local setting: Seawater,BioSample SAMN17315639 lat_lon field: 38.99 N 2.65 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315639
+WP_216049299.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone; depth: 0-2 m",BioSample SAMN19350943 lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350943
 WP_460311521.1,Not reported,Not reported,South Korea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD00809423
-WP_342806235.1,11.2,142.11,Pacific Ocean: Mariana Trench; local setting: Ocean (ENVO: 00000015); depth: 2500 m,BioSample lat_lon field: 11.20 N 142.11 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN39457126
+WP_342806235.1,11.2,142.11,Pacific Ocean: Mariana Trench; local setting: Ocean; depth: 2500 m,BioSample SAMN39457126 lat_lon field: 11.20 N 142.11 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN39457126
 WP_390614625.1,Not reported,Not reported,"Japan:Okinawa, Ishigaki Island",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD00769374
-WP_105936495.1,5,130,Pacific Ocean: Western Pacific; local setting: sea; depth: 0 m,BioSample lat_lon field: 5 N 130 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08634501
-WP_258544420.1,38.99,2.65,Spain: Mediterranean Sea; local setting: Seawater,BioSample lat_lon field: 38.99 N 2.65 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315612
-WP_232359458.1,29.47,121.58,"China: Meishan island,ningbo; local setting: intertidal zone; depth: 0.1 m",BioSample lat_lon field: 29.47 N 121.58 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN18876451
-WP_412725544.1,34.51,138.21,"Japan:Shizuoka, Suruga Bay",BioSample lat_lon field: 34.51 N 138.21 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00787891
-WP_370240786.1,30.1282,122.74599,China: East China Sea; local setting: shoreline [ENVO:00000486]; depth: -40m,BioSample lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41428433
-WP_490711645.1,-8.9109,-140.2845,missing: third party data,BioSample geographic location (latitude) field: -8.91090000; geographic location (longitude) field: -140.28450000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122621261
-WP_108566897.1,-6.1,153,Pacific Ocean: New Britain Trench; local setting: ocean trench ENVO:00000275; depth: 4700 m,BioSample lat_lon field: 6.1 S 153 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN09858433
-WP_370164851.1,30.1282,122.74599,China: East China Sea; local setting: shoreline [ENVO:00000486]; depth: -40m,BioSample lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41428321
-WP_488798885.1,25.86,-68.99,Atlantic Ocean,BioSample geographic location (latitude) field: 25.86000000; geographic location (longitude) field: -68.99000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122256505
-WP_262992133.1,36.36,120.7,China: Aoshan bay; local setting: Offshore; depth: 10cm,BioSample lat_lon field: 36.36 N 120.7 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN31059940
-WP_255052969.1,24.56,-81.4,"USA: FL, Looe Key; local setting: offshore reef",BioSample lat_lon field: 24.56 N 81.40 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29402432
+WP_105936495.1,5,130,Pacific Ocean: Western Pacific; local setting: sea; depth: 0 m,BioSample SAMN08634501 lat_lon field: 5 N 130 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08634501
+WP_258544420.1,38.99,2.65,Spain: Mediterranean Sea; local setting: Seawater,BioSample SAMN17315612 lat_lon field: 38.99 N 2.65 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17315612
+WP_232359458.1,29.47,121.58,"China: Meishan island,ningbo; local setting: intertidal zone; depth: 0.1 m",BioSample SAMN18876451 lat_lon field: 29.47 N 121.58 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN18876451
+WP_412725544.1,34.51,138.21,"Japan:Shizuoka, Suruga Bay",BioSample SAMD00787891 lat_lon field: 34.51 N 138.21 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00787891
+WP_370240786.1,30.1282,122.74599,China: East China Sea; local setting: shoreline; depth: -40m,BioSample SAMN41428433 lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41428433
+WP_490711645.1,-8.9109,-140.2845,Not reported,BioSample SAMEA122621261 latitude/longitude fields: -8.91090000; -140.28450000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122621261
+WP_108566897.1,-6.1,153,Pacific Ocean: New Britain Trench; local setting: ocean trench; depth: 4700 m,BioSample SAMN09858433 lat_lon field: 6.1 S 153 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN09858433
+WP_370164851.1,30.1282,122.74599,China: East China Sea; local setting: shoreline; depth: -40m,BioSample SAMN41428321 lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41428321
+WP_488798885.1,25.86,-68.99,Atlantic Ocean,BioSample SAMEA122256505 latitude/longitude fields: 25.86000000; -68.99000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122256505
+WP_262992133.1,36.36,120.7,China: Aoshan bay; local setting: Offshore; depth: 10cm,BioSample SAMN31059940 lat_lon field: 36.36 N 120.7 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN31059940
+WP_255052969.1,24.56,-81.4,"USA: FL, Looe Key; local setting: offshore reef",BioSample SAMN29402432 lat_lon field: 24.56 N 81.40 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29402432
 WP_169211550.1,Not reported,Not reported,South Korea: Jeju Island,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN14445999
-WP_489728994.1,-62.209722,-58.945,Antarctica: King George Island; local setting: intertidal zone [ENVO:00000316]; depth: 0m,BioSample lat_lon field: 62.209722 S 58.945000 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN60384991
+WP_489728994.1,-62.209722,-58.945,Antarctica: King George Island; local setting: intertidal zone; depth: 0m,BioSample SAMN60384991 lat_lon field: 62.209722 S 58.945000 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN60384991
 WP_308160236.1,Not reported,Not reported,Indian Ocean: polymetallic sulfide region,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN19698113
-WP_339720544.1,74.305,-85.6552,Not reported,BioSample geographic location (latitude) field: 74.305; geographic location (longitude) field: -85.6552,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115300636
-WP_226766338.1,38.47,128.43,South Korea: the East Sea; depth: 1m,BioSample lat_lon field: 38.47 N 128.43 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN22234094
-WP_273024228.1,40,-32,Atlantic Ocean; local setting: marine; depth: 100 m,GenBank /lat_lon qualifier: 40 N 32 W,https://www.ncbi.nlm.nih.gov/nuccore/NZ_PKDI01000131.1?report=genbank
+WP_339720544.1,74.305,-85.6552,Not reported,BioSample SAMEA115300636 latitude/longitude fields: 74.305; -85.6552,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115300636
+WP_226766338.1,38.47,128.43,South Korea: the East Sea; depth: 1m,BioSample SAMN22234094 lat_lon field: 38.47 N 128.43 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN22234094
+WP_273024228.1,40,-32,Atlantic Ocean; local setting: marine; depth: 100 m,GenBank NZ_PKDI01000131.1 /lat_lon qualifier: 40 N 32 W,https://www.ncbi.nlm.nih.gov/nuccore/NZ_PKDI01000131.1
 WP_483429720.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120692100
 WP_230818297.1,Not reported,Not reported,Indian Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN21035624
 WP_140959234.1,Not reported,Not reported,"China: Beilun estuary national nature reserve, Fangchenggang City, Guangxi Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN12097423
 WP_268408416.1,Not reported,Not reported,Germany,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN14732910
-WP_134052912.1,79.7913,1.7609,Arctic Ocean; local setting: sea ice,BioSample lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748018
-WP_415186404.1,79.7913,1.7609,Arctic Ocean; local setting: sea ice,BioSample lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748180
-WP_488096027.1,29.390016,47.98736,Kuwait,BioSample geographic location (latitude) field: 29.39001600; geographic location (longitude) field: 47.98736000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122259075
-WP_372626301.1,29.928,122.422,China: ZhouShan; local setting: Intertidal zone,BioSample lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42104932
+WP_134052912.1,79.7913,1.7609,Arctic Ocean; local setting: sea ice,BioSample SAMN44748018 lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748018
+WP_415186404.1,79.7913,1.7609,Arctic Ocean; local setting: sea ice,BioSample SAMN44748180 lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748180
+WP_488096027.1,29.390016,47.98736,Kuwait,BioSample SAMEA122259075 latitude/longitude fields: 29.39001600; 47.98736000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122259075
+WP_372626301.1,29.928,122.422,China: ZhouShan; local setting: Intertidal zone,BioSample SAMN42104932 lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42104932
 WP_290619885.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06454264
 WP_290610051.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06451192
-WP_260548447.1,18.97,39.54,Saudi Arabia: Red Sea; depth: 1000,BioSample lat_lon field: 18.97 N 39.54 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN09530167
+WP_260548447.1,18.97,39.54,Saudi Arabia: Red Sea; depth: 1000,BioSample SAMN09530167 lat_lon field: 18.97 N 39.54 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN09530167
 WP_390517656.1,Not reported,Not reported,Japan:Fukui,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD00769372
 WP_345421781.1,Not reported,Not reported,Japan,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD00645881
-WP_464370279.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline [ENVO:00000486]; depth: 7.7m",BioSample lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00787893
-WP_219932609.1,27.5,120.3,China: Wenzhou; local setting: intertidal zone; depth: 0 m,BioSample lat_lon field: 27.5 N 120.3 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN15234871
+WP_464370279.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline; depth: 7.7m",BioSample SAMD00787893 lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00787893
+WP_219932609.1,27.5,120.3,China: Wenzhou; local setting: intertidal zone; depth: 0 m,BioSample SAMN15234871 lat_lon field: 27.5 N 120.3 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN15234871
 WP_227718221.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04349613
-WP_295799054.1,17.967318,-67.01883,Puerto Rico; local setting: marine,BioSample geographic location (latitude) field: 17.967318; geographic location (longitude) field: -67.01883,https://www.ncbi.nlm.nih.gov/biosample/SAMEA9695178
+WP_295799054.1,17.967318,-67.01883,Puerto Rico; local setting: marine,BioSample SAMEA9695178 latitude/longitude fields: 17.967318; -67.01883,https://www.ncbi.nlm.nih.gov/biosample/SAMEA9695178
 WP_318954214.1,Not reported,Not reported,"Micronesia, Federated States of: Federated State of Micronesia, ) in the Pacific Ocean; local setting: 20 m depth in a tropical area",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN37986814
 WP_058584693.1,Not reported,Not reported,"Saudi Arabia: Erba deep brine-seawater interface, Red Sea; depth: 2000 m.",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04318431
-WP_105173614.1,28.33,121.18,"China: Zhejiang Province, Ximen Island",BioSample lat_lon field: 28.33 N 121.18 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08380962
-WP_212746797.1,24.9963,-67.0246,Atlantic Ocean: North Atlantic,BioSample lat_lon field: 24.9963 N 67.0246 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093577
-WP_253039232.1,18.37436,-64.9549,"Virgin Islands: St. Thomas, Hull Bay; local setting: offshore reef",BioSample lat_lon field: 18.37436 N 64.9549 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29243492
+WP_105173614.1,28.33,121.18,"China: Zhejiang Province, Ximen Island",BioSample SAMN08380962 lat_lon field: 28.33 N 121.18 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08380962
+WP_212746797.1,24.9963,-67.0246,Atlantic Ocean: North Atlantic,BioSample SAMN08093577 lat_lon field: 24.9963 N 67.0246 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093577
+WP_253039232.1,18.37436,-64.9549,"Virgin Islands: St. Thomas, Hull Bay; local setting: offshore reef",BioSample SAMN29243492 lat_lon field: 18.37436 N 64.9549 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29243492
 WP_435559480.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN49725152
-WP_348714410.1,-20.4075,-3.1641,Not reported,BioSample geographic location (latitude) field: -20.40750000; geographic location (longitude) field: -3.16410000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115421953
-WP_462182065.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931348
-WP_239963837.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777657
+WP_348714410.1,-20.4075,-3.1641,Not reported,BioSample SAMEA115421953 latitude/longitude fields: -20.40750000; -3.16410000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115421953
+WP_462182065.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: intertidal zone,BioSample SAMN48931348 lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931348
+WP_239963837.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample SAMN24777657 lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777657
 WP_349560949.1,Not reported,Not reported,Portugal,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN18287954
-WP_294089584.1,-34.0614,-73.1066,Not reported; local setting: marine,BioSample geographic location (latitude) field: -34.0614; geographic location (longitude) field: -73.1066,https://www.ncbi.nlm.nih.gov/biosample/SAMEA9694845
-WP_138557790.1,23.2469494,119.6679559,Taiwan,BioSample geographic location (latitude) field: 23.2469494; geographic location (longitude) field: 119.6679559,https://www.ncbi.nlm.nih.gov/biosample/SAMEA111539002
-WP_286260681.1,42.12574,139.99966,Japan:Hakodate; local setting: egg,BioSample lat_lon field: 42.12574 N 139.99966 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00603154
+WP_294089584.1,-34.0614,-73.1066,Not reported; local setting: marine,BioSample SAMEA9694845 latitude/longitude fields: -34.0614; -73.1066,https://www.ncbi.nlm.nih.gov/biosample/SAMEA9694845
+WP_138557790.1,23.2469494,119.6679559,Taiwan,BioSample SAMEA111539002 latitude/longitude fields: 23.2469494; 119.6679559,https://www.ncbi.nlm.nih.gov/biosample/SAMEA111539002
+WP_286260681.1,42.12574,139.99966,Japan:Hakodate; local setting: egg,BioSample SAMD00603154 lat_lon field: 42.12574 N 139.99966 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00603154
 WP_119853069.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN10075489
-WP_205994337.1,30.19,130.1,Japan: Kagoshima; local setting: marine; depth: 0-5cm,BioSample lat_lon field: 30.19 N 130.10 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN11337998
+WP_205994337.1,30.19,130.1,Japan: Kagoshima; local setting: marine; depth: 0-5cm,BioSample SAMN11337998 lat_lon field: 30.19 N 130.10 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN11337998
 WP_217702824.1,Not reported,Not reported,"USA: GA, Athens",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN14444636
 WP_297330116.1,Not reported,Not reported,Peru: Oxygen minimum zone,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN13632675
-WP_370317305.1,30.1282,122.74599,China: East China Sea; local setting: shoreline [ENVO:00000486]; depth: -40m,BioSample lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41429713
-WP_082873985.1,19,119,China: South China Sea; local setting: surface water; depth: 0,BioSample lat_lon field: 19 N 119 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04442130
-WP_130052775.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777656
-WP_490386461.1,22.7546,-158.0067,missing: third party data,BioSample geographic location (latitude) field: 22.75460000; geographic location (longitude) field: -158.00670000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122612172
+WP_370317305.1,30.1282,122.74599,China: East China Sea; local setting: shoreline; depth: -40m,BioSample SAMN41429713 lat_lon field: 30.1282 N 122.74599 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN41429713
+WP_082873985.1,19,119,China: South China Sea; local setting: surface water; depth: 0,BioSample SAMN04442130 lat_lon field: 19 N 119 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04442130
+WP_130052775.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample SAMN24777656 lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777656
+WP_490386461.1,22.7546,-158.0067,Not reported,BioSample SAMEA122612172 latitude/longitude fields: 22.75460000; -158.00670000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122612172
 WP_055197275.1,Not reported,Not reported,USA: Woods Hole,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04026652
 WP_287244842.1,Not reported,Not reported,Australia: Orpheus Island,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN12098037
-WP_462147847.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931338
+WP_462147847.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: intertidal zone,BioSample SAMN48931338 lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931338
 WP_055021419.1,Not reported,Not reported,USA: Woods Hole,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN04027294
-WP_349274157.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN40698860
-WP_253048777.1,26.16,-80.1,"USA: FL, Ft. Lauderdale; local setting: offshore reef",BioSample lat_lon field: 26.16 N 80.10 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29222798
-WP_332393413.1,20.31,-94.13,Mexico: zone between Perdido belt and Coatzacoalcos; local setting: area: Perdido belt and Coatzacoalcos; depth: 1000 m,BioSample lat_lon field: 20.31 N 94.13 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39404677
-WP_342409634.1,20.31,-94.13,Mexico: zone between Perdido belt and Coatzacoalcos; local setting: area: lost belt and Coatzacoalcos; depth: 1000 m,BioSample lat_lon field: 20.31 N 94.13 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN40922803
+WP_349274157.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample SAMN40698860 lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN40698860
+WP_253048777.1,26.16,-80.1,"USA: FL, Ft. Lauderdale; local setting: offshore reef",BioSample SAMN29222798 lat_lon field: 26.16 N 80.10 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN29222798
+WP_332393413.1,20.31,-94.13,Mexico: zone between Perdido belt and Coatzacoalcos; local setting: area: Perdido belt and Coatzacoalcos; depth: 1000 m,BioSample SAMN39404677 lat_lon field: 20.31 N 94.13 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39404677
+WP_342409634.1,20.31,-94.13,Mexico: zone between Perdido belt and Coatzacoalcos; local setting: area: lost belt and Coatzacoalcos; depth: 1000 m,BioSample SAMN40922803 lat_lon field: 20.31 N 94.13 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN40922803
 WP_304636376.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN34048493
-WP_487986883.1,26.196,-158.156,Pacific Ocean,BioSample geographic location (latitude) field: 26.19600000; geographic location (longitude) field: -158.15600000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122297023
+WP_487986883.1,26.196,-158.156,Pacific Ocean,BioSample SAMEA122297023 latitude/longitude fields: 26.19600000; -158.15600000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122297023
 WP_483432081.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120656821
-WP_462175783.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931351
-WP_285220986.1,-22.74,-41.88,"Brazil: Buzios, Rio de Janeiro; local setting: Seawater",BioSample lat_lon field: 22.74 S 41.88 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN34405137
-WP_474704773.1,22.75,-158,Pacific Ocean,BioSample geographic location (latitude) field: 22.75; geographic location (longitude) field: -158.0,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120720265
-WP_062565773.1,37.12,142.42,Pacific Ocean: Shioyasaki offshore; depth: 2100 m,BioSample lat_lon field: 37.12 N 142.42 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04442129
-WP_138686283.1,-35.3413,79.9641,Indian Ocean,BioSample lat_lon field: 35.3413 S 79.9641 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093530
-WP_228482490.1,-22.58,-42.02,"Brazil: Rio de Janeiro, Arraial do Cabo; local setting: ocean",BioSample lat_lon field: 22.58 S 42.02 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN16593887
-WP_287205260.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: ENVO:00000244|ENVO:00000211|ENVO:00000569|ENVO:00002023; depth: 4000m",BioSample lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675776
-WP_339981228.1,31.4,-64.1,Atlantic Ocean; depth: 0-5 m,BioSample lat_lon field: 31.40 N 64.10 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN32961352
-WP_337117224.1,Not reported,Not reported,Baltic Sea; local setting: ENVO_06105013,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN33769424
-WP_235374218.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731164
+WP_462175783.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: intertidal zone,BioSample SAMN48931351 lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931351
+WP_285220986.1,-22.74,-41.88,"Brazil: Buzios, Rio de Janeiro; local setting: Seawater",BioSample SAMN34405137 lat_lon field: 22.74 S 41.88 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN34405137
+WP_474704773.1,22.75,-158,Pacific Ocean,BioSample SAMEA120720265 latitude/longitude fields: 22.75; -158.0,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120720265
+WP_062565773.1,37.12,142.42,Pacific Ocean: Shioyasaki offshore; depth: 2100 m,BioSample SAMN04442129 lat_lon field: 37.12 N 142.42 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN04442129
+WP_138686283.1,-35.3413,79.9641,Indian Ocean,BioSample SAMN08093530 lat_lon field: 35.3413 S 79.9641 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093530
+WP_228482490.1,-22.58,-42.02,"Brazil: Rio de Janeiro, Arraial do Cabo; local setting: ocean",BioSample SAMN16593887 lat_lon field: 22.58 S 42.02 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN16593887
+WP_287205260.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: abyssal plain|marine bathypelagic zone|marine habitat|high pressure habitat; depth: 4000m",BioSample SAMN14675776 lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675776
+WP_339981228.1,31.4,-64.1,Atlantic Ocean; depth: 0-5 m,BioSample SAMN32961352 lat_lon field: 31.40 N 64.10 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN32961352
+WP_337117224.1,Not reported,Not reported,Baltic Sea; local setting: marine biota,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN33769424
+WP_235374218.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample SAMN24731164 lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731164
 WP_206004052.1,Not reported,Not reported,"Viet Nam: Hon Tre, Nha Trang Bay",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN11998047
-WP_300421023.1,-27.98,63.25,Indian Ocean,BioSample geographic location (latitude) field: -27.98; geographic location (longitude) field: 63.25,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112957904
-WP_348708929.1,-8.0045,53.2943,Indian Ocean,BioSample geographic location (latitude) field: -8.00450000; geographic location (longitude) field: 53.29430000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115425385
+WP_300421023.1,-27.98,63.25,Indian Ocean,BioSample SAMEA112957904 latitude/longitude fields: -27.98; 63.25,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112957904
+WP_348708929.1,-8.0045,53.2943,Indian Ocean,BioSample SAMEA115425385 latitude/longitude fields: -8.00450000; 53.29430000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115425385
 WP_209327470.1,Not reported,Not reported,Brazil:Rio de Janeiro,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16655686
-WP_235382668.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731163
+WP_235382668.1,16.79,-88.07,Belize: Carrie Bow Cay; local setting: offshore reef,BioSample SAMN24731163 lat_lon field: 16.79 N 88.07 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731163
 WP_371351604.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN29920804
-WP_294410258.1,24.65,-156.48,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: ENVO:00000209|ENVO:00000618; depth: 150m",BioSample lat_lon field: 24.65 N 156.48 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN25998964
-WP_130167674.1,24.9963,-67.0246,Atlantic Ocean: North Atlantic,BioSample lat_lon field: 24.9963 N 67.0246 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093576
-WP_300358640.1,-33.55,39.89,Indian Ocean,BioSample geographic location (latitude) field: -33.55; geographic location (longitude) field: 39.89,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112957923
-WP_462178957.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931343
-WP_462167324.1,2.631577,-78.041853,Colombia:Iscuande; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 2.631577 N 78.041853 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931352
-WP_417698834.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274395
-WP_462168155.1,2.631577,-78.041853,Colombia:Iscuande; local setting: ENVO:00000316|ENVO:00010672,BioSample lat_lon field: 2.631577 N 78.041853 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931347
-WP_488035880.1,22.75,-158,Pacific Ocean,BioSample geographic location (latitude) field: 22.75000000; geographic location (longitude) field: -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122233135
-WP_235377235.1,24.59,-81.4,"USA: FL, Keys FRRP 1177; local setting: offshore reef",BioSample lat_lon field: 24.59 N 81.40 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731157
-WP_487054184.1,31.557,130.564,"Japan:Kagoshima, Kagoshima, Kagoshima Bay; local setting: shoreline [ENVO:00000486]; depth: 22.9",BioSample lat_lon field: 31.557 N 130.564 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680987
-WP_487117931.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline [ENVO:00000486]; depth: 13",BioSample lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680982
-WP_291610914.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: ENVO:00000244|ENVO:00000211|ENVO:00000569|ENVO:00002023; depth: 4000m",BioSample lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675705
-WP_239845563.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777664
-WP_215964367.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone [ENVO:00000316]; depth: 0-2 m",BioSample lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350960
-WP_487539752.1,22.75,-158,Pacific Ocean,BioSample geographic location (latitude) field: 22.75000000; geographic location (longitude) field: -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122233261
-WP_303521422.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: ENVO:01000687; depth: 0",BioSample lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510957
-WP_487093717.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline [ENVO:00000486]; depth: 13",BioSample lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680981
+WP_294410258.1,24.65,-156.48,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: marine photic zone; depth: 150m",BioSample SAMN25998964 lat_lon field: 24.65 N 156.48 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN25998964
+WP_130167674.1,24.9963,-67.0246,Atlantic Ocean: North Atlantic,BioSample SAMN08093576 lat_lon field: 24.9963 N 67.0246 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08093576
+WP_300358640.1,-33.55,39.89,Indian Ocean,BioSample SAMEA112957923 latitude/longitude fields: -33.55; 39.89,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112957923
+WP_462178957.1,3.873662,-77.290647,Colombia:Buenaventura; local setting: intertidal zone,BioSample SAMN48931343 lat_lon field: 3.873662 N 77.290647 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931343
+WP_462167324.1,2.631577,-78.041853,Colombia:Iscuande; local setting: intertidal zone,BioSample SAMN48931352 lat_lon field: 2.631577 N 78.041853 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931352
+WP_417698834.1,36.04,120.26,China: Qingdao; local setting: Enrichment culture biofilms; depth: 1,BioSample SAMN46274395 lat_lon field: 36.04 N 120.26 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46274395
+WP_462168155.1,2.631577,-78.041853,Colombia:Iscuande; local setting: intertidal zone,BioSample SAMN48931347 lat_lon field: 2.631577 N 78.041853 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48931347
+WP_488035880.1,22.75,-158,Pacific Ocean,BioSample SAMEA122233135 latitude/longitude fields: 22.75000000; -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122233135
+WP_235377235.1,24.59,-81.4,"USA: FL, Keys FRRP 1177; local setting: offshore reef",BioSample SAMN24731157 lat_lon field: 24.59 N 81.40 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN24731157
+WP_487054184.1,31.557,130.564,"Japan:Kagoshima, Kagoshima, Kagoshima Bay; local setting: shoreline; depth: 22.9",BioSample SAMD01680987 lat_lon field: 31.557 N 130.564 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680987
+WP_487117931.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline; depth: 13",BioSample SAMD01680982 lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680982
+WP_291610914.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: abyssal plain|marine bathypelagic zone|marine habitat|high pressure habitat; depth: 4000m",BioSample SAMN14675705 lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675705
+WP_239845563.1,-32.7171,152.1049,"Australia: NSW, Port Stephens",BioSample SAMN24777664 lat_lon field: 32.7171 S 152.1049 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN24777664
+WP_215964367.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone; depth: 0-2 m",BioSample SAMN19350960 lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350960
+WP_487539752.1,22.75,-158,Pacific Ocean,BioSample SAMEA122233261 latitude/longitude fields: 22.75000000; -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122233261
+WP_303521422.1,42.42,-70.907,"USA:Canoe Beach, Nahant, MA; local setting: coast; depth: 0",BioSample SAMN36510957 lat_lon field: 42.420 N 70.907 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN36510957
+WP_487093717.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline; depth: 13",BioSample SAMD01680981 lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD01680981
 WP_483313308.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120696770
-WP_269970245.1,11.4,142.4,Pacific Ocean: The Mariana Trench; local setting: ocean trench ENVO:00000275; depth: 10890 m,BioSample lat_lon field: 11.4 N 142.4 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN15339468
-WP_353537636.1,31.557,130.564,"Japan:Kagoshima, Kagoshima, Kagoshima Bay; local setting: shoreline [ENVO:00000486]; depth: 5.2",BioSample lat_lon field: 31.557 N 130.564 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755688
-WP_353517955.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline [ENVO:00000486]; depth: 13",BioSample lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755696
-WP_311580946.1,41.4,2.48,"Spain:Blanes,Blanes Bay Microbial Observatory; local setting: ENVO:01000047; depth: surface",BioSample lat_lon field: 41.40 N 2.48 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37377065
-WP_487943909.1,22.75,-158,Pacific Ocean,BioSample geographic location (latitude) field: 22.75000000; geographic location (longitude) field: -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122232815
-WP_375185160.1,17.04,110,China: South China Sea; local setting: marine69; depth: 1000m,BioSample lat_lon field: 17.04 N 110.00 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN43537493
+WP_269970245.1,11.4,142.4,Pacific Ocean: The Mariana Trench; local setting: ocean trench; depth: 10890 m,BioSample SAMN15339468 lat_lon field: 11.4 N 142.4 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN15339468
+WP_353537636.1,31.557,130.564,"Japan:Kagoshima, Kagoshima, Kagoshima Bay; local setting: shoreline; depth: 5.2",BioSample SAMD00755688 lat_lon field: 31.557 N 130.564 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755688
+WP_353517955.1,36.178,133.277,"Japan:Shimane, Oki, Sea of Japan; local setting: shoreline; depth: 13",BioSample SAMD00755696 lat_lon field: 36.178 N 133.277 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755696
+WP_311580946.1,41.4,2.48,"Spain:Blanes,Blanes Bay Microbial Observatory; local setting: mediterranean sea biome; depth: surface",BioSample SAMN37377065 lat_lon field: 41.40 N 2.48 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37377065
+WP_487943909.1,22.75,-158,Pacific Ocean,BioSample SAMEA122232815 latitude/longitude fields: 22.75000000; -158.00000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122232815
+WP_375185160.1,17.04,110,China: South China Sea; local setting: marine69; depth: 1000m,BioSample SAMN43537493 lat_lon field: 17.04 N 110.00 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN43537493
 WP_179025361.1,Not reported,Not reported,Australia: Jervis Bay,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN12071508
 WP_394202901.1,Not reported,Not reported,China: Qingdao,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN32650246
-WP_291624144.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: ENVO:00000244|ENVO:00000211|ENVO:00000569|ENVO:00002023; depth: 4000m",BioSample lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675710
-WP_353410179.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline [ENVO:00000486]; depth: 7.7",BioSample lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755679
-WP_216054076.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone [ENVO:00000316]; depth: 0-2 m",BioSample lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350953
+WP_291624144.1,22.75,-158,"Pacific Ocean: North Pacific Gyre, Station ALOHA; local setting: abyssal plain|marine bathypelagic zone|marine habitat|high pressure habitat; depth: 4000m",BioSample SAMN14675710 lat_lon field: 22.75 N 158 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14675710
+WP_353410179.1,34.365,133.217,"Japan:Hiroshima, Onomichi, Seto Inland Sea; local setting: shoreline; depth: 7.7",BioSample SAMD00755679 lat_lon field: 34.365 N 133.217 E,https://www.ncbi.nlm.nih.gov/biosample/SAMD00755679
+WP_216054076.1,42.25,-70.54,"USA:Massachusetts, Nahant, Canoe Beach; local setting: intertidal zone; depth: 0-2 m",BioSample SAMN19350953 lat_lon field: 42.25 N 70.54 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN19350953
 WP_315947146.1,Not reported,Not reported,South Korea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN37631359
-WP_490032689.1,35.09,139.14,Japan:Sagami Bay; local setting: Cold seep microbiome; depth: -853m,BioSample lat_lon field: 35.09 N 139.140 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49747986
+WP_490032689.1,35.09,139.14,Japan:Sagami Bay; local setting: Cold seep microbiome; depth: -853m,BioSample SAMN49747986 lat_lon field: 35.09 N 139.140 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49747986
 WP_144035305.1,Not reported,Not reported,South Korea: Jeju,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN12234422
 WP_138319590.1,Not reported,Not reported,"South Korea: South Sea, Jeju",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN11775790

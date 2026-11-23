@@ -1,86 +1,86 @@
 Protein accession number,Latitude,Longitude,Exact sampling location,Coordinate evidence,Source URL
 WP_483284391.1,Not reported,Not reported,Antarctica: Indian Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN27753156
-WP_298906696.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157161
+WP_298906696.1,37.562,122.121,China,BioSample SAMEA112157161 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157161
 WP_201628412.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339757
-WP_372828779.1,29.928,122.422,China: ZhouShan,BioSample lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42104286
-WP_238036692.1,24.61,118.3,China: Fujian,BioSample lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812798
+WP_372828779.1,29.928,122.422,China: ZhouShan,BioSample SAMN42104286 lat_lon field: 29.928 N 122.422 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42104286
+WP_238036692.1,24.61,118.3,China: Fujian,BioSample SAMN16812798 lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812798
 WP_464753840.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD01611161
-WP_372843729.1,29.948,122.407,China: ZhouShan,BioSample lat_lon field: 29.948 N 122.407 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42102094
+WP_372843729.1,29.948,122.407,China: ZhouShan,BioSample SAMN42102094 lat_lon field: 29.948 N 122.407 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN42102094
 WP_352339194.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943954
 WP_371532333.1,Not reported,Not reported,Arctic Ocean:North of Greenland,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN35056146
 WP_200662746.1,Not reported,Not reported,"Spain: Motri, Granada",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16579446
-WP_198327676.1,78.92,11.95,Svalbard,BioSample lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16562205
-WP_223332682.1,29.501,34.917,Israel: Gulf of Aqaba,BioSample lat_lon field: 29.501 N 34.917 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17204114
-WP_277078041.1,-65.8776,-68.2823,Antarctica: West Antarctic Peninsula,BioSample lat_lon field: 65.8776 S 68.28227 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31464285
+WP_198327676.1,78.92,11.95,Svalbard,BioSample SAMN16562205 lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16562205
+WP_223332682.1,29.501,34.917,Israel: Gulf of Aqaba,BioSample SAMN17204114 lat_lon field: 29.501 N 34.917 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17204114
+WP_277078041.1,-65.8776,-68.28227,Antarctica: West Antarctic Peninsula,BioSample SAMN31464285 lat_lon field: 65.8776 S 68.28227 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31464285
 WP_265090687.1,Not reported,Not reported,Antarctica,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16825360
-WP_058025816.1,-3.1,-102.55,Pacific Ocean: East Pacific Rise,BioSample lat_lon field: 3.10 S 102.55 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04270327
-WP_320154178.1,78.92,11.95,Svalbard,BioSample lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16562214
+WP_058025816.1,-3.1,-102.55,Pacific Ocean: East Pacific Rise,BioSample SAMN04270327 lat_lon field: 3.10 S 102.55 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04270327
+WP_320154178.1,78.92,11.95,Svalbard,BioSample SAMN16562214 lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16562214
 WP_201555270.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339742
-WP_455705530.1,-1.44,117.24,Indonesia: Makassar Strait,BioSample lat_lon field: 1.44 S 117.24 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN53440442
+WP_455705530.1,-1.44,117.24,Indonesia: Makassar Strait,BioSample SAMN53440442 lat_lon field: 1.44 S 117.24 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN53440442
 WP_201620353.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339756
-WP_289000163.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157167
-WP_472781948.1,37.07,131.23,South Korea,BioSample lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492963
+WP_289000163.1,37.562,122.121,China,BioSample SAMEA112157167 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157167
+WP_472781948.1,37.07,131.23,South Korea,BioSample SAMN49492963 lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492963
 WP_201545234.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339783
-WP_289047145.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157162
+WP_289047145.1,37.562,122.121,China,BioSample SAMEA112157162 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157162
 WP_201604737.1,Not reported,Not reported,North Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339735
-WP_160022867.1,-33.4,2.35,Atlantic Ocean: Walvis Ridge Sector,BioSample lat_lon field: 33.40 S 2.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN12392404
-WP_420230577.1,-35.0328,138.517,Australia:Adelaide,BioSample lat_lon field: 35.032752 S 138.516560 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN47142151
+WP_160022867.1,-33.4,2.35,Atlantic Ocean: Walvis Ridge Sector,BioSample SAMN12392404 lat_lon field: 33.40 S 2.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN12392404
+WP_420230577.1,-35.032752,138.51656,Australia:Adelaide,BioSample SAMN47142151 lat_lon field: 35.032752 S 138.516560 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN47142151
 WP_277350418.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339794
 WP_057760058.1,Not reported,Not reported,Norway: Norwegian Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03975701
-WP_298810856.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157160
+WP_298810856.1,37.562,122.121,China,BioSample SAMEA112157160 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157160
 WP_197102965.1,Not reported,Not reported,Antarctica,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16825361
-WP_379544292.1,57.5949,9.9609,Denmark: Hirtshals,BioSample lat_lon field: 57.594940 N 9.960902 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN38151464
+WP_379544292.1,57.59494,9.960902,Denmark: Hirtshals,BioSample SAMN38151464 lat_lon field: 57.594940 N 9.960902 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN38151464
 WP_320158565.1,Not reported,Not reported,Svalbard,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16825348
 WP_320157866.1,Not reported,Not reported,Southern Atlantic Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339759
-WP_290177258.1,43.282,-49.121,Atlantic Ocean,BioSample lat_lon field: 43.282 N 49.121 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN33771945
-WP_339343431.1,45.3143,12.5083,Not reported,BioSample geographic location fields: latitude 45.31435; longitude 12.508317,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115324290
+WP_290177258.1,43.282,-49.121,Atlantic Ocean,BioSample SAMN33771945 lat_lon field: 43.282 N 49.121 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN33771945
+WP_339343431.1,45.31435,12.508317,Not reported,BioSample SAMEA115324290 latitude/longitude fields: 45.31435; 12.508317,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115324290
 WP_464754084.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD01611161
 WP_320158633.1,Not reported,Not reported,Antarctica,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN16825362
 WP_320157573.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339792
 WP_296206776.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06452289
 WP_352259758.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943951
-WP_425355847.1,48.3937,-124.734,USA: Washington state,BioSample lat_lon field: 48.393689 N 124.733820 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39934275
-WP_474738338.1,37.17,122.568,China:Rongcheng,BioSample lat_lon field: 37.170 N 122.568 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN55001185
+WP_425355847.1,48.393689,-124.73382,USA: Washington state,BioSample SAMN39934275 lat_lon field: 48.393689 N 124.733820 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39934275
+WP_474738338.1,37.17,122.568,China:Rongcheng,BioSample SAMN55001185 lat_lon field: 37.170 N 122.568 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN55001185
 WP_350655890.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943948
-WP_474726537.1,37.17,122.568,China:Rongcheng,BioSample lat_lon field: 37.170 N 122.568 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN55001178
-WP_102094145.1,71.3,-157,"USA: near Point Barrow, Alaska",BioSample lat_lon field: 71.3 N 157 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08125774
+WP_474726537.1,37.17,122.568,China:Rongcheng,BioSample SAMN55001178 lat_lon field: 37.170 N 122.568 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN55001178
+WP_102094145.1,71.3,-157,"USA: near Point Barrow, Alaska",BioSample SAMN08125774 lat_lon field: 71.3 N 157 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN08125774
 WP_320157998.1,Not reported,Not reported,North Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339745
-WP_290176533.1,43.282,-49.121,Atlantic Ocean,BioSample lat_lon field: 43.282 N 49.121 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN33771944
-WP_296211063.1,45.3143,12.5083,Not reported,BioSample geographic location fields: latitude 45.31435; longitude 12.508317,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115324290
-WP_224737936.1,14.86,-48.24,Atlantic Ocean,BioSample lat_lon field: 14.86 N 48.24 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN16192961
+WP_290176533.1,43.282,-49.121,Atlantic Ocean,BioSample SAMN33771944 lat_lon field: 43.282 N 49.121 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN33771944
+WP_296211063.1,45.31435,12.508317,Not reported,BioSample SAMEA115324290 latitude/longitude fields: 45.31435; 12.508317,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115324290
+WP_224737936.1,14.86,-48.24,Atlantic Ocean,BioSample SAMN16192961 lat_lon field: 14.86 N 48.24 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN16192961
 WP_068034901.1,Not reported,Not reported,Norway: Norwegian sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03975702
-WP_269117530.1,24.61,118.3,China: Fujian,BioSample lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812794
+WP_269117530.1,24.61,118.3,China: Fujian,BioSample SAMN16812794 lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812794
 WP_218870164.1,Not reported,Not reported,Pacific Ocean: Lau Basin,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN13951813
 WP_068326517.1,Not reported,Not reported,Norway: Norwegian sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03975700
-WP_465183798.1,-62.4714,-59.6967,"Antarctica: Greenwich Bay, South Shetland Islands",BioSample lat_lon field: 62.4714 S 59.6967 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN55386688
+WP_465183798.1,-62.4714,-59.6967,"Antarctica: Greenwich Bay, South Shetland Islands",BioSample SAMN55386688 lat_lon field: 62.4714 S 59.6967 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN55386688
 WP_201569653.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD01611160
 WP_201566452.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMD01611160
 WP_057758566.1,Not reported,Not reported,Norway: Norwegian Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN03975701
-WP_347162359.1,42.9017,-71.3385,"USA:New Hampshire, Durham",BioSample lat_lon field: 42.90169 N 71.33851 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN41422187
+WP_347162359.1,42.90169,-71.33851,"USA:New Hampshire, Durham",BioSample SAMN41422187 lat_lon field: 42.90169 N 71.33851 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN41422187
 WP_201551533.1,Not reported,Not reported,glacial fjord in Svalbard,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339722
 WP_075107101.1,Not reported,Not reported,Spain: Galicia,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06020697
-WP_320108710.1,78.92,11.95,Svalbard,BioSample lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16560995
-WP_186475538.1,23.4183,37.245,Not reported,BioSample geographic location fields: latitude 23.4183; longitude 37.245,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115325317
+WP_320108710.1,78.92,11.95,Svalbard,BioSample SAMN16560995 lat_lon field: 78.92 N 11.95 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16560995
+WP_186475538.1,23.4183,37.245,Not reported,BioSample SAMEA115325317 latitude/longitude fields: 23.4183; 37.245,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115325317
 WP_350560759.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943963
 WP_320157780.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339793
-WP_299185249.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157159
+WP_299185249.1,37.562,122.121,China,BioSample SAMEA112157159 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157159
 WP_323128914.1,Not reported,Not reported,Arctic Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN18435561
-WP_413190037.1,79.7913,1.7609,Arctic Ocean,BioSample lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748067
-WP_367103962.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157142
-WP_289116025.1,-22.97,-36.95,Atlantic Ocean,BioSample geographic location fields: latitude -22.97; longitude -36.95,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958015
+WP_413190037.1,79.7913,1.7609,Arctic Ocean,BioSample SAMN44748067 lat_lon field: 79.7913 N 1.7609 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN44748067
+WP_367103962.1,37.562,122.121,China,BioSample SAMEA112157142 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157142
+WP_289116025.1,-22.97,-36.95,Atlantic Ocean,BioSample SAMEA112958015 latitude/longitude fields: -22.97; -36.95,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958015
 WP_198336790.1,Not reported,Not reported,"South Sea, Korea",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339715
-WP_367109097.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157143
-WP_275691788.1,79.0354,11.2836,Svalbard,BioSample lat_lon field: 79.0354 N 11.2836 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN26171955
-WP_367106850.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157144
-WP_289116019.1,-22.97,-36.95,Atlantic Ocean,BioSample geographic location fields: latitude -22.97; longitude -36.95,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958015
-WP_223334656.1,29.501,34.917,Israel: Gulf of Aqaba,BioSample lat_lon field: 29.501 N 34.917 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17204114
+WP_367109097.1,37.562,122.121,China,BioSample SAMEA112157143 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157143
+WP_275691788.1,79.0354,11.2836,Svalbard,BioSample SAMN26171955 lat_lon field: 79.0354 N 11.2836 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN26171955
+WP_367106850.1,37.562,122.121,China,BioSample SAMEA112157144 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157144
+WP_289116019.1,-22.97,-36.95,Atlantic Ocean,BioSample SAMEA112958015 latitude/longitude fields: -22.97; -36.95,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958015
+WP_223334656.1,29.501,34.917,Israel: Gulf of Aqaba,BioSample SAMN17204114 lat_lon field: 29.501 N 34.917 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN17204114
 WP_334222014.1,Not reported,Not reported,Turkey:Istanbul,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN39959894
-WP_240216656.1,79.0354,11.2836,Svalbard,BioSample lat_lon field: 79.0354 N 11.2836 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN26171955
+WP_240216656.1,79.0354,11.2836,Svalbard,BioSample SAMN26171955 lat_lon field: 79.0354 N 11.2836 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN26171955
 WP_025645679.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943959
 WP_025653160.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943957
 WP_430285161.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN41009146
-WP_367111693.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157145
-WP_472781992.1,37.07,131.23,South Korea,BioSample lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492963
+WP_367111693.1,37.562,122.121,China,BioSample SAMEA112157145 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157145
+WP_472781992.1,37.07,131.23,South Korea,BioSample SAMN49492963 lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492963
 WP_201551691.1,Not reported,Not reported,Adelie Island,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339782
 WP_201593649.1,Not reported,Not reported,"Sea of Japan, Russia",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339793
 WP_228284712.1,Not reported,Not reported,Cuba: Gardens of the Queen,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN15545062
@@ -90,32 +90,32 @@ WP_201582213.1,Not reported,Not reported,"North Cape, Norway",Not reported,https
 WP_201577598.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943956
 WP_075103633.1,Not reported,Not reported,Spain: Galicia,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06020701
 WP_201567718.1,Not reported,Not reported,North Sea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339731
-WP_299069681.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157150
-WP_348654209.1,-30.1367,-43.2899,Not reported,BioSample geographic location fields: latitude -30.13670000; longitude -43.28990000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115420293
+WP_299069681.1,37.562,122.121,China,BioSample SAMEA112157150 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157150
+WP_348654209.1,-30.1367,-43.2899,Not reported,BioSample SAMEA115420293 latitude/longitude fields: -30.13670000; -43.28990000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA115420293
 WP_201572231.1,Not reported,Not reported,Southern Atlantic Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339759
-WP_284719438.1,12.1349,93.0676,"India: Near Henry Lawrence island, Andaman Sea",BioSample lat_lon field: 12.1349 N 93.0676 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN07736517
-WP_298980165.1,20,-52.63,Atlantic Ocean,BioSample geographic location fields: latitude 20.0; longitude -52.63,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958057
+WP_284719438.1,12.1349,93.0676,"India: Near Henry Lawrence island, Andaman Sea",BioSample SAMN07736517 lat_lon field: 12.1349 N 93.0676 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN07736517
+WP_298980165.1,20,-52.63,Atlantic Ocean,BioSample SAMEA112958057 latitude/longitude fields: 20.0; -52.63,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958057
 WP_201600875.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339795
 WP_352287807.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943955
-WP_300406665.1,15.91,-124.49,Pacific Ocean,BioSample geographic location fields: latitude 15.91; longitude -124.49,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958480
-WP_474735469.1,43.29,8.1,Mediterranean Sea,BioSample geographic location fields: latitude 43.29; longitude 8.1,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726723
-WP_299330080.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157151
-WP_435979993.1,37.07,131.23,South Korea,BioSample lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49498053
+WP_300406665.1,15.91,-124.49,Pacific Ocean,BioSample SAMEA112958480 latitude/longitude fields: 15.91; -124.49,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112958480
+WP_474735469.1,43.29,8.1,Mediterranean Sea,BioSample SAMEA120726723 latitude/longitude fields: 43.29; 8.1,https://www.ncbi.nlm.nih.gov/biosample/SAMEA120726723
+WP_299330080.1,37.562,122.121,China,BioSample SAMEA112157151 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157151
+WP_435979993.1,37.07,131.23,South Korea,BioSample SAMN49498053 lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49498053
 WP_286740907.1,Not reported,Not reported,"USA: Coal Oil Point, Santa Barbara, California",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06450387
-WP_305899991.1,37.07,131.23,South Korea,BioSample lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492965
-WP_435949448.1,37.07,131.23,South Korea,BioSample lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49502089
-WP_298974489.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157156
-WP_298739300.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157152
+WP_305899991.1,37.07,131.23,South Korea,BioSample SAMN49492965 lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49492965
+WP_435949448.1,37.07,131.23,South Korea,BioSample SAMN49502089 lat_lon field: 37.07 N 131.23 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN49502089
+WP_298974489.1,37.562,122.121,China,BioSample SAMEA112157156 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157156
+WP_298739300.1,37.562,122.121,China,BioSample SAMEA112157152 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157152
 WP_201601002.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339795
-WP_455706373.1,-1.44,117.24,Indonesia: Makassar Strait,BioSample lat_lon field: 1.44 S 117.24 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN53440442
-WP_317053546.1,9.29224,79.2223,India: Palk bay,BioSample lat_lon field: 9.292244 N 79.222254 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37691628
-WP_299330535.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157151
+WP_455706373.1,-1.44,117.24,Indonesia: Makassar Strait,BioSample SAMN53440442 lat_lon field: 1.44 S 117.24 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN53440442
+WP_317053546.1,9.292244,79.222254,India: Palk bay,BioSample SAMN37691628 lat_lon field: 9.292244 N 79.222254 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN37691628
+WP_299330535.1,37.562,122.121,China,BioSample SAMEA112157151 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157151
 WP_438950592.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA118801085
-WP_430737341.1,38.914,121.615,China: Dalian,BioSample lat_lon field: 38.9140 N 121.6147 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46871077
-WP_353104189.1,24.1455,47.3119,Saudi Arabia: Riyadh,BioSample lat_lon field: 24.145536 N 47.311947 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN27738345
-WP_288996651.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157165
-WP_288999309.1,37.562,122.121,China,BioSample geographic location fields: latitude 37.562; longitude 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157167
-WP_238062109.1,24.61,118.3,China: Fujian,BioSample lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812795
+WP_430737341.1,38.914,121.6147,China: Dalian,BioSample SAMN46871077 lat_lon field: 38.9140 N 121.6147 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN46871077
+WP_353104189.1,24.145536,47.311947,Saudi Arabia: Riyadh,BioSample SAMN27738345 lat_lon field: 24.145536 N 47.311947 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN27738345
+WP_288996651.1,37.562,122.121,China,BioSample SAMEA112157165 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157165
+WP_288999309.1,37.562,122.121,China,BioSample SAMEA112157167 latitude/longitude fields: 37.562; 122.121,https://www.ncbi.nlm.nih.gov/biosample/SAMEA112157167
+WP_238062109.1,24.61,118.3,China: Fujian,BioSample SAMN16812795 lat_lon field: 24.61 N 118.30 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN16812795
 WP_198336469.1,Not reported,Not reported,"South Sea, Korea",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7339715
 WP_274631640.1,Not reported,Not reported,China: Shan Wei,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN29446561
 WP_025647269.1,Not reported,Not reported,"Antarctica: Terra Nova Bay, Victoria Land",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40943959
@@ -125,17 +125,17 @@ WP_486552851.1,Not reported,Not reported,"China: Yantai city, Shandong Province"
 WP_486529742.1,Not reported,Not reported,"China: Yantai city, Shandong Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN57386592
 WP_491185048.1,Not reported,Not reported,"China: Yantai city, Shandong Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN56462220
 WP_486550632.1,Not reported,Not reported,"China: Yantai city, Shandong Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN57386596
-WP_284719828.1,12.1349,93.0676,"India: Near Henry Lawrence island, Andaman Sea",BioSample lat_lon field: 12.1349 N 93.0676 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN07736517
-WP_319822887.1,40.6084,-8.74803,Portugal: Aveiro,BioSample lat_lon field: 40.608387 N 8.74802899 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04287219
-WP_487990687.1,-50.35,-39.82,Atlantic Ocean,BioSample geographic location fields: latitude -50.35000000; longitude -39.82000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122256340
-WP_296821200.1,35.65,-7.33,Atlantic Ocean: Gulf of Cadiz,BioSample lat_lon field: 35.65 N 7.33 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14548604
+WP_284719828.1,12.1349,93.0676,"India: Near Henry Lawrence island, Andaman Sea",BioSample SAMN07736517 lat_lon field: 12.1349 N 93.0676 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN07736517
+WP_319822887.1,40.608387,-8.74802899,Portugal: Aveiro,BioSample SAMN04287219 lat_lon field: 40.608387 N 8.74802899 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04287219
+WP_487990687.1,-50.35,-39.82,Atlantic Ocean,BioSample SAMEA122256340 latitude/longitude fields: -50.35000000; -39.82000000,https://www.ncbi.nlm.nih.gov/biosample/SAMEA122256340
+WP_296821200.1,35.65,-7.33,Atlantic Ocean: Gulf of Cadiz,BioSample SAMN14548604 lat_lon field: 35.65 N 7.33 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN14548604
 WP_101892447.1,Not reported,Not reported,South Korea: Taean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06011404
-WP_266326050.1,27.7089,-97.3359,"USA: Oso Bay, Corpus Christi, TX",BioSample lat_lon field: 27.70894 N 97.33594 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31468788
+WP_266326050.1,27.70894,-97.33594,"USA: Oso Bay, Corpus Christi, TX",BioSample SAMN31468788 lat_lon field: 27.70894 N 97.33594 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31468788
 WP_269128784.1,Not reported,Not reported,Chile: Coquimbo,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN32155749
 WP_182169047.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN15644194
 WP_473682845.1,Not reported,Not reported,South Korea: Gonghyeonjin,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN52070424
-WP_113065197.1,21.49,108.48,China,BioSample lat_lon field: 21.49 N 108.48 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN06127929
-WP_301495760.1,22.49,114.58,China: Shenzhen,BioSample lat_lon field: 22.49 N 114.58 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN33330377
-WP_225666578.1,81.47,-164.94,Arctic Ocean: Canada Basin,BioSample lat_lon field: 81.470000 N 164.940000 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN02584013
-WP_396586513.1,62.6376,17.9395,Sweden: Harnosand,BioSample lat_lon field: 62.637639 N 17.939462 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN38151460
-WP_266278385.1,27.7089,-97.3359,"USA: Oso Bay, Corpus Christi, TX",BioSample lat_lon field: 27.70894 N 97.33594 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31468787
+WP_113065197.1,21.49,108.48,China,BioSample SAMN06127929 lat_lon field: 21.49 N 108.48 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN06127929
+WP_301495760.1,22.49,114.58,China: Shenzhen,BioSample SAMN33330377 lat_lon field: 22.49 N 114.58 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN33330377
+WP_225666578.1,81.47,-164.94,Arctic Ocean: Canada Basin,BioSample SAMN02584013 lat_lon field: 81.470000 N 164.940000 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN02584013
+WP_396586513.1,62.637639,17.939462,Sweden: Harnosand,BioSample SAMN38151460 lat_lon field: 62.637639 N 17.939462 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN38151460
+WP_266278385.1,27.70894,-97.33594,"USA: Oso Bay, Corpus Christi, TX",BioSample SAMN31468787 lat_lon field: 27.70894 N 97.33594 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN31468787

@@ -25,7 +25,7 @@ DATASETS = [
         "color": "#FFFB00",  # yellow
     },
     {
-        "name": "Poly(3-hydroxybutyrate) depolymerase (LC127088.1)",
+        "name": "Poly(3-hydroxybutyrate) depolymerase (BAU59415.1)",
         "prefix": "poly3hb_depolymerase",
         "geo_file": "Poly(3-hydroxybutyrate)Depolymerase_geographic_locations.csv",
         "meta_file": "Poly(3-hydroxybutyrate)Depolymerase_isolation_metadata_standardized.xlsx",

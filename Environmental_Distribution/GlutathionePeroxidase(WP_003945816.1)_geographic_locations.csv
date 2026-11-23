@@ -1,23 +1,23 @@
 Protein accession number,Latitude,Longitude,Exact sampling location,Coordinate evidence,Source URL
 WP_070379564.1,Not reported,Not reported,USA: Florida Keys,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN05560454
-WP_127945803.1,16.75,112.35,Marine sponge; China: Xisha,BioSample lat_lon: 16.75 N 112.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10395175
-WP_127955491.1,16.75,112.35,"Marine sponge, 20 m depth; China: Xisha",BioSample lat_lon: 16.75 N 112.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10395176
-WP_050066444.1,41.139783,-8.664167,Estuary sediments; Portugal,BioSample lat_lon: 41.139783 N 8.664167 W,https://www.ncbi.nlm.nih.gov/biosample/SAMEA3297057
+WP_127945803.1,16.75,112.35,Marine sponge; China: Xisha,BioSample SAMN10395175 lat_lon field: 16.75 N 112.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10395175
+WP_127955491.1,16.75,112.35,"Marine sponge, 20 m depth; China: Xisha",BioSample SAMN10395176 lat_lon field: 16.75 N 112.35 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10395176
+WP_050066444.1,41.139783,-8.664167,Estuary sediments; Portugal,BioSample SAMEA3297057 lat_lon field: 41.139783 N 8.664167 W,https://www.ncbi.nlm.nih.gov/biosample/SAMEA3297057
 WP_169688273.1,Not reported,Not reported,"China: Panjin (SJ-3, SJ-2); China: HaiKou (HNM0563); China: Weihai (F64268)",Not reported,https://www.ncbi.nlm.nih.gov/ipg/WP_169688273.1
 WP_305093932.1,Not reported,Not reported,Pacific Ocean,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN36718992
 WP_169647600.1,Not reported,Not reported,China: HaiKou,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN14309757
 WP_338889646.1,Not reported,Not reported,"China: Taizhou City, Zhejiang Province",Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN40410180
-WP_269417429.1,54.331849,10.144127,"Nematostella vectensis-associated culture in artificial seawater; Kiel, Germany",BioSample lat_lon: 54.3318490 N 10.1441270 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN32218586
-WP_462665568.1,47.2768,-122.4649,"Coastal seawater, 1 m depth; Puget Sound near Tacoma, Washington, USA",BioSample lat_lon: 47.2768 N 122.4649 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN42768026
-WP_374700635.1,58.964659,-3.295147,"Marine sponge (Sycon ciliatum), 2 m depth; Stromness, Orkney, United Kingdom",BioSample lat_lon: 58.964659 N 3.29514700 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04495211
-WP_374222415.1,-62.961333,-27.891833,Marine sediment; Antarctica,BioSample lat_lon: 62.961333 S 27.891833 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48147892
+WP_269417429.1,54.331849,10.144127,"Nematostella vectensis-associated culture in artificial seawater; Kiel, Germany",BioSample SAMN32218586 lat_lon field: 54.3318490 N 10.1441270 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN32218586
+WP_462665568.1,47.2768,-122.4649,"Coastal seawater, 1 m depth; Puget Sound near Tacoma, Washington, USA",BioSample SAMN42768026 lat_lon field: 47.2768 N 122.4649 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN42768026
+WP_374700635.1,58.964659,-3.295147,"Marine sponge (Sycon ciliatum), 2 m depth; Stromness, Orkney, United Kingdom",BioSample SAMN04495211 lat_lon field: 58.964659 N 3.29514700 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN04495211
+WP_374222415.1,-62.961333,-27.891833,Marine sediment; Antarctica,BioSample SAMN48147892 lat_lon field: 62.961333 S 27.891833 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN48147892
 WP_269744637.1,Not reported,Not reported,"Hadselfjorden, northern Norway",Not reported,https://www.ncbi.nlm.nih.gov/bioproject/PRJEB1196
 WP_457222775.1,Not reported,Not reported,China: Panjin,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN49541640
 WP_422744644.1,Not reported,Not reported,USA: Florida Keys,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN47224890
 WP_255058471.1,Not reported,Not reported,South Korea,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN28907230
-WP_079924327.1,51.81,0.979,"Coastal-ocean estuary sediment, 0–5 cm; Colne estuary, United Kingdom",BioSample lat_lon: 51.81 N 0.979 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN06349362
-WP_142555396.1,51.63951,0.41053,"Estuary slurry; Colne estuary, Colchester, United Kingdom",BioSample lat_lon: 51.63951 N 0.41053 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10176386
-WP_124278333.1,63.61472222,10.52277778,"Marine sponge reef biome, 60 m depth; Tautra underwater ridge at Trondheim Fjord, Norway",BioSample lat_lon: 63.61472222 N 10.52277778 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10372318
+WP_079924327.1,51.81,0.979,"Coastal-ocean estuary sediment, 0–5 cm; Colne estuary, United Kingdom",BioSample SAMN06349362 lat_lon field: 51.81 N 0.979 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN06349362
+WP_142555396.1,51.63951,0.41053,"Estuary slurry; Colne estuary, Colchester, United Kingdom",BioSample SAMN10176386 lat_lon field: 51.63951 N 0.41053 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10176386
+WP_124278333.1,63.61472222,10.52277778,"Marine sponge reef biome, 60 m depth; Tautra underwater ridge at Trondheim Fjord, Norway",BioSample SAMN10372318 lat_lon field: 63.61472222 N 10.52277778 E,https://www.ncbi.nlm.nih.gov/biosample/SAMN10372318
 WP_265994625.1,Not reported,Not reported,"Croatia (P3); Croatia: Adriatic Sea (CVI_P3, CVI_P4)",Not reported,https://www.ncbi.nlm.nih.gov/ipg/WP_265994625.1
 WP_099020684.1,Not reported,Not reported,Palau,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN07606484
 WP_103760023.1,Not reported,Not reported,Ireland: Kilkieran Bay,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN06828939

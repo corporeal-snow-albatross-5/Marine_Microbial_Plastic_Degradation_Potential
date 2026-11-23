@@ -1,12 +1,12 @@
 Protein accession number,Latitude,Longitude,Exact sampling location,Coordinate evidence,Source URL
 WP_241584950.1,Not reported,Not reported,China,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN26186988
 WP_256573097.1,Not reported,Not reported,Not reported,Not reported,https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP019947.1
-WP_415754049.1,-67.34,-68.08,"Antarctica: Adelaide Island, South Cove",BioSample lat_lon field: 67.34 S 68.08 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN42911458
-WP_341706354.1,-27.329583,153.087083,Australia: Brisbane,GenBank source /lat_lon qualifier: 27.329583 S 153.087083 E,https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAYPMU010000002.1
+WP_415754049.1,-67.34,-68.08,"Antarctica: Adelaide Island, South Cove",BioSample SAMN42911458 lat_lon field: 67.34 S 68.08 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN42911458
+WP_341706354.1,-27.329583,153.087083,Australia: Brisbane,GenBank NZ_JAYPMU010000002.1 /lat_lon qualifier: 27.329583 S 153.087083 E,https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAYPMU010000002.1
 WP_496960499.1,Not reported,Not reported,USA: Northeast,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN56333867
-WP_324732504.1,-62.21,-58.94,"Antarctica: Fildes Peninsula, King George Island",BioSample lat_lon field: 62.21 S 58.94 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39158162
+WP_324732504.1,-62.21,-58.94,"Antarctica: Fildes Peninsula, King George Island",BioSample SAMN39158162 lat_lon field: 62.21 S 58.94 W,https://www.ncbi.nlm.nih.gov/biosample/SAMN39158162
 WP_116368789.1,Not reported,Not reported,Spain: western Mediterranean Sea off Vinaros coast,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN08997836
 WP_215820801.1,Not reported,Not reported,Germany: Wilhelmshaven,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN18746832
 WP_475177401.1,Not reported,Not reported,"USA: Atlantic ocean at Key West, Florida",Not reported,https://www.ncbi.nlm.nih.gov/nuccore/NZ_JBSWVF010000005.1
-WP_165773227.1,22.3897778,39.1355556,Saudi Arabia: 10 kilometers north of Thuwal,GenBank source /lat_lon qualifier: 22.3897778 N 39.1355556 E,https://www.ncbi.nlm.nih.gov/nuccore/NZ_NDXW01000001.1
+WP_165773227.1,22.3897778,39.1355556,Saudi Arabia: 10 kilometers north of Thuwal,GenBank NZ_NDXW01000001.1 /lat_lon qualifier: 22.3897778 N 39.1355556 E,https://www.ncbi.nlm.nih.gov/nuccore/NZ_NDXW01000001.1
 WP_374031472.1,Not reported,Not reported,China: Hainan,Not reported,https://www.ncbi.nlm.nih.gov/biosample/SAMN43440317
